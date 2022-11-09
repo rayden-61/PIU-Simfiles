@@ -8,11 +8,11 @@
 #GENRE:K-POP;
 #ORIGIN:;
 #CREDIT:Andamiro;
-#BANNER:../../../songs/11-EXCEED~ZERO/(2) B31 - [Remix] Diva's Remix/B31_B.png;
-#BACKGROUND:../../../songs/11-EXCEED~ZERO/(2) B31 - [Remix] Diva's Remix/B31.png;
-#PREVIEWVID:songs/11-EXCEED~ZERO/(2) B31 - [Remix] Diva's Remix/B31_P.mpg;
+#BANNER:B31_B.png;
+#BACKGROUND:B31.png;
+#PREVIEWVID:B31_P.mpg;
 #CDTITLE:;
-#MUSIC:songs/11-EXCEED~ZERO/(2) B31 - [Remix] Diva's Remix/B31.mp3;
+#MUSIC:B31.mp3;
 #OFFSET:-0.044000;
 #SAMPLESTART:19.645443;
 #SAMPLELENGTH:11.999996;

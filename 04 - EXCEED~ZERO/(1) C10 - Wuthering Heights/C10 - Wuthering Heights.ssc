@@ -8,11 +8,11 @@
 #GENRE:K-POP;
 #ORIGIN:;
 #CREDIT:Andamiro;
-#BANNER:../../../songs/11-EXCEED~ZERO/(1) C10 - Wuthering Heights/C10.png;
-#BACKGROUND:../../../songs/11-EXCEED~ZERO/(1) C10 - Wuthering Heights/C10.png;
-#PREVIEWVID:songs/11-EXCEED~ZERO/(1) C10 - Wuthering Heights/C10_P.mpg;
+#BANNER:C10.png;
+#BACKGROUND:C10.png;
+#PREVIEWVID:C10_P.mpg;
 #CDTITLE:;
-#MUSIC:songs/11-EXCEED~ZERO/(1) C10 - Wuthering Heights/C10.mp3;
+#MUSIC:C10.mp3;
 #OFFSET:-0.044000;
 #SAMPLESTART:36.668259;
 #SAMPLELENGTH:12.000000;
