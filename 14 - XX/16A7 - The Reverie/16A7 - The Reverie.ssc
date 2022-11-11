@@ -505,7 +505,7 @@
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S8;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:8;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:CONRAD;
@@ -1038,7 +1038,7 @@
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S11;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:11;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:CONRAD;
@@ -5938,7 +5938,7 @@
 00000
 ;
 
-//---------------pump-single - s20 UCS----------------
+//---------------pump-single - UCS S20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S20 UCS;
@@ -9788,7 +9788,7 @@
 00000
 ;
 
-//---------------pump-single - UCS single 23----------------
+//---------------pump-single - UCS S23----------------
 #NOTEDATA:;
 #CHARTNAME:single 23;
 #STEPSTYPE:pump-single;
@@ -11167,7 +11167,7 @@
 00000
 ;
 
-//---------------pump-double - double ucs 7----------------
+//---------------pump-double - UCS D07----------------
 #NOTEDATA:;
 #CHARTNAME:double 7;
 #STEPSTYPE:pump-double;
@@ -11620,7 +11620,7 @@
 0000303000
 ;
 
-//---------------pump-double - UCS double 11----------------
+//---------------pump-double - UCS D11----------------
 #NOTEDATA:;
 #CHARTNAME:double 11;
 #STEPSTYPE:pump-double;
@@ -20509,7 +20509,7 @@
 0000030030
 ;
 
-//---------------pump-double - UCS double 24----------------
+//---------------pump-double - UCS D24----------------
 #NOTEDATA:;
 #CHARTNAME:double 24;
 #STEPSTYPE:pump-double;

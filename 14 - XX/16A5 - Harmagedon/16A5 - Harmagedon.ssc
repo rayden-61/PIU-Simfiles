@@ -1270,7 +1270,7 @@
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S6;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:6;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:SUNNY;
@@ -2310,7 +2310,7 @@
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:10;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:SUNNY;
@@ -8388,7 +8388,7 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
+//---------------pump-single - UCS S21----------------
 #NOTEDATA:;
 #CHARTNAME:ucs;
 #STEPSTYPE:pump-single;
@@ -12321,7 +12321,7 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
+//---------------pump-single - UCS S24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -13751,7 +13751,7 @@
 33300
 ;
 
-//---------------pump-single - single ucs 24----------------
+//---------------pump-single - UCS S24----------------
 #NOTEDATA:;
 #CHARTNAME:single 24;
 #STEPSTYPE:pump-single;
@@ -17714,7 +17714,7 @@ F0F0F
 00000
 ;
 
-//---------------pump-single - S29 UCS----------------
+//---------------pump-single - UCS S29----------------
 #NOTEDATA:;
 #CHARTNAME:But Playable;
 #STEPSTYPE:pump-single;
@@ -18845,7 +18845,7 @@ F0F0F
 00000
 ;
 
-//---------------pump-double - double ucs 8----------------
+//---------------pump-double - UCS D8----------------
 #NOTEDATA:;
 #CHARTNAME:double 8;
 #STEPSTYPE:pump-double;
@@ -19277,7 +19277,7 @@ F0F0F
 0000000000
 ;
 
-//---------------pump-double - double ucs 12----------------
+//---------------pump-double - UCS D12----------------
 #NOTEDATA:;
 #CHARTNAME:double 12;
 #STEPSTYPE:pump-double;
@@ -27364,7 +27364,7 @@ F0F0F
 0000000000
 ;
 
-//---------------pump-double - ucs----------------
+//---------------pump-double - UCS D25----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:ucs;
@@ -28536,7 +28536,7 @@ F0F0F
 0000000000
 ;
 
-//---------------pump-double - double ucs 27----------------
+//---------------pump-double - UCS D27----------------
 #NOTEDATA:;
 #CHARTNAME:double 27;
 #STEPSTYPE:pump-double;

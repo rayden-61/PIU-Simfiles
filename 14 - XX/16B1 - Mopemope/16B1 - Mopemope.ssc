@@ -441,7 +441,7 @@
 #CHARTNAME:SINGLE 08;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S08 UCS;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:8;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:CREVOLOUS;
@@ -2691,11 +2691,11 @@
 00000
 ;
 
-//---------------pump-single - s11----------------
+//---------------pump-single - S11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s11;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:11;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:EXC;
@@ -3654,7 +3654,7 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
+//---------------pump-single - S15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -5256,7 +5256,7 @@
 00000
 ;
 
-//---------------pump-single - s17----------------
+//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -7214,7 +7214,7 @@
 00000
 ;
 
-//---------------pump-single - s20----------------
+//---------------pump-single - S20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s20;
@@ -10048,7 +10048,7 @@
 00000
 ;
 
-//---------------pump-single - s23----------------
+//---------------pump-single - S23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s23;
@@ -15160,7 +15160,7 @@ MMMMM
 00000
 ;
 
-//---------------pump-double - double ucs 12----------------
+//---------------pump-double - UCS D12----------------
 #NOTEDATA:;
 #CHARTNAME:double 12;
 #STEPSTYPE:pump-double;
@@ -15773,7 +15773,7 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - d16----------------
+//---------------pump-double - D16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -17373,7 +17373,7 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - d19----------------
+//---------------pump-double - D19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d19;
@@ -19103,7 +19103,7 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - d23----------------
+//---------------pump-double - D23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d23;
@@ -20901,7 +20901,7 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - Winterxo UCS d24----------------
+//---------------pump-double - UCS D24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Winterxo UCS d24;
@@ -24931,7 +24931,7 @@ M010200MM0
 0000000000
 ;
 
-//---------------pump-double - d25----------------
+//---------------pump-double - D25----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d25;
@@ -27636,7 +27636,7 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - hyeon D27 ucs----------------
+//---------------pump-double - UCS D27----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:hyeon D27 ucs;
@@ -30684,7 +30684,7 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - ucs infobar DP 6----------------
+//---------------pump-double - UCS infobar DP06----------------
 #NOTEDATA:;
 #CHARTNAME:my first freestyle chart (I think);
 #STEPSTYPE:pump-double;
