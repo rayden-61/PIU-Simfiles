@@ -30,7 +30,7 @@
 #LASTSECONDHINT:98.574234;
 #BGCHANGES:-10000.000=black.mpg=1.000=0=0=1=====,
 -12.300=205.mpg=1.000=0=0=0=StretchNoLoop====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -437,6 +437,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4;
@@ -464,382 +465,383 @@
 #LABELS:0.000000=Song Start
 ;
 #NOTES:
-// measure 0
+
 00000
 00000
 00000
 00000
-,  // measure 1
+,  
 10000
 00000
 00000
 00000
-,  // measure 2
+,  
 00001
 00000
 00000
 00000
-,  // measure 3
+,  
 01000
 00000
 00000
 00000
-,  // measure 4
+,  
 00010
 00000
 00000
 00000
-,  // measure 5
+,  
 10000
 00000
 00000
 00000
-,  // measure 6
+,  
 00001
 00000
 00000
 00000
-,  // measure 7
+,  
 01000
 00000
 00000
 00000
-,  // measure 8
+,  
 00010
 00000
 00000
 00000
-,  // measure 9
+,  
 00100
 00000
 00000
 00000
-,  // measure 10
+,  
 00001
 00000
 00000
 00000
-,  // measure 11
+,  
 10000
 00000
 00000
 00000
-,  // measure 12
+,  
 00001
 00000
 00000
 00000
-,  // measure 13
+,  
 00100
 00000
 00000
 00000
-,  // measure 14
+,  
 00010
 00000
 00000
 00000
-,  // measure 15
+,  
 01000
 00000
 00000
 00000
-,  // measure 16
+,  
 00010
 00000
 00000
 00000
-,  // measure 17
+,  
 00200
 00000
 00300
 00000
-,  // measure 18
+,  
 00001
 00000
 00001
 00000
-,  // measure 19
+,  
 00001
 00001
 00001
 00001
-,  // measure 20
+,  
 10000
 00000
 10000
 00000
-,  // measure 21
+,  
 10000
 10000
 10000
 10000
-,  // measure 22
+,  
 00010
 00000
 00010
 00000
-,  // measure 23
+,  
 00010
 00010
 00010
 00010
-,  // measure 24
+,  
 01000
 00000
 01000
 00000
-,  // measure 25
+,  
 01000
 01000
 01000
 01000
-,  // measure 26
+,  
 00001
 00000
 00001
 00000
-,  // measure 27
+,  
 00001
 00001
 00001
 00001
-,  // measure 28
+,  
 10000
 00000
 10000
 00000
-,  // measure 29
+,  
 10000
 10000
 10000
 10000
-,  // measure 30
+,  
 00100
 00000
 00100
 00000
-,  // measure 31
+,  
 00100
 00100
 00100
 00100
-,  // measure 32
+,  
 01000
 01000
 01000
 01000
-,  // measure 33
+,  
 00010
 00010
 00010
 00010
-,  // measure 34
+,  
 00100
 00000
 00000
 00000
-,  // measure 35
+,  
 00100
 00000
 00000
 00000
-,  // measure 36
+,  
 00100
 00000
 00000
 00000
-,  // measure 37
+,  
 00100
 00000
 00000
 00000
-,  // measure 38
+,  
 00001
 00000
 00000
 00000
-,  // measure 39
+,  
 00001
 00000
 00000
 00000
-,  // measure 40
+,  
 10000
 00000
 00000
 00000
-,  // measure 41
+,  
 10000
 00000
 00000
 00000
-,  // measure 42
+,  
 00010
 00000
 00000
 00000
-,  // measure 43
+,  
 00010
 00000
 00000
 00000
-,  // measure 44
+,  
 01000
 00000
 00000
 00000
-,  // measure 45
+,  
 01000
 00000
 00000
 00000
-,  // measure 46
+,  
 00100
 00000
 00000
 00000
-,  // measure 47
+,  
 00000
 00000
 00000
 00000
-,  // measure 48
+,  
 00000
 00000
 00000
 00000
-,  // measure 49
+,  
 00000
 00000
 00000
 00000
-,  // measure 50
+,  
 00100
 00000
 10000
 00100
-,  // measure 51
-10000
-00000
-00001
-00100
-,  // measure 52
-00001
-00000
-01000
-00100
-,  // measure 53
-01000
-00000
-00010
-00100
-,  // measure 54
-00010
-00000
-10000
-00001
-,  // measure 55
+,  
 10000
 00000
 00001
+00100
+,  
+00001
+00000
+01000
+00100
+,  
+01000
+00000
+00010
+00100
+,  
+00010
+00000
 10000
-,  // measure 56
+00001
+,  
+10000
+00000
+00001
+10000
+,  
 00001
 00000
 01000
 00010
-,  // measure 57
+,  
 01000
 00000
 00010
 01000
-,  // measure 58
+,  
 00010
 00000
 00100
 00001
-,  // measure 59
+,  
 10000
 00000
 00100
 10000
-,  // measure 60
+,  
 00010
 00000
 00100
 00010
-,  // measure 61
+,  
 01000
 00000
 00100
 01000
-,  // measure 62
+,  
 00001
 00000
 00100
 00001
-,  // measure 63
+,  
 00101
 00000
 00000
 00000
-,  // measure 64
+,  
 00100
 00000
 00000
 00000
-,  // measure 65
+,  
 00100
 00000
 00000
 00000
-,  // measure 66
+,  
 00010
 01000
 00010
 01000
-,  // measure 67
+,  
 00001
 10000
 00001
 10000
-,  // measure 68
+,  
 00010
 01000
 00010
 01000
-,  // measure 69
+,  
 00001
 10000
 00001
 10000
-,  // measure 70
+,  
 00010
 01000
 00001
 10000
-,  // measure 71
+,  
 00010
 01000
 00001
 10000
-,  // measure 72
+,  
 00010
 00010
 01000
 01000
-,  // measure 73
+,  
 00001
 00001
 10000
 10000
-,  // measure 74
+,  
 00200
 00000
 00300
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
@@ -1244,6 +1246,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Phantomia Impossible?;
@@ -11867,6 +11870,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Classic Hard;
 #STEPSTYPE:pump-single;
@@ -12471,10 +12475,11 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S8;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:8;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:Andamiro;
@@ -13097,6 +13102,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -13725,10 +13731,11 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S12;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:12;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:Andamiro;
@@ -14543,6 +14550,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Hard;
@@ -15963,6 +15971,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Unreleased Pro 2 Gauntlet Don't Fall Off - 4;
 #STEPSTYPE:pump-single;
@@ -16974,6 +16983,7 @@
 00000
 30303
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Lost Verus Different Feeling 4;
@@ -18385,6 +18395,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (E) Fold 7;
@@ -20160,6 +20171,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Another Crazy;
 #STEPSTYPE:pump-single;
@@ -21568,6 +21580,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin Extra Metal;
 #STEPSTYPE:pump-single;
@@ -21884,6 +21897,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Arowahi Remember Me;
@@ -23080,6 +23094,7 @@ F1FFF
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:HalfDouble 8;
 #STEPSTYPE:pump-halfdouble;
@@ -23683,6 +23698,7 @@ F1FFF
 000000
 000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
@@ -25292,6 +25308,7 @@ F1FFF
 000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP6 UCS;
@@ -25714,6 +25731,7 @@ F1FFF
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Classic Double;
@@ -26319,6 +26337,7 @@ F1FFF
 0000000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D13;
@@ -26893,6 +26912,7 @@ F1FFF
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Extra Expert Double;
@@ -27706,6 +27726,7 @@ F1FFF
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -28677,6 +28698,7 @@ F1FFF
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Prue Ocean Adversity;
@@ -30081,6 +30103,7 @@ F1FFF
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare;
@@ -31835,6 +31858,7 @@ F1FFF
 0000101000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Double 23;
 #STEPSTYPE:pump-double;
@@ -32964,6 +32988,7 @@ F1FFF
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Ehne (1st);
@@ -34883,6 +34908,7 @@ F000{1|v|0|0}0000F
 0000000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS DP Co-Op 4P;
@@ -35550,6 +35576,7 @@ xx022zz0yy
 3303333033
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 6;
@@ -36155,6 +36182,7 @@ xx022zz0yy
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
@@ -36781,6 +36809,7 @@ xx022zz0yy
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
@@ -37599,4 +37628,5 @@ xx022zz0yy
 0000000000
 0000000000
 ;
+
 

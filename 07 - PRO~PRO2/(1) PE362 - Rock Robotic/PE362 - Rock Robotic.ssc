@@ -42,7 +42,7 @@
 216.000=PE362-wide.png=1.000=1=0=1=ProTitle==CrossFade==,
 224.000=Pump It Up Pro 2/276_JumpBack_NTSC_DV.mpg=1.000=1=0=1=ProMovie==CrossFade==,
 232.000=PE362-wide.png=1.000=0=0=1=Visualization2File=Pump It Up Pro 2/306_JumpBack_NTSC_DV.mpg===,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -350,6 +350,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
@@ -661,6 +662,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Single Performance 7;
@@ -1178,6 +1180,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
@@ -1833,6 +1836,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
@@ -2524,6 +2528,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:DG *-*;
@@ -3466,6 +3471,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -4152,6 +4158,7 @@
 000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -4653,6 +4660,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
@@ -5300,6 +5308,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Routine;
@@ -6373,4 +6382,5 @@
 0000000000
 0000000000
 ;
+
 

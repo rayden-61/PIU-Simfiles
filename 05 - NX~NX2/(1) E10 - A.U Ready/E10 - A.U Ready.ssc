@@ -30,7 +30,7 @@
 #LASTSECONDHINT:94.493080;
 #BGCHANGES:-10000.000=black.mpg=1.000=0=0=1=====,
 -0.300=E10.mpg=1.000=0=0=0=StretchNoLoop====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -59,92 +59,92 @@
 #LABELS:0.000000=Song Start
 ;
 #NOTES:
-// measure 0
+
 00000
 00000
 00000
 00000
-,  // measure 1
+,  
 00000
 00000
 00000
 00000
-,  // measure 2
+,  
 00000
 00000
 00000
 00000
-,  // measure 3
+,  
 00000
 00000
 00000
 00000
-,  // measure 4
+,  
 01000
 00000
 00000
 00000
-,  // measure 5
+,  
 00010
 00000
 00000
 00000
-,  // measure 6
+,  
 10000
 00000
 10000
 00000
-,  // measure 7
+,  
 00001
 00000
 00001
 00000
-,  // measure 8
+,  
 01000
 00000
 00100
 10000
-,  // measure 9
+,  
 00010
 00000
 00100
 00001
-,  // measure 10
+,  
 01000
 00000
 00000
 00000
-,  // measure 11
+,  
 00010
 00000
 00010
 00000
-,  // measure 12
+,  
 01000
 00000
 00001
 00000
-,  // measure 13
+,  
 10000
 00000
 00010
 00100
-,  // measure 14
+,  
 00001
 00000
 01000
 00000
-,  // measure 15
+,  
 00010
 00000
 10000
 00100
-,  // measure 16
+,  
 01000
 00000
 00010
 00000
-,  // measure 17
+,  
 10000
 00000
 00000
@@ -153,17 +153,17 @@
 00000
 00300
 00000
-,  // measure 18
+,  
 00100
 10000
 00001
 00000
-,  // measure 19
+,  
 10001
 00000
 10000
 00010
-,  // measure 20
+,  
 02000
 00000
 00000
@@ -172,7 +172,7 @@
 00000
 00000
 00000
-,  // measure 21
+,  
 00020
 00000
 00000
@@ -181,17 +181,17 @@
 00000
 00000
 00000
-,  // measure 22
+,  
 10000
 00000
 10000
 00000
-,  // measure 23
+,  
 00100
 00000
 01000
 00001
-,  // measure 24
+,  
 20000
 00000
 00000
@@ -200,7 +200,7 @@
 00000
 00000
 00000
-,  // measure 25
+,  
 00002
 00000
 00000
@@ -209,62 +209,63 @@
 00000
 00000
 00000
-,  // measure 26
+,  
 01000
 00000
 01000
 00000
-,  // measure 27
+,  
 00010
 00000
 10000
 00001
-,  // measure 28
+,  
 00100
 00000
 00010
 10000
-,  // measure 29
+,  
 00100
 00000
 01000
 00001
-,  // measure 30
+,  
 10000
 00000
 10000
 00000
-,  // measure 31
+,  
 00001
 00000
 00001
 00000
-,  // measure 32
+,  
 01000
 00010
 01000
 00000
-,  // measure 33
+,  
 00100
 10000
 00001
 00000
-,  // measure 34
+,  
 00100
 00000
 00100
 00000
-,  // measure 35
+,  
 00010
 10000
 00001
 01000
-,  // measure 36
+,  
 01010
 00000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Caelum Tour;
@@ -955,6 +956,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -1176,6 +1178,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Rootinia Routine 5;
@@ -1549,10 +1552,11 @@
 ,
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:5;
 #RADARVALUES:0.265228,0.249680,0.149381,0.074691,0.000000,153.000000,14.000000,7.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.265228,0.249680,0.149381,0.074691,0.000000,153.000000,14.000000,7.000000,0.000000,0.000000,0.000000,0.000000,0.000000;
 #OFFSET:-0.029000;
@@ -1852,6 +1856,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -2330,11 +2335,12 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Cancelled Crazy;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19 Hidden;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:19;
 #RADARVALUES:0.698128,1.000000,0.042680,0.565514,0.997653,401.000000,4.000000,53.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.698128,1.000000,0.042680,0.565514,0.997653,401.000000,4.000000,53.000000,0.000000,0.000000,0.000000,0.000000,0.000000;
 #CREDIT:Andamiro;
@@ -3528,6 +3534,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Parafora Psychi Remember Me 4;
 #STEPSTYPE:pump-single;
@@ -3846,6 +3853,7 @@ F1{1|s|1|0}{1|v|1|0}0
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (SO) Find Number;
@@ -6617,6 +6625,7 @@ MMMMM
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:PP+ HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -6978,6 +6987,7 @@ MMMMM
 000001
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -7253,6 +7263,7 @@ MMMMM
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -7852,6 +7863,7 @@ MMMMM
 0000000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #CHARTNAME:Another Freestyle;
@@ -8309,6 +8321,7 @@ MMMMM
 0000000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #CHARTNAME:Another Nightmare;
@@ -8641,4 +8654,5 @@ MMMMM
 0000000000
 0000000000
 ;
+
 

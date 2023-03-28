@@ -39,7 +39,7 @@
 #LASTSECONDHINT:152.023804;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
 -2.500=008.mpg=1.000=1=1=1=StretchNoLoop==CrossFade==,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -1488,6 +1488,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:;
@@ -3264,3 +3265,5 @@
 0000000000
 0000000000
 ;
+
+

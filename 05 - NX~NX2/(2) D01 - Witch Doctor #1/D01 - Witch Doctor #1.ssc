@@ -30,7 +30,7 @@
 #LASTSECONDHINT:96.462448;
 #BGCHANGES:-40.000=black.mpg=1.000=0=0=0=StretchNoLoop====,
 -0.300=D01.mpg=1.000=0=0=0=StretchNoLoop====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -300,6 +300,7 @@
 00100
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S2;
@@ -562,6 +563,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -874,6 +876,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S5;
@@ -1169,6 +1172,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S8;
@@ -1196,27 +1200,27 @@
 #LABELS:0.000000=Song Start
 ;
 #NOTES:
-// measure 0
+
 00000
 00000
 00000
 00000
-,  // measure 1
+,  
 00000
 00000
 00000
 00000
-,  // measure 2
+,  
 00000
 00000
 00000
 00000
-,  // measure 3
+,  
 00000
 00000
 00000
 00000
-,  // measure 4
+,  
 00010
 00000
 01000
@@ -1225,7 +1229,7 @@
 10000
 00001
 00000
-,  // measure 5
+,  
 01000
 00000
 00010
@@ -1234,7 +1238,7 @@
 00001
 10000
 00000
-,  // measure 6
+,  
 01000
 00000
 10000
@@ -1243,7 +1247,7 @@
 00100
 00010
 00000
-,  // measure 7
+,  
 01000
 00000
 00000
@@ -1260,16 +1264,7 @@
 00000
 00100
 00000
-,  // measure 8
-00010
-00000
-01000
-00000
-00001
-00000
-00101
-10000
-,  // measure 9
+,  
 00010
 00000
 01000
@@ -1278,7 +1273,16 @@
 00000
 00101
 10000
-,  // measure 10
+,  
+00010
+00000
+01000
+00000
+00001
+00000
+00101
+10000
+,  
 00010
 00000
 01000
@@ -1287,12 +1291,12 @@
 10000
 00001
 00000
-,  // measure 11
+,  
 20002
 00000
 00000
 30003
-,  // measure 12
+,  
 01000
 00000
 00000
@@ -1309,7 +1313,7 @@
 00000
 10000
 00000
-,  // measure 13
+,  
 00010
 00000
 00000
@@ -1326,7 +1330,7 @@
 00000
 00001
 00000
-,  // measure 14
+,  
 01000
 00000
 00000
@@ -1343,7 +1347,7 @@
 00000
 10000
 00000
-,  // measure 15
+,  
 00010
 00010
 00100
@@ -1352,7 +1356,7 @@
 01000
 00100
 10000
-,  // measure 16
+,  
 00010
 00000
 00000
@@ -1369,7 +1373,7 @@
 00000
 00100
 00000
-,  // measure 17
+,  
 01000
 10000
 00010
@@ -1378,7 +1382,7 @@
 00010
 01000
 00100
-,  // measure 18
+,  
 01000
 00000
 00000
@@ -1395,7 +1399,7 @@
 00000
 00100
 00000
-,  // measure 19
+,  
 00010
 00001
 01000
@@ -1404,24 +1408,7 @@
 01000
 00010
 00100
-,  // measure 20
-00001
-00000
-00000
-00001
-00000
-00000
-00001
-00000
-01000
-00000
-00100
-00000
-10000
-00000
-10100
-00000
-,  // measure 21
+,  
 00001
 00000
 00000
@@ -1438,7 +1425,7 @@
 00000
 10100
 00000
-,  // measure 22
+,  
 00001
 00000
 00000
@@ -1455,7 +1442,24 @@
 00000
 10100
 00000
-,  // measure 23
+,  
+00001
+00000
+00000
+00001
+00000
+00000
+00001
+00000
+01000
+00000
+00100
+00000
+10000
+00000
+10100
+00000
+,  
 00002
 00003
 02000
@@ -1464,7 +1468,7 @@
 00030
 20000
 30000
-,  // measure 24
+,  
 10100
 00000
 10000
@@ -1473,32 +1477,32 @@
 00101
 10000
 00000
-,  // measure 25
+,  
 10001
 00000
 00000
 00000
-,  // measure 26
+,  
 10000
 00000
 00000
 00000
-,  // measure 27
+,  
 00001
 00000
 00000
 00000
-,  // measure 28
+,  
 10000
 00000
 00000
 00000
-,  // measure 29
+,  
 20002
 00000
 00000
 30003
-,  // measure 30
+,  
 01000
 00000
 00000
@@ -1515,7 +1519,7 @@
 00000
 00100
 00000
-,  // measure 31
+,  
 00010
 00001
 01000
@@ -1524,7 +1528,7 @@
 01000
 00001
 10000
-,  // measure 32
+,  
 00010
 00000
 00000
@@ -1541,7 +1545,7 @@
 00000
 00100
 00000
-,  // measure 33
+,  
 01000
 10000
 00010
@@ -1550,7 +1554,7 @@
 00010
 10000
 00001
-,  // measure 34
+,  
 00100
 00000
 00000
@@ -1567,7 +1571,7 @@
 00000
 10000
 00000
-,  // measure 35
+,  
 00100
 00000
 00000
@@ -1584,7 +1588,7 @@
 00000
 00001
 00000
-,  // measure 36
+,  
 01000
 00000
 00000
@@ -1601,7 +1605,7 @@
 00000
 00010
 00000
-,  // measure 37
+,  
 01100
 00000
 00000
@@ -1610,7 +1614,7 @@
 00100
 01010
 00000
-,  // measure 38
+,  
 01000
 00100
 01000
@@ -1619,7 +1623,7 @@
 00001
 10000
 00001
-,  // measure 39
+,  
 00100
 00010
 00100
@@ -1628,7 +1632,7 @@
 00100
 01000
 00000
-,  // measure 40
+,  
 00010
 00100
 00010
@@ -1637,7 +1641,7 @@
 10000
 00001
 10000
-,  // measure 41
+,  
 00010
 00001
 01000
@@ -1646,7 +1650,7 @@
 01000
 00001
 10000
-,  // measure 42
+,  
 00010
 00001
 00100
@@ -1655,7 +1659,7 @@
 00100
 10000
 01000
-,  // measure 43
+,  
 00100
 10000
 01000
@@ -1664,7 +1668,7 @@
 01000
 10000
 00000
-,  // measure 44
+,  
 01000
 10000
 00100
@@ -1673,7 +1677,7 @@
 00100
 00001
 00010
-,  // measure 45
+,  
 00100
 00001
 00010
@@ -1682,17 +1686,18 @@
 00010
 00001
 00000
-,  // measure 46
+,  
 00011
 00000
 00000
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:9;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:Andamiro;
@@ -2124,10 +2129,11 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S16;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:16;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:Andamiro;
@@ -4441,6 +4447,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Parafora Psychi Survival 2;
 #STEPSTYPE:pump-single;
@@ -5324,6 +5331,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Hard;
@@ -6267,6 +6275,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:UCS;
 #STEPSTYPE:pump-single;
@@ -7198,6 +7207,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Paris (1st);
@@ -8151,6 +8161,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Crazy;
@@ -9496,6 +9507,7 @@
 00300
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Asuncion (1st);
 #STEPSTYPE:pump-single;
@@ -10618,6 +10630,7 @@ M0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Single 20;
@@ -11786,6 +11799,7 @@ M0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia * Hidden Parts (Path A);
@@ -16298,6 +16312,7 @@ F0000
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia * Hidden Parts (Path B);
 #STEPSTYPE:pump-single;
@@ -20808,6 +20823,7 @@ F0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia * Hidden Parts (Path C);
@@ -25320,6 +25336,7 @@ F0000
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia * Hidden Parts (Path D);
 #STEPSTYPE:pump-single;
@@ -29830,6 +29847,7 @@ F0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia * Hidden Parts (Path E);
@@ -34342,6 +34360,7 @@ F0000
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia * Hidden Parts (Path F);
 #STEPSTYPE:pump-single;
@@ -35534,6 +35553,7 @@ F0000
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -36170,6 +36190,7 @@ M000M0
 000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain Give me love;
 #STEPSTYPE:pump-double;
@@ -36578,6 +36599,7 @@ M000M0
 0000000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP;
@@ -36936,6 +36958,7 @@ M000M0
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Freestyle;
@@ -37726,6 +37749,7 @@ M000M0
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Parafora Psychi Survival 3;
@@ -38571,6 +38595,7 @@ M000M0
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -41321,6 +41346,7 @@ M000M0
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare;
 #STEPSTYPE:pump-double;
@@ -42897,6 +42923,7 @@ M000M0
 0000000300
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Arowahi * Hidden Parts 2 (Path F);
 #STEPSTYPE:pump-double;
@@ -44090,6 +44117,7 @@ M000000000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Arowahi * Hidden Parts 2 (Path A);
@@ -45285,6 +45313,7 @@ M000000000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Arowahi * Hidden Parts 2 (Path B);
 #STEPSTYPE:pump-double;
@@ -46478,6 +46507,7 @@ M000000000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Arowahi * Hidden Parts 2 (Path C);
@@ -47673,6 +47703,7 @@ F000000000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Arowahi * Hidden Parts 2 (Path D);
 #STEPSTYPE:pump-double;
@@ -48866,6 +48897,7 @@ M000000000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Arowahi * Hidden Parts 2 (Path E);
@@ -50061,6 +50093,7 @@ F000000000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Harena G-Sand;
 #STEPSTYPE:pump-double;
@@ -50510,6 +50543,7 @@ F000000000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Yasangma (2nd);
@@ -51441,4 +51475,5 @@ X0000000Y0
 0000000000
 0000000000
 ;
+
 

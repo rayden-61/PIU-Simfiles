@@ -30,7 +30,7 @@
 #LASTSECONDHINT:99.051071;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
 -0.300=F10.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -61,202 +61,203 @@
 #LABELS:0.000000=Song Start
 ;
 #NOTES:
-// measure 0
+
 00000
 00000
 00000
 00000
-,  // measure 1
+,  
 00000
 00000
 00000
 00000
-,  // measure 2
+,  
 00010
 00000
 00001
 00000
-,  // measure 3
+,  
 01000
 00000
 10000
 00000
-,  // measure 4
+,  
 00010
 00000
 00001
 00000
-,  // measure 5
+,  
 01000
 00000
 10000
 00000
-,  // measure 6
+,  
 00100
 00000
 00001
 00000
-,  // measure 7
+,  
 00100
 00000
 10000
 00000
-,  // measure 8
+,  
 00100
 00000
 00001
 00000
-,  // measure 9
+,  
 00100
 00000
 10000
 00000
-,  // measure 10
+,  
 00010
 00000
 00100
 00000
-,  // measure 11
+,  
 01000
 00000
 00100
 00000
-,  // measure 12
+,  
 00010
 00000
 00100
 00000
-,  // measure 13
+,  
 01000
 00000
 00100
 00000
-,  // measure 14
+,  
 01010
 00000
 00000
 00000
-,  // measure 15
+,  
 01010
 00000
 00000
 00000
-,  // measure 16
+,  
 01010
 00000
 00000
 00000
-,  // measure 17
+,  
 01010
 00000
 00000
 00000
-,  // measure 18
+,  
 10001
 00000
 00000
 00000
-,  // measure 19
+,  
 10001
 00000
 00000
 00000
-,  // measure 20
+,  
 10001
 00000
 00000
 00000
-,  // measure 21
+,  
 10001
 00000
 00000
 00000
-,  // measure 22
+,  
 00010
 00000
 00001
 00000
-,  // measure 23
+,  
 01000
 00000
 10000
 00000
-,  // measure 24
+,  
 00010
 00000
 00001
 00000
-,  // measure 25
+,  
 01000
 00000
 10000
 00000
-,  // measure 26
+,  
 00010
 00000
 00100
 00000
-,  // measure 27
+,  
 01000
 00000
 00100
 00000
-,  // measure 28
+,  
 00010
 00000
 00100
 00000
-,  // measure 29
+,  
 01000
 00000
 00100
 00000
-,  // measure 30
+,  
 01010
 00000
 00000
 00000
-,  // measure 31
+,  
 01010
 00000
 00000
 00000
-,  // measure 32
+,  
 01010
 00000
 00000
 00000
-,  // measure 33
+,  
 01010
 00000
 00000
 00000
-,  // measure 34
+,  
 10001
 00000
 00000
 00000
-,  // measure 35
+,  
 10001
 00000
 00000
 00000
-,  // measure 36
+,  
 10001
 00000
 00000
 00000
-,  // measure 37
+,  
 10001
 00000
 00000
 00000
-,  // measure 38
+,  
 10010
 00000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -481,6 +482,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4 Fiesta;
@@ -703,6 +705,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Rootinia Sandglass;
@@ -1534,6 +1537,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -1857,11 +1861,12 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (N) Multiple;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Single Quest;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:7;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #OFFSET:-0.070000;
@@ -2313,10 +2318,11 @@ M0000
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:13;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:Andamiro;
@@ -2972,6 +2978,7 @@ M0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -5494,6 +5501,7 @@ M0000
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:PP+ Half-Double;
 #STEPSTYPE:pump-halfdouble;
@@ -6291,6 +6299,7 @@ M0000
 000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP;
@@ -6637,6 +6646,7 @@ M0000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -7318,6 +7328,7 @@ M0000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Infiniti Musica ForWamm;
@@ -8156,4 +8167,5 @@ M0000
 0000001010
 0000000000
 ;
+
 

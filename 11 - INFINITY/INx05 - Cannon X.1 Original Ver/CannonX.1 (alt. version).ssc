@@ -11,7 +11,6 @@
 #BANNER:CannonX.1-banner2.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #BACKGROUND:CannonX.1-bg2.png;
-#PREVIEWVID:SongMovies/IN002.mpg;
 #JACKET:;
 #CDIMAGE:;
 #DISCIMAGE:;
@@ -1274,6 +1273,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:;
@@ -2671,4 +2671,5 @@
 0000000000
 0000000000
 ;
+
 

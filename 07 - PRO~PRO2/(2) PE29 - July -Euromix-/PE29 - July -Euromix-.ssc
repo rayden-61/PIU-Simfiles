@@ -29,7 +29,7 @@
 #LABELS:0.000=Song Start;
 #BGCHANGES:-10000.000=songbackground=1.000=0=0=1=====,
 -0.300=PE29.mpg=1.000=1=0=1===CrossFade==,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -396,6 +396,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -759,6 +760,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
@@ -1287,6 +1289,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
@@ -2272,6 +2275,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -3169,6 +3173,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -3564,6 +3569,7 @@
 000000
 000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
@@ -4120,6 +4126,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
@@ -5056,4 +5063,5 @@
 0000000000
 0000000000
 ;
+
 

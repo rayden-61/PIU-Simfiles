@@ -30,7 +30,7 @@
 #LABELS:0.000=Song Start;
 #LASTSECONDHINT:100.880753;
 #BGCHANGES:-0.350=103.mpg=1.000=0=0=0=StretchNoLoop====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -346,6 +346,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Seoul (1st);
 #STEPSTYPE:pump-single;
@@ -375,12 +376,12 @@
 ;
 #DISPLAYBPM:138.000000;
 #NOTES:
-// measure 0
+
 00000
 00200
 00000
 00000
-,  // measure 1
+,  
 00000
 00000
 00000
@@ -397,12 +398,12 @@
 00000
 00000
 00000
-,  // measure 2
+,  
 00001
 10000
 10000
 00001
-,  // measure 3
+,  
 00001
 00000
 00000
@@ -419,7 +420,7 @@
 00000
 00100
 00000
-,  // measure 4
+,  
 01000
 00000
 01000
@@ -436,7 +437,7 @@
 00000
 00010
 00000
-,  // measure 5
+,  
 10000
 00100
 10000
@@ -453,7 +454,7 @@
 00000
 00000
 00000
-,  // measure 6
+,  
 10000
 00000
 00000
@@ -470,7 +471,7 @@
 00000
 00001
 00000
-,  // measure 7
+,  
 10000
 00000
 10000
@@ -487,7 +488,7 @@
 00100
 00100
 00100
-,  // measure 8
+,  
 01000
 01000
 01000
@@ -496,7 +497,7 @@
 00010
 00010
 00010
-,  // measure 9
+,  
 10000
 10000
 10000
@@ -505,7 +506,7 @@
 00001
 00001
 00001
-,  // measure 10
+,  
 01000
 00000
 00000
@@ -522,7 +523,7 @@
 00001
 01000
 00001
-,  // measure 11
+,  
 00100
 00100
 00000
@@ -539,7 +540,7 @@
 00000
 00000
 00000
-,  // measure 12
+,  
 00100
 00000
 00000
@@ -548,7 +549,7 @@
 00010
 00010
 00000
-,  // measure 13
+,  
 01000
 00000
 01000
@@ -565,12 +566,13 @@
 10000
 00001
 00100
-,  // measure 14
+,  
 01010
 00000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Rootinia Basic;
@@ -1143,6 +1145,7 @@
 ,
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:FBC Hard;
 #STEPSTYPE:pump-single;
@@ -1493,6 +1496,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Single 6;
@@ -1894,11 +1898,12 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:PP+ Hard;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS 2;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:7;
 #RADARVALUES:0.406356,0.380560,0.417451,0.058249,0.000000,244.000000,43.000000,6.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.406356,0.380560,0.417451,0.058249,0.000000,244.000000,43.000000,6.000000,0.000000,0.000000,0.000000,0.000000,0.000000;
 #CREDIT:POPS;
@@ -2332,6 +2337,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:FBC Crazy;
@@ -3146,6 +3152,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Single 14 UCS;
 #STEPSTYPE:pump-single;
@@ -3862,6 +3869,7 @@
 00000
 00300
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -4672,6 +4680,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Lost Verus Old Skool;
@@ -5514,6 +5523,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Luman Ocean Voyage 2;
 #STEPSTYPE:pump-single;
@@ -5828,6 +5838,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:PP+ HDB;
@@ -6260,6 +6271,7 @@
 000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:FBC Freestyle;
 #STEPSTYPE:pump-double;
@@ -6574,6 +6586,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -6933,6 +6946,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:PP+ Freestyle;
@@ -7364,6 +7378,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Double 7;
@@ -7824,6 +7839,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -8583,6 +8599,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Barharn Hyper Combo;
@@ -9491,6 +9508,7 @@
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Love;
 #STEPSTYPE:pump-double;
@@ -10396,4 +10414,5 @@
 0000000000
 0300300000
 ;
+
 

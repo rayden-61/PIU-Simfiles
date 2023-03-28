@@ -30,7 +30,7 @@
 #LABELS:0.000=Song Start;
 #LASTSECONDHINT:112.414993;
 #BGCHANGES:-0.350=512.mpg=1.000=0=0=0=StretchNoLoop====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -303,6 +303,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -774,6 +775,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -1481,6 +1483,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Single 15 UCS;
@@ -2318,6 +2321,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Single 18;
@@ -3162,6 +3166,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -4315,6 +4320,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -5671,6 +5677,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:HalfDouble 5;
 #STEPSTYPE:pump-halfdouble;
@@ -6189,6 +6196,7 @@
 000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -6659,6 +6667,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -7348,6 +7357,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Double 16;
@@ -8082,6 +8092,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare v2.0;
@@ -9373,6 +9384,7 @@
 0000000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D19;
@@ -10235,3 +10247,5 @@
 0000000000
 0000000000
 ;
+
+

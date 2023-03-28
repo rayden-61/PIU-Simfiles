@@ -31,7 +31,7 @@
 #LASTSECONDHINT:105.543411;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
 -0.300=D10.mpg=1.000=0=0=0=StretchNoLoop====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -69,252 +69,252 @@
 ;
 #DISPLAYBPM:101.000000:138.000000;
 #NOTES:
-// measure 0
+
 00000
 00000
 00000
 00000
-,  // measure 1
+,  
 00000
 00000
 00000
 00000
-,  // measure 2
+,  
 00000
 00000
 00000
 00000
-,  // measure 3
+,  
 00100
 00000
 00100
 00000
-,  // measure 4
+,  
 10001
 00000
 00000
 00000
-,  // measure 5
+,  
 01000
 00000
 00100
 00000
-,  // measure 6
+,  
 01100
 00000
 00000
 00000
-,  // measure 7
+,  
 00002
 00000
 00003
 00000
-,  // measure 8
+,  
 20000
 00000
 30000
 00000
-,  // measure 9
+,  
 00100
 00000
 00100
 00000
-,  // measure 10
+,  
 10001
 00000
 00000
 00000
-,  // measure 11
+,  
 00001
 00000
 00100
 00000
-,  // measure 12
+,  
 00101
 00000
 00000
 00000
-,  // measure 13
+,  
 10000
 00000
 00100
 00000
-,  // measure 14
+,  
 10100
 00000
 00000
 00000
-,  // measure 15
+,  
 10010
 00000
 00000
 00000
-,  // measure 16
+,  
 01001
 00000
 00000
 00000
-,  // measure 17
+,  
 00000
 00000
 00000
 00000
-,  // measure 18
+,  
 00100
 00000
 00000
 00000
-,  // measure 19
+,  
 00001
 00000
 10000
 00000
-,  // measure 20
+,  
 00001
 00000
 10000
 00000
-,  // measure 21
+,  
 00100
 00000
 10000
 00000
-,  // measure 22
+,  
 10100
 00000
 00000
 00000
-,  // measure 23
+,  
 00001
 00000
 01000
 00000
-,  // measure 24
+,  
 00001
 00000
 00100
 00000
-,  // measure 25
+,  
 00001
 00000
 10000
 00000
-,  // measure 26
+,  
 00101
 00000
 00000
 00000
-,  // measure 27
+,  
 00110
 00000
 01100
 00000
-,  // measure 28
+,  
 10010
 00000
 01001
 00000
-,  // measure 29
+,  
 00200
 00000
 00300
 00000
-,  // measure 30
+,  
 00200
 00000
 00300
 00000
-,  // measure 31
+,  
 00200
 00000
 00300
 00000
-,  // measure 32
+,  
 00200
 00000
 00300
 00000
-,  // measure 33
+,  
 10000
 00000
 00100
 00000
-,  // measure 34
+,  
 20000
 30000
 00000
 00000
-,  // measure 35
+,  
 00002
 00003
 00100
 00000
-,  // measure 36
+,  
 00001
 00000
 00000
 00000
-,  // measure 37
+,  
 10001
 00000
 00100
 00000
-,  // measure 38
+,  
 01010
 00000
 00100
 00000
-,  // measure 39
+,  
 00001
 00000
 10000
 00000
-,  // measure 40
+,  
 00100
 00000
 00000
 00000
-,  // measure 41
+,  
 10000
 00000
 00010
 00000
-,  // measure 42
+,  
 00100
 00000
 00000
 00000
-,  // measure 43
+,  
 00001
 00000
 01000
 00000
-,  // measure 44
+,  
 00100
 00000
 00000
 00000
-,  // measure 45
+,  
 10001
 00000
 00000
 00000
-,  // measure 46
+,  
 00001
 00000
 00100
 00000
-,  // measure 47
+,  
 10000
 00000
 00100
 00000
-,  // measure 48
+,  
 00001
 00000
 00000
 00000
-,  // measure 49
+,  
 00200
 00300
 00000
@@ -324,6 +324,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -632,6 +633,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain Dull Tension 2;
@@ -982,6 +984,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -1711,11 +1714,12 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Cryomiston Ice T;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Single Quest;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:7;
 #RADARVALUES:0.342857,0.335714,0.695238,0.104762,0.171429,168.000000,73.000000,11.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.342857,0.335714,0.695238,0.104762,0.171429,168.000000,73.000000,11.000000,0.000000,0.000000,0.000000,0.000000,0.000000;
 #CREDIT:Andamiro;
@@ -2110,10 +2114,11 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:13;
 #RADARVALUES:0.598639,0.671667,0.761905,0.333333,0.723810,311.000000,80.000000,35.000000,0.000000,14.000000,0.000000,0.000000,0.000000,0.598639,0.671667,0.761905,0.333333,0.723810,311.000000,80.000000,35.000000,0.000000,14.000000,0.000000,0.000000,0.000000;
 #CREDIT:Andamiro;
@@ -2928,6 +2933,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain BxB (Cancelled);
 #STEPSTYPE:pump-single;
@@ -3698,6 +3704,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain Life G;
 #STEPSTYPE:pump-single;
@@ -4419,6 +4426,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Cancun (2nd);
@@ -5276,6 +5284,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -6812,6 +6821,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -7193,6 +7203,7 @@
 000000
 000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -7598,6 +7609,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain Life G (Cancelled);
@@ -8325,6 +8337,7 @@
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain BxB;
 #STEPSTYPE:pump-double;
@@ -9002,6 +9015,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -9812,6 +9826,7 @@
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Double 20;
 #STEPSTYPE:pump-double;
@@ -10461,6 +10476,7 @@
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:COOP 3x;
 #STEPSTYPE:pump-double;
@@ -10983,4 +10999,5 @@ YYYZZZZXXX
 0000000000
 0000000000
 ;
+
 

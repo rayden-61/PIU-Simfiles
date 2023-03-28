@@ -73,7 +73,7 @@
 268.500=Pump It Up Pro 2/ferris_wheel.mpg=1.000=1=0=1=ProMovie==CrossFade==,
 271.500=PE366F-muffin.png=1.000=1=0=1=ProTitle==CrossFade==,
 272.250=PE366F-wide.png=1.000=1=0=1=ProTitle==CrossFade==,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -1385,3 +1385,5 @@
 00000
 00000
 ;
+
+

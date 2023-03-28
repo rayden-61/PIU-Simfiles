@@ -31,7 +31,7 @@
 #LASTSECONDHINT:149.992905;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
 -0.100=012.mpg=1.000=0=0=1=StretchNormal====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -1067,6 +1067,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -3200,6 +3201,7 @@ F0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -6256,6 +6258,7 @@ F000F
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D21;
@@ -8387,6 +8390,7 @@ F000000000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -11439,4 +11443,5 @@ F000000000
 0000000000
 0000000000
 ;
+
 

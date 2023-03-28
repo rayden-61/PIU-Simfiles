@@ -30,7 +30,7 @@
 #LASTSECONDHINT:100.542809;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
 -0.300=F05.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -60,257 +60,258 @@
 #LABELS:0.000000=Song Start
 ;
 #NOTES:
-// measure 0
+
 00000
 00000
 00000
 00000
-,  // measure 1
+,  
 00000
 00000
 00000
 00000
-,  // measure 2
+,  
 00000
 00000
 00000
 00000
-,  // measure 3
+,  
 00100
 00000
 00000
 00000
-,  // measure 4
+,  
 10000
 00000
 00000
 00000
-,  // measure 5
+,  
 00001
 00000
 00000
 00000
-,  // measure 6
+,  
 10000
 00000
 00000
 00000
-,  // measure 7
+,  
 00001
 00000
 00000
 00000
-,  // measure 8
+,  
 01000
 00000
 00000
 00000
-,  // measure 9
+,  
 01000
 00000
 00000
 00000
-,  // measure 10
+,  
 01000
 00000
 00000
 00000
-,  // measure 11
+,  
 01000
 00000
 00000
 00000
-,  // measure 12
+,  
 00010
 00000
 00000
 00000
-,  // measure 13
+,  
 00010
 00000
 00000
 00000
-,  // measure 14
+,  
 00010
 00000
 00000
 00000
-,  // measure 15
+,  
 00010
 00000
 00000
 00000
-,  // measure 16
+,  
 10000
 00000
 00000
 00000
-,  // measure 17
+,  
 00001
 00000
 00000
 00000
-,  // measure 18
+,  
 10000
 00000
 00000
 00000
-,  // measure 19
+,  
 00001
 00000
 00000
 00000
-,  // measure 20
+,  
 01000
 00000
 00000
 00000
-,  // measure 21
+,  
 00010
 00000
 00000
 00000
-,  // measure 22
+,  
 01000
 00000
 00000
 00000
-,  // measure 23
+,  
 00010
 00000
 00000
 00000
-,  // measure 24
+,  
 10000
 00000
 00000
 00000
-,  // measure 25
+,  
 00100
 00000
 00000
 00000
-,  // measure 26
+,  
 10000
 00000
 00000
 00000
-,  // measure 27
+,  
 00100
 00000
 00000
 00000
-,  // measure 28
+,  
 00001
 00000
 00000
 00000
-,  // measure 29
+,  
 00100
 00000
 00000
 00000
-,  // measure 30
+,  
 00001
 00000
 00000
 00000
-,  // measure 31
+,  
 00100
 00000
 00000
 00000
-,  // measure 32
+,  
 01000
 00000
 00000
 00000
-,  // measure 33
+,  
 01000
 00000
 00000
 00000
-,  // measure 34
+,  
 01000
 00000
 00000
 00000
-,  // measure 35
+,  
 01000
 00000
 00000
 00000
-,  // measure 36
+,  
 00010
 00000
 00000
 00000
-,  // measure 37
+,  
 00010
 00000
 00000
 00000
-,  // measure 38
+,  
 00010
 00000
 00000
 00000
-,  // measure 39
+,  
 00010
 00000
 00000
 00000
-,  // measure 40
+,  
 10000
 00000
 00000
 00000
-,  // measure 41
+,  
 00001
 00000
 00000
 00000
-,  // measure 42
+,  
 01000
 00000
 00000
 00000
-,  // measure 43
+,  
 00010
 00000
 00000
 00000
-,  // measure 44
+,  
 10000
 00000
 00000
 00000
-,  // measure 45
+,  
 00001
 00000
 00000
 00000
-,  // measure 46
+,  
 01000
 00000
 00000
 00000
-,  // measure 47
+,  
 00010
 00000
 00000
 00000
-,  // measure 48
+,  
 00100
 00000
 00000
 00000
-,  // measure 49
+,  
 01010
 00000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -590,6 +591,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Caelum Boring Time;
 #STEPSTYPE:pump-single;
@@ -840,6 +842,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -1124,10 +1127,11 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6 Fiesta Steps;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:6;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:Andamiro;
@@ -1483,11 +1487,12 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (AB) Bye;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Single Quest;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:13;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #OFFSET:-0.060000;
@@ -2306,6 +2311,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -3068,6 +3074,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
@@ -4224,6 +4231,7 @@
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:PP+ HDB;
 #STEPSTYPE:pump-halfdouble;
@@ -4872,6 +4880,7 @@
 000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP;
@@ -5189,6 +5198,7 @@
 0000000000
 0000003000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -5751,6 +5761,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
@@ -6613,6 +6624,7 @@
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Ladania PhantomOS;
@@ -7588,6 +7600,7 @@
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Harena GS Desert;
 #STEPSTYPE:pump-double;
@@ -7927,4 +7940,5 @@
 0000000000
 0000000000
 ;
+
 

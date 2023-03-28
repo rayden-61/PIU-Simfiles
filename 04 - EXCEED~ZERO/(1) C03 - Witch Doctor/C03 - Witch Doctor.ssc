@@ -30,7 +30,7 @@
 #LASTSECONDHINT:89.928650;
 #BGCHANGES:-50.000=black.mpg=1.000=1=0=1===CrossFade==,
 -0.300=C03.mpg=1.000=0=0=0=StretchNoLoop====,
-99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+99999=-nosongbg-=1.000=0=0=0 
 ;
 
 #NOTEDATA:;
@@ -420,6 +420,7 @@
 00100
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4;
@@ -797,6 +798,7 @@
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
@@ -1193,6 +1195,7 @@
 10001
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S6;
@@ -1220,252 +1223,252 @@
 #LABELS:0.000000=Song Start
 ;
 #NOTES:
-// measure 0
+
 00000
 00000
 00000
 00000
-,  // measure 1
+,  
 00000
 00000
 00000
 00000
-,  // measure 2
+,  
 00000
 00000
 00000
 00000
-,  // measure 3
+,  
 00000
 00000
 00000
 00000
-,  // measure 4
+,  
 00000
 00000
 00000
 00000
-,  // measure 5
+,  
 00000
 00000
 00000
 00000
-,  // measure 6
+,  
 00000
 00000
 00000
 00000
-,  // measure 7
+,  
 00000
 00000
 00000
 00000
-,  // measure 8
+,  
 10000
 00100
 01000
 00001
-,  // measure 9
+,  
 01000
 00100
 10000
 00000
-,  // measure 10
+,  
 00001
 00100
 00010
 10000
-,  // measure 11
+,  
 00010
 00100
 00001
 00000
-,  // measure 12
+,  
 01000
 00100
 10000
 00010
-,  // measure 13
+,  
 10000
 00100
 01000
 00000
-,  // measure 14
+,  
 00010
 00100
 00001
 01000
-,  // measure 15
+,  
 00001
 00100
 00010
 00000
-,  // measure 16
+,  
 00010
 10000
 00100
 01000
-,  // measure 17
+,  
 00001
 01000
 00100
 00000
-,  // measure 18
+,  
 01000
 00001
 00100
 00010
-,  // measure 19
+,  
 10000
 00010
 00100
 00000
-,  // measure 20
+,  
 00001
 01000
 00010
 00000
-,  // measure 21
+,  
 10000
 00010
 01000
 00000
-,  // measure 22
+,  
 00010
 01000
 00010
 00000
-,  // measure 23
+,  
 02020
 00000
 03030
 00000
-,  // measure 24
+,  
 01000
 00000
 00000
 00000
-,  // measure 25
+,  
 00010
 00000
 00000
 00000
-,  // measure 26
+,  
 10000
 00000
 00000
 00000
-,  // measure 27
+,  
 00001
 00000
 00000
 00000
-,  // measure 28
+,  
 10000
 00010
 10000
 00010
-,  // measure 29
+,  
 01000
 00001
 01000
 00001
-,  // measure 30
+,  
 10000
 00010
 10000
 00010
-,  // measure 31
+,  
 01000
 00001
 01000
 00001
-,  // measure 32
+,  
 10000
 00010
 01000
 00000
-,  // measure 33
+,  
 00001
 01000
 00010
 00000
-,  // measure 34
+,  
 01000
 00010
 10000
 00000
-,  // measure 35
+,  
 00010
 01000
 00001
 01000
-,  // measure 36
+,  
 00010
 00100
 00001
 10000
-,  // measure 37
+,  
 10001
 00000
 00000
 00000
-,  // measure 38
+,  
 00000
 00000
 00000
 00000
-,  // measure 39
+,  
 00000
 00000
 00000
 00000
-,  // measure 40
+,  
 00000
 00000
 00000
 00000
-,  // measure 41
+,  
 00000
 00000
 00000
 00000
-,  // measure 42
+,  
 01000
 01000
 00100
 10000
-,  // measure 43
+,  
 00001
 00100
 00010
 01000
-,  // measure 44
+,  
 00010
 00010
 00100
 00001
-,  // measure 45
+,  
 10000
 00100
 01000
 00010
-,  // measure 46
+,  
 01000
 01000
 00010
 10000
-,  // measure 47
+,  
 00010
 00010
 01000
 00001
-,  // measure 48
+,  
 01000
 01000
 00010
 00010
-,  // measure 49
+,  
 02020
 03030
 00000
@@ -1474,7 +1477,7 @@
 00000
 00000
 00000
-,  // measure 50
+,  
 02020
 03030
 00000
@@ -1483,7 +1486,7 @@
 00000
 00000
 00000
-,  // measure 51
+,  
 02020
 03030
 00000
@@ -1492,103 +1495,104 @@
 00000
 00000
 00000
-,  // measure 52
+,  
 01000
 01000
 00010
 00010
-,  // measure 53
+,  
 10000
 00010
 10000
 00010
-,  // measure 54
+,  
 00001
 01000
 00001
 01000
-,  // measure 55
+,  
 10000
 00010
 10000
 00010
-,  // measure 56
+,  
 00001
 01000
 00001
 01000
-,  // measure 57
+,  
 10000
 00010
 10000
 00010
-,  // measure 58
+,  
 01000
 00001
 01000
 00001
-,  // measure 59
+,  
 10000
 00010
 10000
 00010
-,  // measure 60
+,  
 01000
 00001
 01000
 00001
-,  // measure 61
+,  
 10000
 00010
 10000
 00010
-,  // measure 62
+,  
 00001
 01000
 00001
 01000
-,  // measure 63
+,  
 10000
 00010
 10000
 00010
-,  // measure 64
+,  
 00001
 01000
 00001
 01000
-,  // measure 65
+,  
 10000
 00010
 01000
 00001
-,  // measure 66
+,  
 10000
 00010
 01000
 00001
-,  // measure 67
+,  
 10000
 00010
 00001
 01000
-,  // measure 68
+,  
 10000
 00010
 00001
 01000
-,  // measure 69
+,  
 01100
 00000
 00000
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin Manufacturing T;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Single Quest;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Medium;
 #METER:9;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:Andamiro;
@@ -2867,6 +2871,7 @@ MMMMM
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -3462,6 +3467,7 @@ MMMMM
 00000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10;
@@ -4050,11 +4056,12 @@ MMMMM
 30000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia Ghost;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Single Quest;
-#DIFFICULTY:Edit;
+#DIFFICULTY:Hard;
 #METER:11;
 #RADARVALUES:-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000,-1.000000;
 #CREDIT:Andamiro;
@@ -5355,6 +5362,7 @@ F0000
 ,
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -6406,6 +6414,7 @@ F0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Hard;
@@ -7977,6 +7986,7 @@ F0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM Lost Verus Different Feeling 3;
@@ -9574,6 +9584,7 @@ F0000
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone BOSS EXC Step;
 #STEPSTYPE:pump-single;
@@ -10711,6 +10722,7 @@ F0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Crazy;
@@ -12070,6 +12082,7 @@ F0000
 00000
 00000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (LU) Bomb Bomb Bomb!;
@@ -13714,6 +13727,7 @@ M0000
 00000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -14429,6 +14443,7 @@ M0000
 000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:Double Performance 3;
 #STEPSTYPE:pump-double;
@@ -14808,6 +14823,7 @@ M0000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain Impossible is nothing;
 #STEPSTYPE:pump-double;
@@ -15172,6 +15188,7 @@ M0000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Double 8;
@@ -16435,6 +16452,7 @@ M0000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d11 INFINITY;
@@ -17072,6 +17090,7 @@ M0000
 0000000003
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
@@ -17799,6 +17818,7 @@ M0000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Harena Non-Powerful 6;
 #STEPSTYPE:pump-double;
@@ -18490,6 +18510,7 @@ M0000
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:CS063;
@@ -19988,6 +20009,7 @@ M0000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cryomiston Snow Witch;
 #STEPSTYPE:pump-double;
@@ -21041,6 +21063,7 @@ M0000
 0000000003
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Freestyle;
@@ -22477,6 +22500,7 @@ M0000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain Hot Trill;
 #STEPSTYPE:pump-double;
@@ -23597,6 +23621,7 @@ M0000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:3PlayerLev21;
 #STEPSTYPE:pump-double;
@@ -24615,6 +24640,7 @@ X0000Z000Y
 0000000000
 0033333300
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare;
@@ -25975,6 +26001,7 @@ X0000Z000Y
 0000000000
 ;
 
+
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D23;
@@ -27205,6 +27232,7 @@ X0000Z000Y
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Havana (3rd);
 #STEPSTYPE:pump-double;
@@ -28348,6 +28376,7 @@ M000M0M00M
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:NXA WM Strepitus Maum Road of Sanctuary 9;
 #STEPSTYPE:pump-double;
@@ -29463,6 +29492,7 @@ M000M0M00M
 0000000000
 0000000000
 ;
+
 
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Ehne (2nd);
@@ -31272,6 +31302,7 @@ F000000000
 0000000000
 ;
 
+
 #NOTEDATA:;
 #CHARTNAME:INFINITY;
 #STEPSTYPE:pump-routine;
@@ -32625,4 +32656,5 @@ MMMMM00000
 0000000000
 0000000000
 ;
+
 
