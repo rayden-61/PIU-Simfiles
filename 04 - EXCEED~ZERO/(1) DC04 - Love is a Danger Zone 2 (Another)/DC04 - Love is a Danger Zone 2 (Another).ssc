@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S13;
@@ -871,7 +869,6 @@
 00000
 ;
 
-//---------------pump-single - S16----------------
 #NOTEDATA:;
 #CHARTNAME:Another Hard;
 #STEPSTYPE:pump-single;
@@ -2051,7 +2048,6 @@
 30000
 ;
 
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #CHARTNAME:Another Crazy;
 #STEPSTYPE:pump-single;
@@ -3100,7 +3096,6 @@
 00000
 ;
 
-//---------------pump-single - S20 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S20 UCS;
@@ -4209,7 +4204,6 @@
 00000
 ;
 
-//---------------pump-double - Halfdouble 9 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Halfdouble 9 UCS;
@@ -4810,7 +4804,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cryomiston Crystal WN;
 #STEPSTYPE:pump-double;
@@ -7382,7 +7375,6 @@
 ,
 ;
 
-//---------------pump-double - D24 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Love is ANOTHER Bracket Zone;
 #STEPSTYPE:pump-double;
@@ -8476,7 +8468,6 @@
 0000000000
 ;
 
-//---------------pump-double - D99 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare;
 #STEPSTYPE:pump-double;
@@ -9669,7 +9660,6 @@
 0000030000
 ;
 
-//---------------pump-routine - DP99----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP99;
@@ -11982,3 +11972,4 @@
 0000000000
 0003000000
 ;
+

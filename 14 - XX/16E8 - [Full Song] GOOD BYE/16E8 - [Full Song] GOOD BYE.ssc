@@ -33,18 +33,7 @@
 -0.214=16E8.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#FGCHANGES:-10000.000=
-=1.000=0=0=1=====,
--10000.000=
-=1.000=0=0=1=====,
-445.000=FlashS17=1.000=0=0=1=====,
-445.000=FlashS19=1.000=0=0=1=====,
-445.000=FlashD18=1.000=0=0=1=====,
-445.000=FlashD21=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -1878,7 +1867,6 @@
 00000
 ;
 
-//---------------pump-single - S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19;
@@ -4019,7 +4007,6 @@ F0000
 00000
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18;
@@ -5854,7 +5841,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - D21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D21;
@@ -8025,3 +8011,4 @@ F000000000
 0000000000
 0000000000
 ;
+

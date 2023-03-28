@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S8;
@@ -688,7 +686,6 @@
 00000
 ;
 
-//---------------pump-single - S12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S12;
@@ -1401,7 +1398,6 @@
 00000
 ;
 
-//---------------pump-single - S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S16;
@@ -2773,7 +2769,6 @@
 00000
 ;
 
-//---------------pump-single - S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19;
@@ -5062,7 +5057,6 @@
 00000
 ;
 
-//---------------pump-single - S22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S22;
@@ -7756,7 +7750,6 @@
 00000
 ;
 
-//---------------pump-double - D15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D15;
@@ -8496,7 +8489,6 @@
 0000000000
 ;
 
-//---------------pump-double - D19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D19;
@@ -10844,7 +10836,6 @@
 0000000000
 ;
 
-//---------------pump-double - D24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D24;
@@ -13358,7 +13349,6 @@
 0000000000
 ;
 
-//---------------pump-double - D26 UCS infobar----------------
 #NOTEDATA:;
 #CHARTNAME:Curse of the Gods;
 #STEPSTYPE:pump-double;

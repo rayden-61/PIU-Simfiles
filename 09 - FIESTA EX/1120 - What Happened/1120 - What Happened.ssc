@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2 pro;
@@ -337,7 +335,6 @@
 00101
 ;
 
-//---------------pump-single - S3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S3;
@@ -653,7 +650,6 @@
 00000
 ;
 
-//---------------pump-single - s5 pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5 pro;
@@ -1100,7 +1096,6 @@
 00000
 ;
 
-//---------------pump-single - S7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S7;
@@ -1581,7 +1576,6 @@
 00000
 ;
 
-//---------------pump-single - s10 pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s10 pro;
@@ -2261,7 +2255,6 @@
 00000
 ;
 
-//---------------pump-single - S12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S12;
@@ -2753,7 +2746,6 @@
 00000
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -4009,7 +4001,6 @@
 00000
 ;
 
-//---------------pump-single - s18 pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s18 pro;
@@ -4925,7 +4916,6 @@
 30330
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -6181,7 +6171,6 @@
 00000
 ;
 
-//---------------pump-single - ucs----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:ucs;
@@ -7319,7 +7308,6 @@
 00000
 ;
 
-//---------------pump-single - s25 ucs----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s25 ucs;
@@ -8676,7 +8664,6 @@
 00000
 ;
 
-//---------------pump-double - d12 pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d12 pro;
@@ -9472,7 +9459,6 @@
 0000003000
 ;
 
-//---------------pump-double - UCS D15----------------
 #NOTEDATA:;
 #CHARTNAME:Double 15;
 #STEPSTYPE:pump-double;
@@ -10332,7 +10318,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D17----------------
 #NOTEDATA:;
 #CHARTNAME:Double 17;
 #STEPSTYPE:pump-double;
@@ -11150,7 +11135,6 @@
 0000000000
 ;
 
-//---------------pump-double - d20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d20;
@@ -12136,7 +12120,6 @@
 0000000000
 ;
 
-//---------------pump-double - d21 pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d21 pro;
@@ -13040,7 +13023,6 @@
 0000000030
 ;
 
-//---------------pump-double - d22 HalfDouble pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d22 HalfDouble pro;
@@ -14004,7 +13986,6 @@
 0033030000
 ;
 
-//---------------pump-double - d23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d23;
@@ -15024,7 +15005,6 @@
 0000000000
 ;
 
-//---------------pump-double - d25 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FEX More Powerful;
 #STEPSTYPE:pump-double;
@@ -16440,7 +16420,6 @@
 0000000000
 ;
 
-//---------------pump-routine - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:UCS COOP X02;
 #STEPSTYPE:pump-routine;
@@ -17503,3 +17482,4 @@
 0000000000
 0000000000
 ;
+

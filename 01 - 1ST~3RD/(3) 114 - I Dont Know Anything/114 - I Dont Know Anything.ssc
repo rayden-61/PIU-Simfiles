@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -306,7 +304,6 @@
 00000
 ;
 
-//---------------pump-single - UCS 1----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Normal;
 #STEPSTYPE:pump-single;
@@ -581,7 +578,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Hard;
 #STEPSTYPE:pump-single;
@@ -856,7 +852,6 @@
 00000
 ;
 
-//---------------pump-single - S6 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S6 UCS;
@@ -1201,7 +1196,6 @@
 00000
 ;
 
-//---------------pump-single - UCS 3----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Crazy;
 #STEPSTYPE:pump-single;
@@ -1656,7 +1650,6 @@
 00000
 ;
 
-//---------------pump-single - S12 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Crazy;
 #STEPSTYPE:pump-single;
@@ -2316,7 +2309,6 @@
 00000
 ;
 
-//---------------pump-single - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS FB;
@@ -3213,7 +3205,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS 1----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ HDB;
 #STEPSTYPE:pump-halfdouble;
@@ -3488,7 +3479,6 @@
 000000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -3761,7 +3751,6 @@
 0000000000
 ;
 
-//---------------pump-double - Halfdouble 7 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Halfdouble 7 UCS;
@@ -4106,7 +4095,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS 1----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -4733,7 +4721,6 @@
 0000000000
 ;
 
-//---------------pump-double - D16 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D16 UCS;
@@ -5606,3 +5593,4 @@
 0000000000
 0000000000
 ;
+

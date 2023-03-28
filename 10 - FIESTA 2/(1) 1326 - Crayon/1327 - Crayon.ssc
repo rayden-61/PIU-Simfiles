@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -426,7 +424,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -902,7 +899,6 @@
 00000
 ;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -1398,7 +1394,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S12----------------
 #NOTEDATA:;
 #CHARTNAME:On the Ledger;
 #STEPSTYPE:pump-single;
@@ -2273,7 +2268,6 @@
 00000
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -9461,7 +9455,6 @@ F0000
 00000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -9861,7 +9854,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - UCS D9----------------
 #NOTEDATA:;
 #CHARTNAME:Come On, Come On;
 #STEPSTYPE:pump-double;
@@ -10450,7 +10442,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - d17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d17;
@@ -11760,3 +11751,4 @@ F0000
 0000000000
 0001111000
 ;
+

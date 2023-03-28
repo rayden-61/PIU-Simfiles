@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS 1----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -228,7 +226,6 @@
 00000
 ;
 
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -426,7 +423,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -720,7 +716,6 @@
 00000
 ;
 
-//---------------pump-single - UCS 2----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Crazy;
 #STEPSTYPE:pump-single;
@@ -1288,7 +1283,6 @@
 00300
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -1855,7 +1849,6 @@
 00000
 ;
 
-//---------------pump-single - S14 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Screeching Solo;
 #STEPSTYPE:pump-single;
@@ -2896,7 +2889,6 @@
 00000
 ;
 
-//---------------pump-single - s16 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (T) Shout;
 #STEPSTYPE:pump-single;
@@ -3516,7 +3508,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS 1----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ HDB;
 #STEPSTYPE:pump-halfdouble;
@@ -3716,7 +3707,6 @@
 000000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -3962,7 +3952,6 @@
 0000000000
 ;
 
-//---------------pump-double - D16 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Shoutout;
 #STEPSTYPE:pump-double;
@@ -4782,7 +4771,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS 1----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -5514,7 +5502,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 2;
@@ -5712,7 +5699,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 4;
@@ -6005,3 +5991,4 @@
 0000000000
 0000000000
 ;
+

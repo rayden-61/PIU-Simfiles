@@ -33,11 +33,7 @@
 -0.500=012.mpg=1.000=0=0=1=StretchNormal====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#FGCHANGES:0.964=FlashD20=1.000=0=0=1=====,
-99999.000=-nosongbg-=1.000=0=0=0=StretchNoLoop====,
-;
 
-//---------------pump-single - S4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4;
@@ -333,7 +329,6 @@
 30003
 ;
 
-//---------------pump-single - S7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S7;
@@ -833,7 +828,6 @@
 00000
 ;
 
-//---------------pump-single - S10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10;
@@ -1379,7 +1373,6 @@
 00033
 ;
 
-//---------------pump-single - S15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S15;
@@ -3668,7 +3661,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -7219,7 +7211,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19;
@@ -12070,7 +12061,6 @@ F0000
 00000
 ;
 
-//---------------pump-double - UCS-D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS-D18;
@@ -13065,7 +13055,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - UCS-D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS-D20;
@@ -14098,3 +14087,4 @@ F0000
 0333000000
 0000000000
 ;
+

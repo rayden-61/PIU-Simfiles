@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -211,7 +209,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -437,7 +434,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S8----------------
 #NOTEDATA:;
 #CHARTNAME:Money Sink;
 #STEPSTYPE:pump-single;
@@ -824,7 +820,6 @@
 00000
 ;
 
-//---------------pump-single - s11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s11;
@@ -1298,7 +1293,6 @@
 00000
 ;
 
-//---------------pump-single - Single13 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 13 UCS;
 #STEPSTYPE:pump-single;
@@ -1926,7 +1920,6 @@
 00000
 ;
 
-//---------------pump-single - S18 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18 UCS;
@@ -2887,7 +2880,6 @@
 00000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -3105,7 +3097,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D9----------------
 #NOTEDATA:;
 #CHARTNAME:Money Sarlaac;
 #STEPSTYPE:pump-double;
@@ -3503,7 +3494,6 @@
 0000000000
 ;
 
-//---------------pump-double - D15 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Nightmare;
 #STEPSTYPE:pump-double;
@@ -5099,7 +5089,6 @@
 0000000000
 ;
 
-//---------------pump-double - D19 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D19 UCS;
@@ -6123,3 +6112,4 @@
 0000000000
 0000000000
 ;
+

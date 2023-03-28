@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S10 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10 UCS;
@@ -1428,7 +1426,6 @@
 30003
 ;
 
-//---------------pump-single - s14 ucs----------------
 #NOTEDATA:;
 #CHARTNAME:Augh;
 #STEPSTYPE:pump-single;
@@ -2698,7 +2695,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S17;
@@ -4604,7 +4600,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS;
@@ -6274,7 +6269,6 @@
 000000
 ;
 
-//---------------pump-double - d16 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Phantomia Suddenly Appear 3;
 #STEPSTYPE:pump-double;
@@ -7682,3 +7676,4 @@
 0000000000
 0000000000
 ;
+

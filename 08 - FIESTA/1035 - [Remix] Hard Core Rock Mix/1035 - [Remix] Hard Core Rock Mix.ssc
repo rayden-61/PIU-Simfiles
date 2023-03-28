@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s18;
@@ -1953,7 +1951,6 @@
 00000
 ;
 
-//---------------pump-single - s21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s21;
@@ -4212,7 +4209,6 @@
 00000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS;
@@ -6762,7 +6758,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS DP----------------
 #NOTEDATA:;
 #CHARTNAME:Drum vs. Guitar;
 #STEPSTYPE:pump-double;
@@ -8732,3 +8727,4 @@ x0x0xy0y0y
 3030330303
 0000000000
 ;
+

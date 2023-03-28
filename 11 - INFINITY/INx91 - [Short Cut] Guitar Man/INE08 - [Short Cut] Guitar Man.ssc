@@ -40,7 +40,6 @@
 #ATTACKS:
 ;
 
-//---------------pump-single - s1 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -207,7 +206,6 @@
 00000
 ;
 
-//---------------pump-single - s15 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -701,7 +699,6 @@
 00000
 ;
 
-//---------------pump-double - d19 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -1194,3 +1191,4 @@
 0000000000
 0000000000
 ;
+

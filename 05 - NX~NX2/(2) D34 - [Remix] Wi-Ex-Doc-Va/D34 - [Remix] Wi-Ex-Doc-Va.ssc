@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - Single 10UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Single 10UCS;
@@ -1038,7 +1036,6 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -2524,7 +2521,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Custom Edit;
 #STEPSTYPE:pump-single;
@@ -4642,7 +4638,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Harena Born of Earth 3;
 #STEPSTYPE:pump-single;
@@ -7031,7 +7026,6 @@
 00000
 ;
 
-//---------------pump-single - s21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s21;
@@ -9427,7 +9421,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - d12 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -10542,7 +10535,6 @@
 000300
 ;
 
-//---------------pump-double - D16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D16;
@@ -11963,7 +11955,6 @@
 0000000000
 ;
 
-//---------------pump-double - D24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D24;
@@ -15621,3 +15612,4 @@
 0000000000
 0000000000
 ;
+

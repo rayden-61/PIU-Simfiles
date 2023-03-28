@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S6----------------
 #NOTEDATA:;
 #CHARTNAME:Single 6;
 #STEPSTYPE:pump-single;
@@ -520,7 +518,6 @@
 00000
 ;
 
-//---------------pump-single - S11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S11;
@@ -1288,7 +1285,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -4561,7 +4557,6 @@
 00000
 ;
 
-//---------------pump-single - s19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Fiesta 2 Quest Zone QN052;
 #STEPSTYPE:pump-single;
@@ -5719,7 +5714,6 @@
 00000
 ;
 
-//---------------pump-single - S22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S22;
@@ -7002,7 +6996,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS FB;
@@ -7618,7 +7611,6 @@
 000000
 ;
 
-//---------------pump-double - D13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D13;
@@ -8386,7 +8378,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 17;
 #STEPSTYPE:pump-double;
@@ -9421,7 +9412,6 @@
 0000000000
 ;
 
-//---------------pump-double - d22 infobar----------------
 #NOTEDATA:;
 #CHARTNAME:Prime 1.14 Revised D22;
 #STEPSTYPE:pump-double;
@@ -10806,7 +10796,6 @@
 0000000000
 ;
 
-//---------------pump-double - D24----------------
 #NOTEDATA:;
 #CHARTNAME:Prime 1.14 D22 Variation;
 #STEPSTYPE:pump-double;
@@ -12192,7 +12181,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone WindFFForce;
 #STEPSTYPE:pump-double;
@@ -13526,7 +13514,6 @@
 0000000000
 ;
 
-//---------------pump-double - DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP;
@@ -14284,3 +14271,4 @@ Z00XY00000
 0000000000
 0000000000
 ;
+

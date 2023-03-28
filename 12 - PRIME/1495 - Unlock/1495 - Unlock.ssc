@@ -39,11 +39,7 @@
 #BGCHANGES:-0.300=1495.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -185,7 +181,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -399,7 +394,6 @@
 00000
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -693,7 +687,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1083,7 +1076,6 @@
 00000
 ;
 
-//---------------pump-single - s11----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1752,7 +1744,6 @@
 00000
 ;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2475,7 +2466,6 @@
 00000
 ;
 
-//---------------pump-double - d3----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -2617,7 +2607,6 @@
 0000000000
 ;
 
-//---------------pump-double - d9----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -3007,7 +2996,6 @@
 0000000000
 ;
 
-//---------------pump-double - d15----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -3821,3 +3809,4 @@
 0000000000
 0000000000
 ;
+

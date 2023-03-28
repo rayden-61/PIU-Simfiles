@@ -102,25 +102,7 @@
 377.000=PE39G-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:16.000=white flash=1.000=0=0=1=====,
-48.000=white flash=1.000=0=0=1====#FFFF00=,
-72.000=white flash=1.000=0=0=1====#FFFF00=,
-74.000=white flash=1.000=0=0=1====#00FFFF=,
-80.000=white flash=1.000=0=0=1=====,
-112.000=white flash=1.000=0=0=1=====,
-140.000=white flash=1.000=0=0=1====#FFFF00=,
-144.000=white flash=1.000=0=0=1=====,
-283.000=white flash=1.000=0=0=1=====,
-314.000=white flash=1.000=0=0=1=====,
-330.000=white flash=1.000=0=0=1====#FFFF00=,
-345.000=white flash=1.000=0=0=1=====,
-369.000=white flash=1.000=0=0=1====#FFFF00=,
-371.000=white flash=1.000=0=0=1====#00FFFF=,
-377.000=white flash=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - Train----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 The Trinity;
 #STEPSTYPE:pump-single;
@@ -5661,7 +5643,6 @@ MMMMM
 00000
 ;
 
-//---------------pump-double - UCS D20----------------
 #NOTEDATA:;
 #CHARTNAME:ARSR;
 #STEPSTYPE:pump-double;
@@ -6983,3 +6964,4 @@ MMMMM
 0000300000
 0000000000
 ;
+

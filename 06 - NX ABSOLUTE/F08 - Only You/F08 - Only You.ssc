@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -391,7 +389,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -747,7 +744,6 @@
 00300
 ;
 
-//---------------pump-single - s12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s12;
@@ -1304,7 +1300,6 @@
 00000
 ;
 
-//---------------pump-single - S24 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S24 UCS;
@@ -2189,7 +2184,6 @@
 00000
 ;
 
-//---------------pump-double - d3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d3;
@@ -2546,7 +2540,6 @@
 0000000000
 ;
 
-//---------------pump-double - D5 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D5 UCS;
@@ -2907,7 +2900,6 @@
 0000000030
 ;
 
-//---------------pump-double - d13 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d13 HalfDouble;
@@ -3509,7 +3501,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -4112,7 +4103,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Nightmare;
 #STEPSTYPE:pump-double;
@@ -4927,7 +4917,6 @@
 0000030000
 ;
 
-//---------------pump-routine - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Routine;
 #STEPSTYPE:pump-routine;
@@ -5572,3 +5561,4 @@
 0000000000
 0000000000
 ;
+

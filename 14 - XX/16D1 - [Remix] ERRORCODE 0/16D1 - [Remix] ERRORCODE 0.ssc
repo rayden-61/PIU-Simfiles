@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s18 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 18;
 #STEPSTYPE:pump-single;
@@ -2215,7 +2213,6 @@
 00000
 ;
 
-//---------------pump-single - S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19;
@@ -4717,7 +4714,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - UCS 21----------------
 #NOTEDATA:;
 #CHARTNAME:UCS Single 21;
 #STEPSTYPE:pump-single;
@@ -7260,7 +7256,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - S23 HIDDEN INFOBAR----------------
 #NOTEDATA:;
 #CHARTNAME:Mobile Edition;
 #STEPSTYPE:pump-single;
@@ -10424,7 +10419,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - S23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S23;
@@ -14145,7 +14139,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - UCS S24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S24;
@@ -17342,7 +17335,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - S25----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S25;
@@ -21850,7 +21842,6 @@ F0000
 00000
 ;
 
-//---------------pump-double - D24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D24;
@@ -24969,7 +24960,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - ucs 26----------------
 #NOTEDATA:;
 #CHARTNAME:V.2;
 #STEPSTYPE:pump-double;
@@ -27926,7 +27916,6 @@ F0000
 0000330330
 ;
 
-//---------------pump-double - D27----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D27;
@@ -32520,7 +32509,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - D27 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 27;
 #STEPSTYPE:pump-double;
@@ -37994,7 +37982,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - DP 3P UCS infobar----------------
 #NOTEDATA:;
 #CHARTNAME:Relay Power [3 players];
 #STEPSTYPE:pump-double;
@@ -42163,3 +42150,4 @@ yxzxyyxzxy
 0000000000
 0000000000
 ;
+

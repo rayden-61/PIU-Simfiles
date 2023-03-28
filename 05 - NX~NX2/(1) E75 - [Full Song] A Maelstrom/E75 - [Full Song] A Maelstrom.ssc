@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S23----------------
 #NOTEDATA:;
 #CHARTNAME:Single 23;
 #STEPSTYPE:pump-single;
@@ -3100,7 +3098,6 @@
 00000
 ;
 
-//---------------pump-double - d21 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Barharn [Whirlpool];
 #STEPSTYPE:pump-double;
@@ -6027,3 +6024,4 @@
 0000000000
 0000000000
 ;
+

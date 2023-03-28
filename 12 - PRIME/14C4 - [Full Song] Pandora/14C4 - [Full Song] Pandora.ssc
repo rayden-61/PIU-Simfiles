@@ -40,11 +40,7 @@
 #BGCHANGES:-0.400=14C4.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2458,7 +2454,6 @@
 00000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -4880,3 +4875,4 @@
 0000000000
 0000000000
 ;
+

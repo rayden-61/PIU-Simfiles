@@ -34,16 +34,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:1.760;
-#LASTSECONDHINT:62.51900;
-#SONGFILENAME:/Songs/14 Music Trains/[NeonFM] LIADZ cranky shortcut/LIADZ cranky (Shortcut).ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:62.51900;
-// end cache tags
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;

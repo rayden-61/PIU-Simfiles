@@ -67,22 +67,7 @@
 215.000=pe388-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:16.000=white flash=1.000=0=0=1=====,
-40.000=white flash=1.000=0=0=1=====,
-48.000=white flash=1.000=0=0=1=====,
-56.000=white flash=1.000=0=0=1=====,
-64.000=white flash=1.000=0=0=1=====,
-76.000=yellow flash=1.000=0=0=1=====,
-92.000=white flash=1.000=0=0=1=====,
-132.000=white flash=1.000=0=0=1=====,
-148.000=white flash=1.000=0=0=1=====,
-215.000=white flash=1.000=0=0=1=====,
-;
 
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - s2 pro----------------
 #NOTEDATA:;
 #CHARTNAME:J. Dread;
 #STEPSTYPE:pump-single;
@@ -384,7 +369,7 @@
 00001
 00101
 ;
-//---------------pump-single - s3 new----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -700,7 +685,7 @@
 00000
 00000
 ;
-//---------------pump-single - s5 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J. Dread;
 #STEPSTYPE:pump-single;
@@ -1146,7 +1131,7 @@
 00100
 00000
 ;
-//---------------pump-single - s7 new----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1626,7 +1611,7 @@
 00000
 00000
 ;
-//---------------pump-single - s10 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J. Dread;
 #STEPSTYPE:pump-single;
@@ -2305,7 +2290,7 @@
 00000
 00000
 ;
-//---------------pump-single - s12 new----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2798,7 +2783,7 @@
 00000
 00000
 ;
-//---------------pump-single - s17----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -4054,7 +4039,7 @@
 00000
 00000
 ;
-//---------------pump-single - s18 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J. Dread;
 #STEPSTYPE:pump-single;
@@ -4969,7 +4954,7 @@
 00000
 30330
 ;
-//---------------pump-single - s20----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -6225,7 +6210,7 @@
 00000
 00000
 ;
-//---------------pump-double - d12 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:E. Holniker;
 #STEPSTYPE:pump-double;
@@ -7020,7 +7005,7 @@
 0000000000
 0000003000
 ;
-//---------------pump-double - d20----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -8006,7 +7991,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - d21 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J. Dread;
 #STEPSTYPE:pump-double;
@@ -8909,7 +8894,7 @@
 0000000000
 0000000030
 ;
-//---------------pump-double - d22 HalfDouble pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -9872,7 +9857,7 @@
 0000000000
 0033030000
 ;
-//---------------pump-double - d23----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -10893,7 +10878,6 @@
 0000000000
 ;
 
-//---------------pump-double - d24 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FEX More Powerful;
 #STEPSTYPE:pump-double;
@@ -12310,3 +12294,4 @@
 0000000000
 0000000000
 ;
+

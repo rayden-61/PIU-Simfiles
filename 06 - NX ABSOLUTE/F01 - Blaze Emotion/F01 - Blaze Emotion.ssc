@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -461,7 +459,6 @@
 00000
 ;
 
-//---------------pump-single - S3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S3;
@@ -875,7 +872,6 @@
 00000
 ;
 
-//---------------pump-single - S6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S6;
@@ -1358,7 +1354,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -2005,7 +2000,6 @@
 00000
 ;
 
-//---------------pump-single - S9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S9;
@@ -2793,7 +2787,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (LU) Passion;
 #STEPSTYPE:pump-single;
@@ -3610,7 +3603,6 @@
 00300
 ;
 
-//---------------pump-single - S16----------------
 #NOTEDATA:;
 #CHARTNAME:Another Crazy;
 #STEPSTYPE:pump-single;
@@ -4913,7 +4905,6 @@
 00030
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -7872,7 +7863,6 @@
 00000
 ;
 
-//---------------pump-single - s18 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone BOSS BMEmotion;
 #STEPSTYPE:pump-single;
@@ -9527,7 +9517,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Infiniti Musica Burning Emotion 2;
 #STEPSTYPE:pump-single;
@@ -11521,7 +11510,6 @@ MMMMM
 00000
 ;
 
-//---------------pump-single - UCS S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S21;
@@ -12694,7 +12682,6 @@ MMMMM
 00000
 ;
 
-//---------------pump-double - d5 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5 UCS;
@@ -13208,7 +13195,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - d10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d10;
@@ -13851,7 +13837,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - d14 Quest (inf)----------------
 #NOTEDATA:;
 #CHARTNAME:Infinity - Perfects R 2;
 #STEPSTYPE:pump-double;
@@ -14741,7 +14726,6 @@ MMMMM
 0003000000
 ;
 
-//---------------pump-double - d17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d17;
@@ -16051,7 +16035,6 @@ MMMMM
 0000000030
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare;
 #STEPSTYPE:pump-double;
@@ -19371,7 +19354,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Stella's Maya J.K.D. Rush;
 #STEPSTYPE:pump-double;
@@ -20573,7 +20555,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Strepitus Maum Road of Sanctuary 11;
 #STEPSTYPE:pump-double;
@@ -21945,7 +21926,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (LU) Burning Emotion;
 #STEPSTYPE:pump-double;
@@ -23846,3 +23826,4 @@ MMMMM
 0000000000
 0000000000
 ;
+

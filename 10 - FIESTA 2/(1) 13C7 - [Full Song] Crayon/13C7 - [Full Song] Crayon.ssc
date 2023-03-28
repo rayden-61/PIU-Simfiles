@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Song;
 #STEPSTYPE:pump-single;
@@ -1598,7 +1596,6 @@
 00000
 ;
 
-//---------------pump-double - UCS D18----------------
 #NOTEDATA:;
 #CHARTNAME:Double 18;
 #STEPSTYPE:pump-double;
@@ -4027,3 +4024,4 @@
 0010000100
 0000000000
 ;
+

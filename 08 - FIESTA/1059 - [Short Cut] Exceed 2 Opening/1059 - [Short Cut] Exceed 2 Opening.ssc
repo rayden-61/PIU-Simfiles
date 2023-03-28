@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -380,7 +378,6 @@
 00000
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18;
@@ -848,7 +845,6 @@
 0000000000
 ;
 
-//---------------pump-double - D99 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Exceed 2 Staff Roll;
 #STEPSTYPE:pump-double;
@@ -1315,3 +1311,4 @@
 0000000000
 0000000000
 ;
+

@@ -42,8 +42,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -284,7 +282,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -525,7 +522,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -870,7 +866,6 @@
 00000
 ;
 
-//---------------pump-single - S12 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Dumbing It Down;
 #STEPSTYPE:pump-single;
@@ -1538,7 +1533,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2260,7 +2254,6 @@
 00000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -2625,7 +2618,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D09----------------
 #NOTEDATA:;
 #CHARTNAME:Double 09;
 #STEPSTYPE:pump-double;
@@ -3038,7 +3030,6 @@
 0030000300
 ;
 
-//---------------pump-double - UCS D13----------------
 #NOTEDATA:;
 #CHARTNAME:Double 13;
 #STEPSTYPE:pump-double;
@@ -3732,7 +3723,6 @@
 0000000000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -4453,3 +4443,4 @@
 0000030000
 0000000000
 ;
+

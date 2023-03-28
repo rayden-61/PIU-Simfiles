@@ -41,11 +41,7 @@
 -0.350=14C2.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1941,7 +1937,6 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -3482,7 +3477,6 @@
 00000
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -5004,3 +4998,4 @@
 0000000000
 0000000000
 ;
+

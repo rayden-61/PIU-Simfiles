@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - SINGLE UCS 6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:SINGLE UCS 6;
@@ -731,7 +729,6 @@
 00000
 ;
 
-//---------------pump-single - S10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10;
@@ -1586,7 +1583,6 @@
 00000
 ;
 
-//---------------pump-single - s12 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s12 Infinity;
@@ -2489,7 +2485,6 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -3453,7 +3448,6 @@
 00000
 ;
 
-//---------------pump-single - s16 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16 Infinity;
@@ -4659,7 +4653,6 @@
 00000
 ;
 
-//---------------pump-single - s16 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Infinity S16;
 #STEPSTYPE:pump-single;
@@ -5767,7 +5760,6 @@
 00030
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19;
@@ -8916,7 +8908,6 @@
 00000
 ;
 
-//---------------pump-single - S19 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Infinity S19;
 #STEPSTYPE:pump-single;
@@ -10309,7 +10300,6 @@
 00000
 ;
 
-//---------------pump-single - s20 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s20 Infinity;
@@ -11807,7 +11797,6 @@
 00000
 ;
 
-//---------------pump-single - S22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S22;
@@ -14952,7 +14941,6 @@
 00000
 ;
 
-//---------------pump-single - s23 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s23 Infinity;
@@ -16254,7 +16242,6 @@
 00000
 ;
 
-//---------------pump-double - D8 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D8 UCS;
@@ -16821,7 +16808,6 @@
 0000003030
 ;
 
-//---------------pump-double - D17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D17;
@@ -18890,7 +18876,6 @@
 0000000000
 ;
 
-//---------------pump-double - D17 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Removed Chart;
 #STEPSTYPE:pump-double;
@@ -20393,7 +20378,6 @@
 0000000000
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18;
@@ -21755,7 +21739,6 @@
 0000000000
 ;
 
-//---------------pump-double - d23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d23;
@@ -23733,7 +23716,6 @@
 0000000000
 ;
 
-//---------------pump-double - d24 Train----------------
 #NOTEDATA:;
 #CHARTNAME:T-Rain;
 #STEPSTYPE:pump-double;
@@ -25819,7 +25801,6 @@
 0030000000
 ;
 
-//---------------pump-double - d25----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d25;
@@ -27080,7 +27061,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26 Train----------------
 #NOTEDATA:;
 #CHARTNAME:The TsunaMinami;
 #STEPSTYPE:pump-double;
@@ -28477,7 +28457,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone EXC Fatuus;
 #STEPSTYPE:pump-double;
@@ -33498,7 +33477,6 @@ F000000000
 0000300003
 ;
 
-//---------------pump-double - d26 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d26 Infinity;
@@ -34834,7 +34812,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP;
@@ -35744,3 +35721,4 @@ Y00X000000
 0000000000
 0003333000
 ;
+

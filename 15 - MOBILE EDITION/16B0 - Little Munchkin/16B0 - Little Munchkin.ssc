@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S8;
@@ -665,7 +663,6 @@
 00000
 ;
 
-//---------------pump-single - S12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S12;
@@ -1584,7 +1581,6 @@
 00000
 ;
 
-//---------------pump-single - S15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S15;
@@ -2723,7 +2719,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -4178,7 +4173,6 @@
 00000
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -5656,7 +5650,6 @@
 00000
 ;
 
-//---------------pump-double - D17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 17;
 #STEPSTYPE:pump-double;
@@ -7604,7 +7597,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS DP - CO-OP TWO PERSONS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS DP - CO-OP TWO PERSONS;
@@ -8353,3 +8345,4 @@ X0000000Y0
 0YY0000XX0
 0000000000
 ;
+

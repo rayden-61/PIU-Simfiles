@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S3;
@@ -264,7 +262,6 @@
 00000
 ;
 
-//---------------pump-single - S6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S6;
@@ -623,7 +620,6 @@
 00000
 ;
 
-//---------------pump-single - S11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S11;
@@ -989,7 +985,6 @@
 00000
 ;
 
-//---------------pump-single - S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S16;
@@ -2872,7 +2867,6 @@ F0F0F
 00000
 ;
 
-//---------------pump-single - single 22 ucs----------------
 #NOTEDATA:;
 #CHARTNAME:single 22;
 #STEPSTYPE:pump-single;
@@ -4135,7 +4129,6 @@ F000F
 00000
 ;
 
-//---------------pump-double - D12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D12;
@@ -4485,7 +4478,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - D17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D17;
@@ -7075,7 +7067,6 @@ F00000000F
 0000000000
 ;
 
-//---------------pump-double - double 23 ucs----------------
 #NOTEDATA:;
 #CHARTNAME:double 23;
 #STEPSTYPE:pump-double;
@@ -8496,3 +8487,4 @@ F000FF000F
 0000000000
 0000000000
 ;
+

@@ -83,36 +83,7 @@
 521.000=PE343F-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:4.000=white flash=1.000=0=0=1=====,
-36.000=white flash=1.000=0=0=1=====,
-67.500=white flash=1.000=0=0=1=====,
-99.500=white flash=1.000=0=0=1=====,
-122.500=white reverse flash=0.500=0=0=1=====,
-127.500=white flash=1.000=0=0=1=====,
-131.500=white flash=1.000=0=0=1=====,
-143.500=white flash=2.400=0=0=1====#808080=,
-144.500=white flash=2.400=0=0=1====#808080=,
-145.500=white flash=2.400=0=0=1====#808080=,
-146.500=white flash=2.400=0=0=1====#808080=,
-147.500=white flash=1.000=0=0=1=====,
-159.500=white flash=2.400=0=0=1====#808080=,
-160.500=white flash=2.400=0=0=1====#808080=,
-195.500=white flash=1.000=0=0=1=====,
-227.500=white flash=1.000=0=0=1=====,
-259.500=white flash=1.000=0=0=1=====,
-318.000=white reverse flash=0.300=0=0=1=====,
-322.000=white flash=1.000=0=0=1=====,
-386.000=white flash=1.000=0=0=1=====,
-422.000=white flash=1.000=0=0=1=====,
-454.000=white flash=1.000=0=0=1=====,
-486.000=white flash=1.000=0=0=1=====,
-518.000=white flash=1.000=0=0=1=====,
-521.000=white flash=1.000=0=0=1=====,
-;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - J. Dread----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;

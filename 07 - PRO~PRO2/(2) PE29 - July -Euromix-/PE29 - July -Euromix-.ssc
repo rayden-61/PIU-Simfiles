@@ -32,7 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -397,7 +396,6 @@
 00000
 ;
 
-//---------------pump-single - s3 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -762,7 +760,6 @@
 00000
 ;
 
-//---------------pump-single - s7 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -1291,7 +1288,6 @@
 00000
 ;
 
-//---------------pump-single - s13 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -2276,7 +2272,6 @@
 00000
 ;
 
-//---------------pump-single - s16 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -3174,7 +3169,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -3571,7 +3565,6 @@
 000000
 ;
 
-//---------------pump-double - d8 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -4128,7 +4121,6 @@
 0000000000
 ;
 
-//---------------pump-double - d13 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -5064,3 +5056,4 @@
 0000000000
 0000000000
 ;
+

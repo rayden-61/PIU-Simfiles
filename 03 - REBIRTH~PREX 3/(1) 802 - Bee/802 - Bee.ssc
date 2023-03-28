@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -343,7 +341,6 @@
 00000
 ;
 
-//---------------pump-single - S7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S7;
@@ -756,7 +753,6 @@
 00000
 ;
 
-//---------------pump-single - S10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10;
@@ -1211,7 +1207,6 @@
 00000
 ;
 
-//---------------pump-single - S12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S12;
@@ -1680,7 +1675,6 @@
 00000
 ;
 
-//---------------pump-single - S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S16;
@@ -2401,7 +2395,6 @@
 00000
 ;
 
-//---------------pump-single - CR quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Beijing (3rd);
 #STEPSTYPE:pump-single;
@@ -3617,7 +3610,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:BEE Elio;
 #STEPSTYPE:pump-single;
@@ -4464,7 +4456,6 @@
 00000
 ;
 
-//---------------pump-single - S19----------------
 #NOTEDATA:;
 #CHARTNAME:Another Crazy;
 #STEPSTYPE:pump-single;
@@ -5311,7 +5302,6 @@
 00000
 ;
 
-//---------------pump-single - s20 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone BOSS BeEXC;
 #STEPSTYPE:pump-single;
@@ -6232,7 +6222,6 @@
 00000
 ;
 
-//---------------pump-single - CR quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Overdeath (2nd);
 #STEPSTYPE:pump-single;
@@ -7196,7 +7185,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Ladania Alphabet;
 #STEPSTYPE:pump-single;
@@ -8124,7 +8112,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cosmos Spatium MX Trill 3;
 #STEPSTYPE:pump-single;
@@ -8978,7 +8965,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Harena Mine Field 2;
 #STEPSTYPE:pump-single;
@@ -10862,7 +10848,6 @@ MMMMM
 00000
 ;
 
-//---------------pump-double - D7 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D7 UCS;
@@ -11214,7 +11199,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - d9 HalfDouble Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic HalfDouble;
 #STEPSTYPE:pump-double;
@@ -11664,7 +11648,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - D12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D12;
@@ -12141,7 +12124,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - NM quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Panama City (3rd);
 #STEPSTYPE:pump-double;
@@ -13091,7 +13073,6 @@ MMMMM
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia Perplexity 3;
 #STEPSTYPE:pump-double;
@@ -14097,7 +14078,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -14980,7 +14960,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - D22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D22;
@@ -15770,7 +15749,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - D24----------------
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare;
 #STEPSTYPE:pump-double;
@@ -16703,7 +16681,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Ladania Rain;
 #STEPSTYPE:pump-double;
@@ -17188,7 +17165,6 @@ M000000000
 0000000000
 ;
 
-//---------------pump-double - D99 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare NX;
 #STEPSTYPE:pump-double;
@@ -18042,3 +18018,4 @@ M000000000
 0000000000
 0000000000
 ;
+

@@ -83,8 +83,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4;
@@ -1417,7 +1415,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S8;
@@ -2001,7 +1998,6 @@
 00000
 ;
 
-//---------------pump-single - S14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S14;
@@ -3474,7 +3470,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:UCS;
 #STEPSTYPE:pump-single;
@@ -4587,7 +4582,6 @@
 00300
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -6100,7 +6094,6 @@
 00000
 ;
 
-//---------------pump-double - UCS D6----------------
 #NOTEDATA:;
 #CHARTNAME:Double 6;
 #STEPSTYPE:pump-double;
@@ -6629,7 +6622,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D12----------------
 #NOTEDATA:;
 #CHARTNAME:Double 12;
 #STEPSTYPE:pump-double;
@@ -7310,7 +7302,6 @@
 0000000000
 ;
 
-//---------------pump-double - D14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D14;
@@ -8851,7 +8842,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D21;
@@ -10372,7 +10362,6 @@
 0000000000
 ;
 
-//---------------pump-routine - UCS Coop 2x----------------
 #NOTEDATA:;
 #CHARTNAME:Coop 2x;
 #STEPSTYPE:pump-routine;
@@ -12420,3 +12409,4 @@
 0000000000
 0000000000
 ;
+

@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S16----------------
 #NOTEDATA:;
 #CHARTNAME:Single 16;
 #STEPSTYPE:pump-single;
@@ -1080,7 +1078,6 @@
 00000
 ;
 
-//---------------pump-double - d16 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia Astral;
 #STEPSTYPE:pump-double;
@@ -1853,3 +1850,4 @@
 0000000100
 0000000000
 ;
+

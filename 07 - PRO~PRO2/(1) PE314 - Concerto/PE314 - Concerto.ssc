@@ -55,21 +55,7 @@
 222.000=PE314-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:32.000=white flash=1.000=0=0=1=====,
-64.000=white flash=1.000=0=0=1=====,
-76.000=white flash=1.000=0=0=1=====,
-82.000=white flash=1.000=0=0=1=====,
-86.000=yellow flash=1.000=0=0=1=====,
-94.000=white flash=1.000=0=0=1=====,
-126.000=white flash=1.000=0=0=1=====,
-158.000=white flash=1.000=0=0=1=====,
-190.000=white flash=1.000=0=0=1=====,
-222.000=white flash=1.000=0=0=1=====,
-99999.000=-nosongbg-=1.000=0=0=0=StretchNoLoop====,
-;
 
-
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -388,7 +374,6 @@
 00000
 ;
 
-//---------------pump-single - s5 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -707,7 +692,6 @@
 00000
 ;
 
-//---------------pump-single - s7 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1234,7 +1218,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #CHARTNAME:Single 10;
@@ -1782,7 +1765,6 @@
 00000
 ;
 
-//---------------pump-single - s13 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2650,7 +2632,6 @@ M1003
 00000
 ;
 
-//---------------pump-single - UCS S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #CHARTNAME:Single 18;
@@ -3569,7 +3550,6 @@ M1003
 00000
 ;
 
-//---------------pump-double - d4 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -3893,7 +3873,6 @@ M1003
 0000000000
 ;
 
-//---------------pump-double - UCS D9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #CHARTNAME:Double 9;
@@ -4409,7 +4388,6 @@ M1003
 0000000000
 ;
 
-//---------------pump-double - d14 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -5293,7 +5271,6 @@ M1003
 0000000000
 ;
 
-//---------------pump-double - UCS D23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #CHARTNAME:Double 23;
@@ -6274,3 +6251,4 @@ M1003
 0000000000
 0000000000
 ;
+

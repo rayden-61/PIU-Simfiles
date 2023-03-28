@@ -61,16 +61,7 @@
 211.000=PE374-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:20.000=white flash=1.000=0=0=1=====,
-52.000=white flash=1.000=0=0=1=====,
-100.000=white flash=1.000=0=0=1=====,
-148.000=white flash=1.000=0=0=1=====,
-196.000=white flash=1.000=0=0=1=====,
-;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - s2 Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -365,7 +356,7 @@
 01000
 00000
 ;
-//---------------pump-single - s3----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -676,7 +667,7 @@
 00100
 00000
 ;
-//---------------pump-single - s5----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1051,7 +1042,7 @@
 00100
 00000
 ;
-//---------------pump-single - s8 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -1450,7 +1441,7 @@
 10001
 00000
 ;
-//---------------pump-single - s9----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1961,7 +1952,7 @@
 00000
 00000
 ;
-//---------------pump-single - s12 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -2701,7 +2692,7 @@
 00000
 00000
 ;
-//---------------pump-single - s15 New----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -3638,7 +3629,7 @@
 00000
 00000
 ;
-//---------------pump-single - s15 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -4489,7 +4480,7 @@
 00000
 00000
 ;
-//---------------pump-single - s18 New----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -5516,7 +5507,7 @@
 00000
 00000
 ;
-//---------------pump-double - d10 New----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -6059,7 +6050,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - d11 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -6534,7 +6525,7 @@
 0010000000
 0000000000
 ;
-//---------------pump-double - d16 New----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -7430,7 +7421,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - d17 pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -8249,7 +8240,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - d18 New----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -9240,7 +9231,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-routine - DP pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Routine;
 #STEPSTYPE:pump-routine;

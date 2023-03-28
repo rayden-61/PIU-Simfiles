@@ -38,8 +38,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -408,7 +406,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -775,7 +772,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -1242,7 +1238,6 @@
 00000
 ;
 
-//---------------pump-single - Single 13 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Single 13 UCS;
@@ -1782,7 +1777,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -2743,7 +2737,6 @@
 00000
 ;
 
-//---------------pump-single - s17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Beauty Memories;
 #STEPSTYPE:pump-single;
@@ -3675,7 +3668,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Crazy;
 #STEPSTYPE:pump-single;
@@ -4652,7 +4644,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ HDB;
 #STEPSTYPE:pump-halfdouble;
@@ -5274,7 +5265,6 @@
 000000
 ;
 
-//---------------pump-double - d7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -5736,7 +5726,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double 13 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Double 13 UCS;
@@ -6324,7 +6313,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -7052,7 +7040,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Running Ahead;
 #STEPSTYPE:pump-double;
@@ -8060,3 +8047,4 @@
 0000000000
 0000000000
 ;
+

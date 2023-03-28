@@ -38,17 +38,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:6.027;
-#LASTSECONDHINT:112.428;
-#SONGFILENAME:/Songs/12 Remixes/Dawgs In Da Revolution/Dawgs In Da Revolution.ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:112.428;
-// end cache tags
 
-
-//---------------pump-routine - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-routine;
@@ -1560,8 +1550,6 @@
 0000000000
 ;
 
-
-//---------------pump-routine - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:Revolutionary 2P;
 #STEPSTYPE:pump-routine;
@@ -3492,3 +3480,4 @@
 0000000000
 0000000000
 ;
+

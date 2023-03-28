@@ -58,22 +58,7 @@
 200.000=PE52G-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:8.000=white flash=1.000=0=0=1=====,
-40.000=white flash=1.000=0=0=1=====,
-56.000=white flash=1.000=0=0=1=====,
-72.000=white flash=1.000=0=0=1=====,
-88.000=white flash=1.000=0=0=1=====,
-104.000=white flash=1.000=0=0=1=====,
-136.000=white flash=1.000=0=0=1=====,
-152.000=white flash=1.000=0=0=1=====,
-168.000=white flash=1.000=0=0=1=====,
-184.000=white flash=1.000=0=0=1=====,
-200.000=white flash=1.000=0=0=1=====,
-;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - Another----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 The Trinity;
 #STEPSTYPE:pump-single;
@@ -1045,7 +1030,7 @@ M00M0
 00000
 00000
 ;
-//---------------lights-cabinet - ----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:lights-cabinet;

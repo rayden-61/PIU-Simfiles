@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s17 Train----------------
 #NOTEDATA:;
 #CHARTNAME:B.P.M Collections;
 #STEPSTYPE:pump-single;
@@ -1094,7 +1092,6 @@
 00000
 ;
 
-//---------------pump-double - UCS D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D18;
@@ -2197,3 +2194,4 @@
 0000000333
 0000000000
 ;
+

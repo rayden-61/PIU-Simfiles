@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S19 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack;
 #STEPSTYPE:pump-single;
@@ -2205,7 +2203,6 @@
 00000
 ;
 
-//---------------pump-double - d18 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Harena * Bomb;
 #STEPSTYPE:pump-double;
@@ -4279,7 +4276,6 @@ MMMMMMMMMM
 0000000000
 ;
 
-//---------------pump-double - UCS Newbees----------------
 #NOTEDATA:;
 #CHARTNAME:Emergency!;
 #STEPSTYPE:pump-double;
@@ -5841,3 +5837,4 @@ FFF0000000
 0000000033
 0000000000
 ;
+

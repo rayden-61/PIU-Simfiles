@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -398,7 +396,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -782,7 +779,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1263,7 +1259,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S10----------------
 #NOTEDATA:;
 #CHARTNAME:Me Siento Bien;
 #STEPSTYPE:pump-single;
@@ -1959,7 +1954,6 @@
 00000
 ;
 
-//---------------pump-single - s13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
@@ -2802,7 +2796,6 @@
 00000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -3166,7 +3159,6 @@
 0000000000
 ;
 
-//---------------pump-double - d15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d15;
@@ -4057,7 +4049,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS DP 16----------------
 #NOTEDATA:;
 #CHARTNAME:Diecisplits;
 #STEPSTYPE:pump-double;
@@ -4592,7 +4583,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - D19 UCS----------------
+
 #NOTEDATA:;
 #CHARTNAME:4x4 Chorus;
 #STEPSTYPE:pump-double;
@@ -5457,3 +5448,4 @@
 0000000300
 0000000000
 ;
+

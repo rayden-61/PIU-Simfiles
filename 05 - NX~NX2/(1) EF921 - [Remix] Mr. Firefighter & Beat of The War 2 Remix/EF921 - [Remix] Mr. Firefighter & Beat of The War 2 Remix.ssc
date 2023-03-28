@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S20----------------
 #NOTEDATA:;
 #CHARTNAME:Single 20;
 #STEPSTYPE:pump-single;
@@ -3918,7 +3916,6 @@
 00000
 ;
 
-//---------------pump-double - d19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Prue Ocean Fire & Ice;
 #STEPSTYPE:pump-double;
@@ -8125,3 +8122,4 @@
 0000000000
 0000000000
 ;
+

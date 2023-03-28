@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -766,7 +764,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -1938,7 +1935,6 @@
 00000
 ;
 
-//---------------pump-single - Single16 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 16 UCS;
 #STEPSTYPE:pump-single;
@@ -3431,7 +3427,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -5092,7 +5087,6 @@
 00000
 ;
 
-//---------------pump-double - d8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d8;
@@ -5812,7 +5806,6 @@
 0000000000
 ;
 
-//---------------pump-double - D20 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20 UCS;
@@ -7476,7 +7469,6 @@
 0000000000
 ;
 
-//---------------pump-double - D22 NEW----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D22 NEW;
@@ -9086,7 +9078,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D22;
@@ -12021,7 +12012,6 @@
 0000000000
 ;
 
-//---------------pump-double - D23 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D23 UCS;
@@ -13686,7 +13676,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 7;
@@ -14416,3 +14405,4 @@
 0000000000
 0000000000
 ;
+

@@ -38,11 +38,7 @@
 #BGCHANGES:-0.300=IN002.MPG=1.000=0=0=1=CenteredLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s20 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Song - Single 20;
 #STEPSTYPE:pump-single;
@@ -6779,3 +6775,4 @@
 00000
 00000
 ;
+

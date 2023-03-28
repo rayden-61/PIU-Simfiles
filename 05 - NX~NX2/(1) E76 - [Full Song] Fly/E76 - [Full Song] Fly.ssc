@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s10;
@@ -1178,7 +1176,6 @@
 00101
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -2882,7 +2879,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Custom Edit;
 #STEPSTYPE:pump-single;
@@ -4710,7 +4706,6 @@
 30030
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -6232,7 +6227,6 @@
 1000000000
 ;
 
-//---------------pump-double - d17 quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Barharn * Ahgoo;
 #STEPSTYPE:pump-double;
@@ -7884,3 +7878,4 @@
 0000000000
 0000000000
 ;
+

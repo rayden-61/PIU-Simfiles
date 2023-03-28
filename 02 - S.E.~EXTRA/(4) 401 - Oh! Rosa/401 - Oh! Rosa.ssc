@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2 Pro;
@@ -358,7 +356,6 @@
 00000
 ;
 
-//---------------pump-single - s3 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic Normal;
 #STEPSTYPE:pump-single;
@@ -687,7 +684,6 @@
 00000
 ;
 
-//---------------pump-single - s6 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic Hard;
 #STEPSTYPE:pump-single;
@@ -1168,7 +1164,6 @@
 00000
 ;
 
-//---------------pump-single - S8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S8;
@@ -1756,7 +1751,6 @@
 00000
 ;
 
-//---------------pump-single - s9 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:CLassic Crazy;
 #STEPSTYPE:pump-single;
@@ -2461,7 +2455,6 @@
 00000
 ;
 
-//---------------pump-single - S13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S13;
@@ -3340,7 +3333,6 @@
 00000
 ;
 
-//---------------pump-single - S19 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19 UCS;
@@ -4367,7 +4359,6 @@
 00000
 ;
 
-//---------------pump-double - d7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -4899,7 +4890,6 @@
 0000000000
 ;
 
-//---------------pump-double - d8 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-double;
@@ -5380,7 +5370,6 @@
 0000000000
 ;
 
-//---------------pump-double - d12 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -6093,7 +6082,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double 15 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 15;
 #STEPSTYPE:pump-double;
@@ -6866,7 +6854,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D21 UCS;
@@ -7909,7 +7896,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (X) Oh! X;
 #STEPSTYPE:pump-double;
@@ -8362,7 +8348,6 @@
 0000000000
 ;
 
-//---------------pump-double - DP99 NEW----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP99 NEW;

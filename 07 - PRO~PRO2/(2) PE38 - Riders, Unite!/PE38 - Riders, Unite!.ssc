@@ -38,10 +38,7 @@
 #BGCHANGES:-1.400=PE38.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:K. Ward;
 #STEPSTYPE:pump-single;
@@ -357,7 +354,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J.Casarino;
 #STEPSTYPE:pump-single;
@@ -673,7 +670,7 @@
 00000
 03300
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J.Casarino;
 #STEPSTYPE:pump-single;
@@ -1173,7 +1170,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J.Casarino;
 #STEPSTYPE:pump-single;
@@ -2149,7 +2146,7 @@
 00000
 00003
 ;
-//---------------pump-halfdouble - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J. Dread;
 #STEPSTYPE:pump-halfdouble;
@@ -2625,7 +2622,7 @@
 000000
 000000
 ;
-//---------------pump-double - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J.Casarino;
 #STEPSTYPE:pump-double;
@@ -3165,7 +3162,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:J.Casarino;
 #STEPSTYPE:pump-double;

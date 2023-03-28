@@ -41,11 +41,7 @@
 -0.300=IN002.mpg=1.000=1=0=1=CenteredLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s20 INFINITY----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -742,7 +738,6 @@
 00300
 ;
 
-//---------------pump-double - d21 INFINITY----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -1609,3 +1604,4 @@
 0000000000
 0000000000
 ;
+

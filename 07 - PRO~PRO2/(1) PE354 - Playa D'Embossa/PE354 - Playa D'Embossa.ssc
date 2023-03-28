@@ -67,21 +67,7 @@
 230.000=PE354-wide.png=1.000=0=0=1=ProTitle==CrossFade_Fastest==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:8.000=white flash=1.000=0=0=1=====,
-40.000=yellow flash=1.000=0=0=1=====,
-56.000=white flash=1.000=0=0=1=====,
-88.000=white flash=1.000=0=0=1=====,
-104.000=white flash=1.000=0=0=1=====,
-136.000=white flash=1.000=0=0=1=====,
-184.000=white flash=1.000=0=0=1=====,
-200.000=white flash=1.000=0=0=1=====,
-216.000=white flash=1.000=0=0=1=====,
-232.000=yellow flash=1.000=0=0=1=====,
-;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - W. Smith----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -400,7 +386,7 @@
 00300
 00000
 ;
-//---------------pump-single - W. Smith----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -727,7 +713,7 @@
 00300
 00000
 ;
-//---------------pump-single - W. Smith----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1342,7 +1328,7 @@
 00300
 00000
 ;
-//---------------pump-single - S. Hanson----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2193,7 +2179,7 @@
 03000
 00000
 ;
-//---------------pump-double - E. Holniker----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -2520,7 +2506,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - E. Holniker----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;

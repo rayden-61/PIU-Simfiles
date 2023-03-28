@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S04----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S04;
@@ -332,7 +330,6 @@
 00000
 ;
 
-//---------------pump-single - S7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S7;
@@ -932,7 +929,6 @@
 00000
 ;
 
-//---------------pump-single - S11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S11;
@@ -1516,7 +1512,6 @@
 00000
 ;
 
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -2741,7 +2736,6 @@
 00000
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -4112,3 +4106,4 @@
 00000
 00000
 ;
+

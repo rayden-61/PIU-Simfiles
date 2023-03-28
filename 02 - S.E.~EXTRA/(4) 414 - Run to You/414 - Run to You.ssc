@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S2;
@@ -318,7 +316,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -602,7 +599,6 @@
 00000
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -886,7 +882,6 @@
 00000
 ;
 
-//---------------pump-single - S7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S7;
@@ -1319,7 +1314,6 @@
 00000
 ;
 
-//---------------pump-single - s10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s10;
@@ -1823,7 +1817,6 @@
 00000
 ;
 
-//---------------pump-single - Single12 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 12 UCS;
 #STEPSTYPE:pump-single;
@@ -2484,7 +2477,6 @@
 00000
 ;
 
-//---------------pump-single - Another EXTRA----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Another EXTRA;
@@ -3162,7 +3154,6 @@
 00000
 ;
 
-//---------------pump-single - S13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S13;
@@ -3770,7 +3761,6 @@
 00000
 ;
 
-//---------------pump-single - S18 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 18;
 #STEPSTYPE:pump-single;
@@ -4404,7 +4394,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS HDB----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ HDB;
 #STEPSTYPE:pump-halfdouble;
@@ -4693,7 +4682,6 @@
 000000
 ;
 
-//---------------pump-halfdouble - Halfdouble 5 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:HalfDouble 5;
 #STEPSTYPE:pump-halfdouble;
@@ -4982,7 +4970,6 @@
 000000
 ;
 
-//---------------pump-double - d6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6;
@@ -5266,7 +5253,6 @@
 0000000000
 ;
 
-//---------------pump-double - d14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d14;
@@ -5874,7 +5860,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double 15 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 15;
 #STEPSTYPE:pump-double;
@@ -6399,7 +6384,6 @@
 0000000000
 ;
 
-//---------------pump-double - D19 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Run Around;
 #STEPSTYPE:pump-double;
@@ -7321,7 +7305,6 @@
 0000000000
 ;
 
-//---------------pump-double - DP UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Running To You;
 #STEPSTYPE:pump-double;
@@ -7821,3 +7804,4 @@ xx0z00z0yy
 0000000000
 3303003033
 ;
+

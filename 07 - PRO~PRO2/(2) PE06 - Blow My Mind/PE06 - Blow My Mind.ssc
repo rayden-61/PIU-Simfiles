@@ -40,10 +40,7 @@
 -4.100=PE06.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #CREDIT:K. Ward;
@@ -346,7 +343,7 @@
 00000
 00000
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #CREDIT:K. Ward;
@@ -649,7 +646,7 @@
 00000
 00000
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #CREDIT:K. Ward;
@@ -1024,7 +1021,7 @@
 00000
 00000
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #CREDIT:C. Foy;
@@ -1532,7 +1529,7 @@ M1111
 00000
 00000
 ;
-//---------------pump-double - halfdouble pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-double;
@@ -1835,7 +1832,7 @@ M1111
 0000000000
 0000000000
 ;
-//---------------pump-double - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #CREDIT:J. Dread;
@@ -2186,7 +2183,7 @@ M1111
 0000000000
 0000000000
 ;
-//---------------pump-double - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #CREDIT:C. Foy;

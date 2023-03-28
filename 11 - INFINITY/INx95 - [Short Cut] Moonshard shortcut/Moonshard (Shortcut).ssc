@@ -38,16 +38,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:4.151;
-#LASTSECONDHINT:38.84600;
-#SONGFILENAME:/Songs/14 Music Trains/[NeonFM] Moonshard shortcut/Moonshard (Shortcut).ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:38.84600;
-// end cache tags
 
-//---------------pump-single - INFINITY----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -537,3 +528,4 @@
 00003
 00000
 ;
+

@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S15----------------
 #NOTEDATA:;
 #CHARTNAME:Boom, Earshot;
 #STEPSTYPE:pump-single;
@@ -1400,7 +1398,6 @@
 00000
 ;
 
-//---------------pump-single - s22 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 22;
 #STEPSTYPE:pump-single;
@@ -2840,7 +2837,6 @@
 00000
 ;
 
-//---------------pump-double - UCS D14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D14;
@@ -3979,7 +3975,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 21;
 #STEPSTYPE:pump-double;
@@ -5483,7 +5478,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D22;
@@ -7859,3 +7853,4 @@
 3033000000
 0000000000
 ;
+

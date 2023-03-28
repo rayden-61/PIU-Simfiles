@@ -40,11 +40,7 @@
 -0.300=003.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -854,7 +850,6 @@
 00000
 ;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2004,7 +1999,6 @@
 00000
 ;
 
-//---------------pump-double - d9----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -2814,7 +2808,6 @@
 0000003003
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -3962,3 +3955,4 @@
 0000000000
 0000000000
 ;
+

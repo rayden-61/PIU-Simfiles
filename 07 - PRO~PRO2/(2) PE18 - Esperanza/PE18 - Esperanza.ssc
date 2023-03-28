@@ -36,25 +36,7 @@
 -0.300=PE18.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:12.000=white flash=1.000=0=0=1=====,
-16.000=white flash=1.000=0=0=1=====,
-48.000=white flash=1.000=0=0=1=====,
-64.000=white flash=1.800=0=0=1=====,
-76.000=white flash=1.000=0=0=1=====,
-80.000=white flash=1.000=0=0=1=====,
-112.000=white flash=1.000=0=0=1=====,
-144.000=white flash=1.000=0=0=1=====,
-168.000=yellow flash=1.000=0=0=1=====,
-180.000=white flash=1.600=0=0=1=====,
-181.000=white flash=1.600=0=0=1=====,
-182.000=white flash=1.000=0=0=1=====,
-194.000=white flash=1.000=0=0=1=====,
-196.000=white flash=1.000=0=0=1=====,
-228.000=white flash=1.000=0=0=1=====,
-260.000=white flash=1.000=0=0=1=====,
-;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -419,7 +401,6 @@
 00000
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -784,7 +765,6 @@
 00000
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -1441,7 +1421,6 @@
 00000
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -2522,7 +2501,6 @@
 00000
 ;
 
-//---------------pump-single - s18 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s18 Infinity;
@@ -3603,7 +3581,6 @@
 00000
 ;
 
-//---------------pump-double - UCS DP4----------------
 #NOTEDATA:;
 #CHARTNAME:Double Performance 4;
 #STEPSTYPE:pump-double;
@@ -3986,7 +3963,6 @@
 0000000000
 ;
 
-//---------------pump-double - halfdouble pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-double;
@@ -4499,7 +4475,6 @@
 0000000000
 ;
 
-//---------------pump-double - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -5084,7 +5059,6 @@
 0000000000
 ;
 
-//---------------pump-double - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -6133,7 +6107,6 @@
 0000000000
 ;
 
-//---------------pump-double - d18 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18 Infinity;
@@ -7329,3 +7302,4 @@
 0000000000
 0000000000
 ;
+

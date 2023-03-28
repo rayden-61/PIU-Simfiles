@@ -35,8 +35,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9;
@@ -863,7 +861,6 @@
 00000
 ;
 
-//---------------pump-single - s12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s12;
@@ -1738,7 +1735,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -3959,7 +3955,6 @@
 00000
 ;
 
-//---------------pump-double - d11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d11;
@@ -4834,7 +4829,7 @@
 0100100000
 0000000000
 ;
-//---------------pump-double - UCS D21----------------
+
 #NOTEDATA:;
 #CHARTNAME:Double 21;
 #STEPSTYPE:pump-double;
@@ -7162,7 +7157,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - DP INFINITY----------------
+
 #NOTEDATA:;
 #CHARTNAME:4 players;
 #STEPSTYPE:pump-double;
@@ -9127,3 +9122,4 @@ X000000000
 MMMMMMMMMM
 0000000000
 ;
+

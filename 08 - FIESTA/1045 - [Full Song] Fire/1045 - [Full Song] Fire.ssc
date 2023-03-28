@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -2077,7 +2075,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Custom Edit;
 #STEPSTYPE:pump-single;
@@ -4126,7 +4123,6 @@
 00000
 ;
 
-//---------------pump-double - DP17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single Evolution;
 #STEPSTYPE:pump-double;
@@ -6246,7 +6242,6 @@
 0000000000
 ;
 
-//---------------pump-double - d18 Quest (FEX)----------------
 #NOTEDATA:;
 #CHARTNAME:Fiesta EX Quest Zone QE607;
 #STEPSTYPE:pump-double;
@@ -12819,7 +12814,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS;
@@ -16667,3 +16661,4 @@
 0000000000
 0000000000
 ;
+

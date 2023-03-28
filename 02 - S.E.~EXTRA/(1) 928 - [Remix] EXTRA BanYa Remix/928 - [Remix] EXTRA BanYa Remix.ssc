@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S11;
@@ -1084,7 +1082,6 @@
 00000
 ;
 
-//---------------pump-single - s19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Barharn * Wing;
 #STEPSTYPE:pump-single;
@@ -2637,7 +2634,6 @@
 00000
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -4122,7 +4118,6 @@
 00000
 ;
 
-//---------------pump-single - UCS Kaze----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS Kaze;
@@ -5829,7 +5824,6 @@
 00000
 ;
 
-//---------------pump-double - D14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D14;
@@ -6879,7 +6873,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D24----------------
 #NOTEDATA:;
 #CHARTNAME:Double 24;
 #STEPSTYPE:pump-double;
@@ -8905,7 +8898,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 8;
@@ -9954,3 +9946,4 @@
 0000000000
 0000000000
 ;
+

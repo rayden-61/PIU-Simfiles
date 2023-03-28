@@ -40,10 +40,7 @@
 -0.300=PE41.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - K. Ward----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -360,7 +357,7 @@
 00000
 00000
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -685,7 +682,7 @@
 00000
 00000
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -1150,7 +1147,7 @@
 00000
 00000
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -2223,7 +2220,7 @@ M000M
 00000
 00000
 ;
-//---------------pump-single - Train----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Afraid of Change;
 #STEPSTYPE:pump-single;
@@ -3116,7 +3113,7 @@ M000M
 00000
 00000
 ;
-//---------------pump-single - Train----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Don't Trust Anything;
 #STEPSTYPE:pump-single;
@@ -5107,7 +5104,7 @@ M000M
 00000
 00000
 ;
-//---------------pump-double - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -5516,7 +5513,7 @@ M000M
 0000000000
 0030000000
 ;
-//---------------pump-double - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -6533,7 +6530,7 @@ M000M00000
 0000000000
 0000000000
 ;
-//---------------pump-double - halfdouble pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-double;
@@ -7382,7 +7379,7 @@ M000M00000
 0000000000
 0000000000
 ;
-//---------------pump-routine ----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-routine;

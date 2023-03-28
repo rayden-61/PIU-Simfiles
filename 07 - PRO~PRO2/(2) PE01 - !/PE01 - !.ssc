@@ -37,7 +37,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -417,7 +416,6 @@
 10001
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -797,7 +795,6 @@
 01010
 ;
 
-//---------------pump-single - UCS S8----------------
 #NOTEDATA:;
 #CHARTNAME:Bouts of Panic;
 #STEPSTYPE:pump-single;
@@ -1435,7 +1432,6 @@
 00000
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -2125,7 +2121,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S14----------------
 #NOTEDATA:;
 #CHARTNAME:Single 14;
 #STEPSTYPE:pump-single;
@@ -3200,7 +3195,6 @@
 00000
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -4642,7 +4636,6 @@
 03000
 ;
 
-//---------------pump-single - UCS 21----------------
 #NOTEDATA:;
 #CHARTNAME:Absolute Panic;
 #STEPSTYPE:pump-single;
@@ -6211,7 +6204,6 @@
 00000
 ;
 
-//---------------pump-single - S23 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Your life's a joke.;
 #STEPSTYPE:pump-single;
@@ -7851,7 +7843,6 @@
 00333
 ;
 
-//---------------pump-double - halfdouble pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-double;
@@ -8505,7 +8496,6 @@
 0000000000
 ;
 
-//---------------pump-double - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -9151,7 +9141,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D16----------------
 #NOTEDATA:;
 #CHARTNAME:Another Truth!;
 #STEPSTYPE:pump-double;
@@ -9689,7 +9678,6 @@
 0000000000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Infinity;
@@ -11125,7 +11113,6 @@
 0000030000
 ;
 
-//---------------pump-double - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -12714,3 +12701,4 @@
 0000000000
 0000000000
 ;
+

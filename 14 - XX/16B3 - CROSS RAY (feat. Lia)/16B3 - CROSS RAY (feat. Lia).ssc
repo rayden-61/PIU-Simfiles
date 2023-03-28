@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -321,7 +319,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -927,7 +924,6 @@
 00000
 ;
 
-//---------------pump-single - s12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s12;
@@ -1560,7 +1556,6 @@
 00000
 ;
 
-//---------------pump-single - s16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16;
@@ -2785,7 +2780,6 @@
 00000
 ;
 
-//---------------pump-single - S18 IronHigh UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 18;
 #STEPSTYPE:pump-single;
@@ -3948,7 +3942,6 @@
 00000
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19;
@@ -5357,7 +5350,6 @@
 00000
 ;
 
-//---------------pump-single - s22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s22;
@@ -6802,7 +6794,6 @@
 00000
 ;
 
-//---------------pump-double - d14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d14;
@@ -7431,7 +7422,6 @@
 0000000000
 ;
 
-//---------------pump-double - d20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d20;
@@ -8842,7 +8832,6 @@
 0000000000
 ;
 
-//---------------pump-double - d23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d23;
@@ -10318,7 +10307,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS RAY----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;

@@ -33,15 +33,7 @@
 -0.100=012.mpg=1.000=0=0=1=StretchNormal====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#FGCHANGES:453.500=FlashS20=1.000=0=0=1=====,
-453.500=FlashD21=1.000=0=0=1=====,
-453.500=FlashS23=1.000=0=0=1=====,
-453.500=FlashD25=1.000=0=0=1=====,
-99999.000=-nosongbg-=1.000=0=0=0=StretchNoLoop====,
-;
 
-
-//---------------pump-single - S15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S15;
@@ -1076,7 +1068,6 @@
 00000
 ;
 
-//---------------pump-single - S20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S20;
@@ -3210,7 +3201,6 @@ F0000
 00000
 ;
 
-//---------------pump-single - S23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S23;
@@ -6266,7 +6256,6 @@ F000F
 00000
 ;
 
-//---------------pump-double - D21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D21;
@@ -8399,7 +8388,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - D25----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D25;
@@ -11451,3 +11439,4 @@ F000000000
 0000000000
 0000000000
 ;
+

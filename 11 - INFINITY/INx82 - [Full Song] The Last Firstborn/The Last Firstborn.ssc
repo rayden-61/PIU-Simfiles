@@ -39,16 +39,6 @@
 #ATTACKS:
 ;
 
-// cache tags:
-#FIRSTSECOND:0.11703;
-#LASTSECONDHINT:293.84800;
-#SONGFILENAME:/Songs/15 Missions/[4][E1] On the Edge/The Last Firstborn.ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:293.70000;
-// end cache tags
-
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -2726,3 +2716,4 @@
 0000000000
 0000000000
 ;
+

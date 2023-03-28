@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -1863,7 +1861,6 @@
 00000
 ;
 
-//---------------pump-double - d18 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain * Ehwa;
 #STEPSTYPE:pump-double;
@@ -3611,3 +3608,4 @@
 0000000000
 0000000000
 ;
+

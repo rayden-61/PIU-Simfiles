@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1165,7 +1163,6 @@
 00000
 ;
 
-//---------------pump-single - s14 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Crazy;
 #STEPSTYPE:pump-single;
@@ -2821,7 +2818,6 @@
 00000
 ;
 
-//---------------pump-single - S17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack, Softer Ver.;
 #STEPSTYPE:pump-single;
@@ -5012,7 +5008,6 @@
 00000
 ;
 
-//---------------pump-single - S20 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack;
 #STEPSTYPE:pump-single;
@@ -7168,7 +7163,6 @@
 00000
 ;
 
-//---------------pump-double - d6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6;
@@ -8043,7 +8037,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D14----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack Easy Mode;
 #STEPSTYPE:pump-double;
@@ -9754,7 +9747,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D18;
@@ -11866,7 +11858,6 @@
 0000000000
 ;
 
-//---------------pump-double - D20 halfdouble ucs----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack;
 #STEPSTYPE:pump-double;
@@ -14014,3 +14005,4 @@
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S9;
@@ -821,7 +819,6 @@
 00000
 ;
 
-//---------------pump-single - S12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S12;
@@ -2204,7 +2201,6 @@
 00000
 ;
 
-//---------------pump-single - S15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S15;
@@ -3635,7 +3631,6 @@
 00000
 ;
 
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -6253,7 +6248,6 @@
 00000
 ;
 
-//---------------pump-single - S20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S20;
@@ -8852,7 +8846,6 @@
 00000
 ;
 
-//---------------pump-single - S20 hidden INFOBAR----------------
 #NOTEDATA:;
 #CHARTNAME:Mobile Edition;
 #STEPSTYPE:pump-single;
@@ -11452,7 +11445,6 @@
 00000
 ;
 
-//---------------pump-single - S23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S23;
@@ -14433,7 +14425,6 @@
 00000
 ;
 
-//---------------pump-single - S23 hidden INFOBAR----------------
 #NOTEDATA:;
 #CHARTNAME:Mobile Edition;
 #STEPSTYPE:pump-single;
@@ -17415,7 +17406,6 @@
 00000
 ;
 
-//---------------pump-single - single ucs 24----------------
 #NOTEDATA:;
 #CHARTNAME:single 24;
 #STEPSTYPE:pump-single;
@@ -19403,7 +19393,6 @@ F0F0F
 00000
 ;
 
-//---------------pump-double - double ucs 12----------------
 #NOTEDATA:;
 #CHARTNAME:double 12;
 #STEPSTYPE:pump-double;
@@ -20257,7 +20246,6 @@ F0F0F
 0000330000
 ;
 
-//---------------pump-double - double ucs 15----------------
 #NOTEDATA:;
 #CHARTNAME:double 15;
 #STEPSTYPE:pump-double;
@@ -21255,7 +21243,6 @@ F0F0F
 0003003000
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18;
@@ -22678,7 +22665,6 @@ F0F0F
 0000000000
 ;
 
-//---------------pump-double - D22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D22;
@@ -25278,7 +25264,6 @@ F0F0F
 0000000000
 ;
 
-//---------------pump-double - D26----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D26;
@@ -27766,3 +27751,4 @@ F000000000
 0000000000
 0000000000
 ;
+

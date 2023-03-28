@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -978,7 +976,6 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -2335,7 +2332,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Lost Verus Like.COM;
 #STEPSTYPE:pump-single;
@@ -3785,7 +3781,6 @@
 3{3|n|1|0}{3|n|1|0}{3|n|1|0}3
 ;
 
-//---------------pump-double - d9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d9;
@@ -4756,7 +4751,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D18----------------
 #NOTEDATA:;
 #CHARTNAME:Double 18;
 #STEPSTYPE:pump-double;
@@ -6145,3 +6139,4 @@
 0000000000
 0000000000
 ;
+

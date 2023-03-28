@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -369,7 +367,6 @@
 00000
 ;
 
-//---------------pump-single - s2 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-single;
@@ -724,7 +721,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Hard;
 #STEPSTYPE:pump-single;
@@ -1239,7 +1235,6 @@
 00000
 ;
 
-//---------------pump-single - s9 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-single;
@@ -2026,7 +2021,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Crazy;
 #STEPSTYPE:pump-single;
@@ -2969,7 +2963,6 @@
 00000
 ;
 
-//---------------pump-single - s15 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-single;
@@ -3972,7 +3965,6 @@
 00000
 ;
 
-//---------------pump-single - S19 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19 UCS;
@@ -4975,7 +4967,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -5494,7 +5485,6 @@
 000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Freestyle;
 #STEPSTYPE:pump-double;
@@ -6052,7 +6042,6 @@
 0000000000
 ;
 
-//---------------pump-double - d9 HalfDouble Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-double;
@@ -6651,7 +6640,6 @@
 0000000000
 ;
 
-//---------------pump-double - d10 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-double;
@@ -7413,7 +7401,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-double;
@@ -8432,7 +8419,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -9382,7 +9368,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D21 UCS;
@@ -10406,3 +10391,4 @@
 0000000000
 0000000000
 ;
+

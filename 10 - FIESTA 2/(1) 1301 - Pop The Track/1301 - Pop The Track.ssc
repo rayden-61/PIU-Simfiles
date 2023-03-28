@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s1 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s1 Infinity;
@@ -419,7 +417,6 @@
 00000
 ;
 
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -813,7 +810,6 @@
 00000
 ;
 
-//---------------pump-single - s2 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2 Infinity;
@@ -1198,7 +1194,6 @@
 00000
 ;
 
-//---------------pump-single - s4 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4 Infinity;
@@ -1583,7 +1578,6 @@
 00000
 ;
 
-//---------------pump-single - S4 NEW----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4 NEW;
@@ -1861,7 +1855,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -2409,7 +2402,6 @@
 00000
 ;
 
-//---------------pump-single - s9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9;
@@ -2977,7 +2969,6 @@
 00000
 ;
 
-//---------------pump-single - s9 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9 Infinity;
@@ -3518,7 +3509,6 @@
 00000
 ;
 
-//---------------pump-single - s10 Quest (inf)----------------
 #NOTEDATA:;
 #CHARTNAME:Infinity - Welcome to Mission Zone;
 #STEPSTYPE:pump-single;
@@ -4121,7 +4111,6 @@
 00000
 ;
 
-//---------------pump-single - s16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16;
@@ -4944,7 +4933,6 @@
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity;
@@ -5945,7 +5933,6 @@
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity;
@@ -6909,7 +6896,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -8089,7 +8075,6 @@
 00000
 ;
 
-//---------------pump-double - d9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d9;
@@ -8633,7 +8618,6 @@
 0000000000
 ;
 
-//---------------pump-double - d10 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d10 Infinity;
@@ -9242,7 +9226,6 @@
 0000030003
 ;
 
-//---------------pump-double - d17 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d17 Infinity;
@@ -10352,7 +10335,6 @@
 0000030030
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -11265,7 +11247,6 @@
 0000000000
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -12322,7 +12303,6 @@
 0010110100
 ;
 
-//---------------pump-routine - DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP;
@@ -13356,3 +13336,4 @@
 0000000000
 0000000000
 ;
+

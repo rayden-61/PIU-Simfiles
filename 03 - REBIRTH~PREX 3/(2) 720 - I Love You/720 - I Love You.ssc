@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -375,7 +373,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -719,7 +716,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1171,7 +1167,6 @@
 00000
 ;
 
-//---------------pump-single - S10 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10 UCS;
@@ -1789,7 +1784,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S16----------------
 #NOTEDATA:;
 #CHARTNAME:Let's Just Be Friends;
 #STEPSTYPE:pump-single;
@@ -2630,7 +2624,6 @@
 00000
 ;
 
-//---------------pump-double - d4 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4 HalfDouble;
@@ -2970,7 +2963,6 @@
 0000000000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -3318,7 +3310,6 @@
 0000000000
 ;
 
-//---------------pump-double - D11 ucs----------------
 #NOTEDATA:;
 #CHARTNAME:Love;
 #STEPSTYPE:pump-double;
@@ -3864,7 +3855,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double 14UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Double 14UCS;
@@ -4480,7 +4470,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -5157,3 +5146,4 @@
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S21;
@@ -1833,7 +1831,6 @@
 00000
 ;
 
-//---------------pump-double - d21 quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Luman Ocean * Yasangma 2;
 #STEPSTYPE:pump-double;
@@ -3889,7 +3886,6 @@ F000FF000F
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Luman Ocean * Yasangma 2-2;
 #STEPSTYPE:pump-double;
@@ -6480,3 +6476,4 @@ F000FF000F
 0000000000
 0000000300
 ;
+

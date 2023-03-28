@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S10----------------
 #NOTEDATA:;
 #CHARTNAME:Mash Up;
 #STEPSTYPE:pump-single;
@@ -970,7 +968,6 @@
 00000
 ;
 
-//---------------pump-single - s13 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia Non-Powerful 2;
 #STEPSTYPE:pump-single;
@@ -2106,7 +2103,6 @@
 00000
 ;
 
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -3560,7 +3556,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin MX Trill;
 #STEPSTYPE:pump-single;
@@ -8432,7 +8427,6 @@
 00000
 ;
 
-//---------------pump-single - s22 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 22;
 #STEPSTYPE:pump-single;
@@ -10433,7 +10427,6 @@
 00000
 ;
 
-//---------------pump-single - s24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s24;
@@ -12619,7 +12612,6 @@
 00000
 ;
 
-//---------------pump-single - S29 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:The Ultimate Bee Chase;
 #STEPSTYPE:pump-single;
@@ -16929,7 +16921,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - d11 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -17839,7 +17830,6 @@
 000000
 ;
 
-//---------------pump-halfdouble - UCS HD15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS HD15;
@@ -19097,7 +19087,6 @@
 000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -20590,7 +20579,6 @@
 0000000000
 ;
 
-//---------------pump-double - d25 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Fiesta 2 Quest Zone QN065;
 #STEPSTYPE:pump-double;
@@ -22667,7 +22655,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d26;
@@ -25054,3 +25041,4 @@
 0000000000
 0000000000
 ;
+

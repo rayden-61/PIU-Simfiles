@@ -39,10 +39,7 @@
 #BGCHANGES:-0.200=PE04.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -319,7 +316,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -596,7 +593,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -1097,7 +1094,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -1894,7 +1891,7 @@
 00000
 00000
 ;
-//---------------pump-halfdouble - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -2396,7 +2393,7 @@
 000000
 000000
 ;
-//---------------pump-double - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -2809,7 +2806,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;

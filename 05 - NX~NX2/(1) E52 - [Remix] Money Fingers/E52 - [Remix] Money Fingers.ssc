@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -943,7 +941,6 @@
 00010
 ;
 
-//---------------pump-single - s11 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Rootinia Mon*ey;
 #STEPSTYPE:pump-single;
@@ -1909,7 +1906,6 @@
 01000
 ;
 
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -3215,7 +3211,6 @@
 00000
 ;
 
-//---------------pump-double - d9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d9;
@@ -4148,7 +4143,6 @@
 1000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia Mon*ey 2;
 #STEPSTYPE:pump-double;
@@ -5210,7 +5204,6 @@
 0000000000
 ;
 
-//---------------pump-double - d17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d17;
@@ -6590,7 +6583,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin Item Bank;
 #STEPSTYPE:pump-double;
@@ -9952,3 +9944,4 @@
 0000000000
 0000000000
 ;
+

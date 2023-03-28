@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -467,7 +465,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1095,7 +1092,6 @@
 00000
 ;
 
-//---------------pump-single - s12 Quest (inf)----------------
 #NOTEDATA:;
 #CHARTNAME:Infinity - Perfect Supply;
 #STEPSTYPE:pump-single;
@@ -2333,7 +2329,6 @@
 00000
 ;
 
-//---------------pump-single - S13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S13;
@@ -3136,7 +3131,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Hold It;
 #STEPSTYPE:pump-single;
@@ -4489,7 +4483,6 @@
 00000
 ;
 
-//---------------pump-single - s16 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16 Infinity;
@@ -5681,7 +5674,6 @@
 00000
 ;
 
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -7472,7 +7464,6 @@
 00000
 ;
 
-//---------------pump-single - s19 Train----------------
 #NOTEDATA:;
 #CHARTNAME:Into the Sandstorm;
 #STEPSTYPE:pump-single;
@@ -8864,7 +8855,6 @@
 00000
 ;
 
-//---------------pump-single - s20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s20;
@@ -10341,7 +10331,6 @@
 03030
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -12031,7 +12020,6 @@
 00000
 ;
 
-//---------------pump-double - d10 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d10 Infinity;
@@ -12775,7 +12763,6 @@
 0000000000
 ;
 
-//---------------pump-double - D11 HALFDOUBLE----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D11 HALFDOUBLE;
@@ -13393,7 +13380,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -15064,7 +15050,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16 Infinity;
@@ -15944,7 +15929,6 @@
 0000000000
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -17350,7 +17334,6 @@
 0000000000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Infinity;
@@ -18616,7 +18599,6 @@
 0000000000
 ;
 
-//---------------pump-double - d22 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d22 Infinity;
@@ -19812,7 +19794,6 @@
 0000000000
 ;
 
-//---------------pump-double - D23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D23;
@@ -21557,7 +21538,6 @@
 0000000000
 ;
 
-//---------------pump-routine - DP 22 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP 22 Infinity;
@@ -23651,7 +23631,6 @@
 0000000000
 ;
 
-//---------------pump-routine - DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP;
@@ -25068,7 +25047,6 @@
 0000000000
 ;
 
-//---------------pump-routine - DP 15 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:2P Coop 15;
 #STEPSTYPE:pump-routine;
@@ -26876,3 +26854,4 @@
 0000000000
 0000000000
 ;
+

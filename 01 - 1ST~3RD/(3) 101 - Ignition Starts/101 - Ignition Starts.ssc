@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -331,7 +329,6 @@
 00000
 ;
 
-//---------------pump-single - s3 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -627,7 +624,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Normal;
 #STEPSTYPE:pump-single;
@@ -927,7 +923,6 @@
 00000
 ;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -1342,7 +1337,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -1789,7 +1783,6 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -2544,7 +2537,6 @@
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity;
@@ -3729,7 +3721,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -4839,7 +4830,6 @@ F0000
 00000
 ;
 
-//---------------pump-halfdouble - d6 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -5267,7 +5257,6 @@ F0000
 000000
 ;
 
-//---------------pump-double - d10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d10;
@@ -5682,7 +5671,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Nightmare;
 #STEPSTYPE:pump-double;
@@ -6390,7 +6378,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - d16 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -7266,7 +7253,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - D17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D17;
@@ -8300,7 +8286,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Infinity;
@@ -9343,7 +9328,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - d18 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone BOSS Conrad Step;
 #STEPSTYPE:pump-double;
@@ -10547,7 +10531,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - d21 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Launch System;
 #STEPSTYPE:pump-double;
@@ -11953,7 +11936,6 @@ F0000
 0000111000
 ;
 
-//---------------pump-couple - DP Couple 8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 8;
@@ -12367,7 +12349,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-routine - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:Infinity;
@@ -13766,3 +13747,4 @@ F0000
 0000000000
 0000000000
 ;
+

@@ -33,7 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - s1 Pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s1 Pro;
@@ -323,7 +322,6 @@
 00000
 ;
 
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -612,7 +610,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S7;
@@ -1018,7 +1015,6 @@
 00000
 ;
 
-//---------------pump-single - s9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9;
@@ -1679,7 +1675,6 @@
 00000
 ;
 
-//---------------pump-single - s11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s11;
@@ -2482,7 +2477,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S15----------------
 #NOTEDATA:;
 #CHARTNAME:...Oleoleola;
 #STEPSTYPE:pump-single;
@@ -3944,7 +3938,6 @@
 00000
 ;
 
-//---------------pump-double - d6 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6 HalfDouble;
@@ -4313,7 +4306,6 @@
 0000000000
 ;
 
-//---------------pump-double - d7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -5126,7 +5118,6 @@
 0000000000
 ;
 
-//---------------pump-double - d12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d12;
@@ -5941,7 +5932,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 16;
 #STEPSTYPE:pump-double;
@@ -7184,3 +7174,4 @@
 0000000003
 0000000000
 ;
+

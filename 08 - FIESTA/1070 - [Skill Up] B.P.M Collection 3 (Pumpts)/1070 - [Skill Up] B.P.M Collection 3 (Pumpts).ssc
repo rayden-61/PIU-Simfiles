@@ -40,11 +40,7 @@
 -0.300=007.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s19 Train----------------
 #NOTEDATA:;
 #CHARTNAME:B.P.M Collections;
 #STEPSTYPE:pump-single;
@@ -1188,7 +1184,7 @@
 00000
 00000
 ;
-//---------------pump-double - UCS D21----------------
+
 #NOTEDATA:;
 #CHARTNAME:UCS D21;
 #STEPSTYPE:pump-double;
@@ -2285,3 +2281,4 @@
 0000000033
 0000000000
 ;
+

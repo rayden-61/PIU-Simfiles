@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S10;
@@ -825,7 +823,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S15----------------
 #NOTEDATA:;
 #CHARTNAME:Methodical Man Chart;
 #STEPSTYPE:pump-single;
@@ -1923,7 +1920,6 @@
 00000
 ;
 
-//---------------pump-double - UCS D08----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D08;
@@ -2595,7 +2591,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D15;
@@ -3517,7 +3512,6 @@
 0000000000
 ;
 
-//---------------pump-double - D16 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 16;
 #STEPSTYPE:pump-double;
@@ -4664,3 +4658,4 @@
 0000000000
 0000000000
 ;
+

@@ -52,16 +52,7 @@
 224.000=PE373-wide.png=1.000=0=0=1=Visualization2File=white flash===,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:16.000=white flash=1.000=0=0=1=====,
-32.000=white flash=1.000=0=0=1=====,
-48.000=white flash=1.000=0=0=1=====,
-96.000=white flash=1.000=0=0=1=====,
-112.000=white flash=1.000=0=0=1=====,
-144.000=white flash=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -450,7 +441,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -904,7 +894,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1394,7 +1383,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2131,7 +2119,6 @@
 00000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -2428,7 +2415,6 @@
 0000000000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -2945,7 +2931,6 @@
 0000000000
 ;
 
-//---------------pump-routine - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Co-op x02;
 #STEPSTYPE:pump-routine;
@@ -3985,3 +3970,4 @@
 0000000000
 0000000000
 ;
+

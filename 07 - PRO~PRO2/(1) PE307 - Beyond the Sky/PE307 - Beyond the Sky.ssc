@@ -49,27 +49,7 @@
 240.000=PE307-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:38.000=white reverse flash=1.000=0=0=1=====,
-40.000=white flash=1.400=0=0=1=====,
-70.000=white reverse flash=1.000=0=0=1=====,
-72.000=white flash=1.400=0=0=1=====,
-102.000=white reverse flash=1.000=0=0=1=====,
-104.000=white flash=1.400=0=0=1=====,
-134.000=white reverse flash=1.000=0=0=1=====,
-136.000=white flash=1.400=0=0=1=====,
-166.000=white reverse flash=1.000=0=0=1=====,
-168.000=white flash=1.400=0=0=1=====,
-198.000=white reverse flash=1.000=0=0=1=====,
-200.000=white flash=1.400=0=0=1=====,
-230.000=white reverse flash=1.000=0=0=1=====,
-232.000=white flash=1.400=0=0=1=====,
-236.000=white flash=1.000=0=0=1=====,
-240.000=white flash=1.000=0=0=1=====,
-;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -409,7 +389,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -829,7 +809,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1354,7 +1334,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;

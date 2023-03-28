@@ -40,11 +40,7 @@
 -0.300=002.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -958,7 +954,6 @@
 00000
 ;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2883,7 +2878,6 @@
 00000
 ;
 
-//---------------pump-double - d14 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain Hearts Gone;
 #STEPSTYPE:pump-double;
@@ -5917,3 +5911,4 @@
 0000000000
 0000000000
 ;
+

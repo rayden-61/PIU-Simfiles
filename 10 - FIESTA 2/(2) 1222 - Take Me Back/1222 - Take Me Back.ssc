@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -459,7 +457,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -879,7 +876,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -1491,7 +1487,6 @@
 00000
 ;
 
-//---------------pump-single - s9 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -1926,7 +1921,6 @@
 00000
 ;
 
-//---------------pump-single - s9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9;
@@ -2566,7 +2560,6 @@
 00000
 ;
 
-//---------------pump-single - s11 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -3190,7 +3183,6 @@ M0M00
 00000
 ;
 
-//---------------pump-single - s14 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -4113,7 +4105,6 @@ M0M00
 00000
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -5129,7 +5120,6 @@ M0M00
 00000
 ;
 
-//---------------pump-single - s18 Quest (Prime)----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone CONRAD Step;
 #STEPSTYPE:pump-single;
@@ -6463,7 +6453,6 @@ M0M00
 00000
 ;
 
-//---------------pump-halfdouble - d9 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -7078,7 +7067,6 @@ M0M00
 000000
 ;
 
-//---------------pump-double - d10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d10;
@@ -7730,7 +7718,6 @@ M0M00
 0000000000
 ;
 
-//---------------pump-double - d11 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -8465,7 +8452,6 @@ M0M00
 0000000000
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -9549,7 +9535,6 @@ M0M00
 0000000000
 ;
 
-//---------------pump-double - d17 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -10519,3 +10504,4 @@ M0M00
 0300000000
 0000000000
 ;
+

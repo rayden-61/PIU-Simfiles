@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -2314,7 +2312,6 @@
 00000
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19;
@@ -5492,7 +5489,6 @@
 00000
 ;
 
-//---------------pump-double - D15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D15;
@@ -7608,7 +7604,6 @@
 0000000000
 ;
 
-//---------------pump-double - d19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d19;
@@ -11250,7 +11245,6 @@
 0000000000
 ;
 
-//---------------pump-double - D26 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Eternal Loneliness;
 #STEPSTYPE:pump-double;
@@ -14311,3 +14305,4 @@
 0000000000
 0000000000
 ;
+

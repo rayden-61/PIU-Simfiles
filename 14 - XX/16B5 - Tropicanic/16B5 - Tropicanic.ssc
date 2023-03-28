@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -231,7 +229,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -528,7 +525,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -1044,7 +1040,6 @@
 00000
 ;
 
-//---------------pump-single - s11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s11;
@@ -1576,7 +1571,6 @@
 00000
 ;
 
-//---------------pump-single - s16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16;
@@ -2662,7 +2656,6 @@
 00000
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19;
@@ -3800,7 +3793,6 @@
 00000
 ;
 
-//--------------- pump-single - KTGR UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:KTGR UCS;
@@ -4969,7 +4961,6 @@
 00000
 ;
 
-//---------------pump-double - d6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6;
@@ -5265,7 +5256,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D09----------------
 #NOTEDATA:;
 #CHARTNAME:DOUBLE  09;
 #STEPSTYPE:pump-double;
@@ -5787,7 +5777,6 @@
 0000000000
 ;
 
-//---------------pump-double - d13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d13;
@@ -6319,7 +6308,6 @@
 0000000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -7410,7 +7398,6 @@
 0000000000
 ;
 
-//---------------pump-double - d21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d21;
@@ -8550,7 +8537,6 @@
 0000000000
 ;
 
-//---------------pump-double - Nek0 UCS D22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Nek0 UCS D22;
@@ -9741,7 +9727,6 @@
 0000000000
 ;
 
-//---------------pump-double - d23 ucs ROND----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d23 ucs ROND;

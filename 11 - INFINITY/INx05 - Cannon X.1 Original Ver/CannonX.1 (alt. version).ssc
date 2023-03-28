@@ -37,17 +37,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:0;
-#LASTSECONDHINT:115.171;
-#SONGFILENAME:/Songs/05 NX to NX Absolute/FE02 Cannon X.1 Original Ver/CannonX.1 (alt. version).ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:115.560;
-// end cache tags
 
-
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1285,7 +1275,6 @@
 00000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -2682,3 +2671,4 @@
 0000000000
 0000000000
 ;
+

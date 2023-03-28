@@ -33,7 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -368,7 +367,6 @@
 00000
 ;
 
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -703,7 +701,6 @@
 10000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1306,7 +1303,6 @@
 00000
 ;
 
-//---------------pump-single - s6 pro----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1646,7 +1642,6 @@
 10000
 ;
 
-//---------------pump-single - s10 pro----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2366,7 +2361,6 @@
 00001
 ;
 
-//---------------pump-single - s11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s11;
@@ -3077,7 +3071,6 @@
 00000
 ;
 
-//---------------pump-single - s15 pro----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -3977,7 +3970,6 @@
 00000
 ;
 
-//---------------pump-single - s16 Train----------------
 #NOTEDATA:;
 #CHARTNAME:HP Service Center;
 #STEPSTYPE:pump-single;
@@ -4933,7 +4925,6 @@
 00000
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -5946,7 +5937,6 @@
 00000
 ;
 
-//---------------pump-double - d10 pro----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -6634,7 +6624,6 @@
 0000010000
 ;
 
-//---------------pump-double - d12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d12;
@@ -7357,7 +7346,6 @@
 0000000000
 ;
 
-//---------------pump-double - d15 pro----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -8249,7 +8237,6 @@
 0000000000
 ;
 
-//---------------pump-double - d15 HalfDouble pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d15 HalfDouble pro;
@@ -9204,7 +9191,6 @@
 0000000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -10243,7 +10229,6 @@
 0000000000
 ;
 
-//---------------pump-double - d19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone Nimgo-Rave;
 #STEPSTYPE:pump-double;
@@ -11199,7 +11184,6 @@
 0000000000
 ;
 
-//---------------pump-double - DP Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP Infinity;
@@ -11885,7 +11869,6 @@ Z000000001
 0000000000
 ;
 
-//---------------pump-routine - DP 16 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:2P Coop 16;
 #STEPSTYPE:pump-routine;
@@ -13425,3 +13408,4 @@ Z000000001
 0000000010
 0000000000
 ;
+

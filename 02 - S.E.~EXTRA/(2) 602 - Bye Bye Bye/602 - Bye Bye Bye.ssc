@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -221,7 +219,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -461,7 +458,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:S11;
 #STEPSTYPE:pump-single;
@@ -1028,7 +1024,6 @@
 00000
 ;
 
-//---------------pump-single - crazy UCS----------------
 #NOTEDATA:;
 #CHARTNAME:S12;
 #STEPSTYPE:pump-single;
@@ -1571,7 +1566,6 @@
 00000
 ;
 
-//---------------pump-single - ucs----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:ucs;
@@ -2044,7 +2038,6 @@
 00000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -2280,7 +2273,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCSD----------------
 #NOTEDATA:;
 #CHARTNAME:D13;
 #STEPSTYPE:pump-double;
@@ -2962,7 +2954,6 @@
 0000000000
 ;
 
-//---------------pump-double - Nightmare UCS----------------
 #NOTEDATA:;
 #CHARTNAME:D14;
 #STEPSTYPE:pump-double;
@@ -3505,3 +3496,4 @@
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -394,7 +392,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -753,7 +750,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -1340,7 +1336,6 @@
 00000
 ;
 
-//---------------pump-single - s12 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Moscow (2nd);
 #STEPSTYPE:pump-single;
@@ -2236,7 +2231,6 @@
 00000
 ;
 
-//---------------pump-single - s13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
@@ -3139,7 +3133,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S17;
@@ -4232,7 +4225,6 @@
 03000
 ;
 
-//---------------pump-single - S21 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 21;
 #STEPSTYPE:pump-single;
@@ -5281,7 +5273,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -5645,7 +5636,6 @@
 000000
 ;
 
-//---------------pump-double - HD6 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:HD6 UCS;
@@ -6124,7 +6114,6 @@
 0000000000
 ;
 
-//---------------pump-double - d9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d9;
@@ -6671,7 +6660,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Shantomia Fork of a Road 2;
 #STEPSTYPE:pump-double;
@@ -7509,7 +7497,6 @@
 0000000000
 ;
 
-//---------------pump-double - d14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d14;
@@ -8420,7 +8407,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D18;
@@ -9505,7 +9491,6 @@
 0000030000
 ;
 
-//---------------pump-double - D21 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 21;
 #STEPSTYPE:pump-double;
@@ -10628,3 +10613,4 @@
 0000000030
 0000000000
 ;
+

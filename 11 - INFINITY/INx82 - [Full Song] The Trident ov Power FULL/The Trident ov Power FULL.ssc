@@ -35,18 +35,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:2.85600;
-#LASTSECONDHINT:206.88900;
-#SONGFILENAME:/Songs/11 Full Songs/The Trident ov Power FULL/The Trident ov Power FULL.ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:206.88900;
-// end cache tags
 
-
-
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2269,8 +2258,6 @@
 00000
 ;
 
-
-//---------------pump-double - INFINITY----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -4649,3 +4636,4 @@
 0000000000
 0000000000
 ;
+

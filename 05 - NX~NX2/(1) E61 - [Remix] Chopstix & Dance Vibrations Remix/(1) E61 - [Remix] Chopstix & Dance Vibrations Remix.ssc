@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS 19----------------
 #NOTEDATA:;
 #CHARTNAME:Watch Your Speed!;
 #STEPSTYPE:pump-single;
@@ -1563,7 +1561,6 @@
 00300
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -2983,7 +2980,6 @@
 00000
 ;
 
-//---------------pump-double - D22 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 22;
 #STEPSTYPE:pump-double;
@@ -4459,7 +4455,6 @@
 0003303000
 ;
 
-//---------------pump-double - s99 Quest (NX2)----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Phantomia Perplexity 5;
 #STEPSTYPE:pump-double;
@@ -6242,3 +6237,4 @@ FF11FFF00F
 0000000000
 0000000000
 ;
+

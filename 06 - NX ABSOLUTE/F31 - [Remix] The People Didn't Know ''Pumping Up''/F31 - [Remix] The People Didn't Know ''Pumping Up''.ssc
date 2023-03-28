@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -795,7 +793,6 @@
 00000
 ;
 
-//---------------pump-single - S19 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Medium S19;
 #STEPSTYPE:pump-single;
@@ -2181,7 +2178,6 @@
 00000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -2656,7 +2652,6 @@
 0000000000
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18;
@@ -4055,3 +4050,4 @@
 0000000000
 0000000000
 ;
+

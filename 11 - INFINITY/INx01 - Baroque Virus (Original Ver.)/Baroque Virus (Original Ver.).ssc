@@ -32,20 +32,7 @@
 #BGCHANGES:-0.04000=INx01.mpg=1.00000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-#VOLUME:145;
-// cache tags:
-#FIRSTSECOND:6.58667;
-#LASTSECONDHINT:115.47555;
-#SONGFILENAME:/Songs/10 Pump It Up Infinity/Baroque Virus (Original Ver.)/Baroque Virus (Original Ver.).piui;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:116.37600;
-// end cache tags
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -771,7 +758,6 @@
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1791,7 +1777,6 @@
 00000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -2631,7 +2616,6 @@
 0000000000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -3585,3 +3569,4 @@
 0000000300
 0000000000
 ;
+

@@ -38,18 +38,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:1.618;
-#LASTSECONDHINT:137.7560;
-#SONGFILENAME:/Songs/15 Missions/[4][16] Rebirth Fragment/Oy Oy Oy FULL.ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:137.7560;
-// end cache tags
 
-
-
-//---------------pump-double - INFINITY----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -1375,3 +1364,4 @@
 0000000000
 0000000000
 ;
+

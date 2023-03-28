@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS 31----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -374,7 +372,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -713,7 +710,6 @@
 00000
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -1088,7 +1084,6 @@
 00000
 ;
 
-//---------------pump-single - wild hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Rebirth Division All-Wild;
 #STEPSTYPE:pump-single;
@@ -1627,7 +1622,6 @@
 00000
 ;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -2146,7 +2140,6 @@
 00000
 ;
 
-//---------------pump-single - UCS s14----------------
 #NOTEDATA:;
 #CHARTNAME:Happy Birthday VALM;
 #STEPSTYPE:pump-single;
@@ -3059,7 +3052,6 @@
 00000
 ;
 
-//---------------pump-double - d5 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5 HalfDouble;
@@ -3446,7 +3438,6 @@
 0000000000
 ;
 
-//---------------pump-double - d6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6;
@@ -3897,7 +3888,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D15----------------
 #NOTEDATA:;
 #CHARTNAME:Surf's Up;
 #STEPSTYPE:pump-double;
@@ -4747,7 +4737,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS 36----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -5559,7 +5548,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double 20UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Double 20UCS;
@@ -6422,3 +6410,4 @@
 1010100000
 0000000000
 ;
+

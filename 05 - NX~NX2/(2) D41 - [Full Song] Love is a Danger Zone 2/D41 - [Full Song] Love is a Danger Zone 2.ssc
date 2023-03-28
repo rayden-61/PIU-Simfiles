@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S15 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 15;
 #STEPSTYPE:pump-single;
@@ -2198,7 +2196,6 @@
 00003
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19;
@@ -4510,7 +4507,6 @@
 00000
 ;
 
-//---------------pump-single - S24 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 24;
 #STEPSTYPE:pump-single;
@@ -6852,7 +6848,6 @@ F000F
 00F00
 ;
 
-//---------------pump-double - D18 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18 UCS;
@@ -9149,7 +9144,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - d20 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cryomiston *B.P.M;
 #STEPSTYPE:pump-double;
@@ -11384,7 +11378,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - d20 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Double;
 #STEPSTYPE:pump-double;
@@ -14110,7 +14103,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - d21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d21;
@@ -16532,7 +16524,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - D25 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:The Feels Journey;
 #STEPSTYPE:pump-double;
@@ -19233,3 +19224,4 @@ F000F
 3000330000
 0000000000
 ;
+

@@ -34,18 +34,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:6.94100;
-#LASTSECONDHINT:221.37500;
-#SONGFILENAME:/Songs/11 Full Songs/Pi-Roh-Maniac FULL/Pi-Roh-Maniac FULL.ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:221.37500;
-// end cache tags
 
-
-
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1286,7 +1275,6 @@
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2985,7 +2973,6 @@
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -5105,7 +5092,6 @@
 00000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -6351,7 +6337,6 @@
 0000000000
 ;
 
-//---------------pump-double - INFINITY----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;

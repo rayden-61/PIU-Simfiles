@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -403,7 +401,6 @@
 10110
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -773,7 +770,6 @@
 10010
 ;
 
-//---------------pump-single - Single12 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 12;
 #STEPSTYPE:pump-single;
@@ -1422,7 +1418,6 @@
 00000
 ;
 
-//---------------pump-single - S15 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Crazy;
 #STEPSTYPE:pump-single;
@@ -2193,7 +2188,6 @@
 00000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -2563,7 +2557,6 @@
 1000001100
 ;
 
-//---------------pump-double - D11 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D11 UCS;
@@ -3142,7 +3135,6 @@
 100000FF00
 ;
 
-//---------------pump-double - D14 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D14 UCS;
@@ -3918,7 +3910,6 @@
 3300000000
 ;
 
-//---------------pump-couple - DP Couple 4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 4;
@@ -4296,7 +4287,6 @@
 1001010010
 ;
 
-//---------------pump-couple - s5 Couple DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:s5 Couple DP;
@@ -4673,3 +4663,4 @@
 0000000000
 1001010010
 ;
+

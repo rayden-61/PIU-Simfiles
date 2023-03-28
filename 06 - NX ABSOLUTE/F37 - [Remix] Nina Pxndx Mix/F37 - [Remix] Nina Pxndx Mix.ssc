@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -894,7 +892,6 @@
 00000
 ;
 
-//---------------pump-single - s16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16;
@@ -2539,7 +2536,6 @@
 00000
 ;
 
-//---------------pump-double - d8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d8;
@@ -3295,7 +3291,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D22----------------
 #NOTEDATA:;
 #CHARTNAME:Collab Double 22;
 #STEPSTYPE:pump-double;
@@ -4806,3 +4801,4 @@
 0000000003
 0000000000
 ;
+

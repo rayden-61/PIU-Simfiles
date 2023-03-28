@@ -176,11 +176,7 @@
 -23.500=004.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Fire!;
 #STEPSTYPE:pump-single;
@@ -3032,7 +3028,6 @@ F0000
 00000
 ;
 
-//---------------pump-double - d17 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain Fire Fighting;
 #STEPSTYPE:pump-double;
@@ -5964,3 +5959,4 @@ M00000000M
 0000000000
 0000000000
 ;
+

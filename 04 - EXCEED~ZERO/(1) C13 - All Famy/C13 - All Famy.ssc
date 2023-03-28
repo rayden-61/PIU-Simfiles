@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -253,7 +251,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S03----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S03;
@@ -505,7 +502,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -820,7 +816,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S8----------------
 #NOTEDATA:;
 #CHARTNAME:Cool, Fam;
 #STEPSTYPE:pump-single;
@@ -1367,7 +1362,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S13----------------
 #NOTEDATA:;
 #CHARTNAME:Woah, Fam!;
 #STEPSTYPE:pump-single;
@@ -2128,7 +2122,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #CHARTNAME:PP+ Crazy;
@@ -2725,7 +2718,6 @@
 00000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -2992,7 +2984,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D8----------------
 #NOTEDATA:;
 #CHARTNAME:Groovy, Fam;
 #STEPSTYPE:pump-double;
@@ -3539,7 +3530,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double 15UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Double 15UCS;
@@ -4241,7 +4231,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D16----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -4852,3 +4841,4 @@
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-single;
@@ -289,7 +287,6 @@
 00000
 ;
 
-//---------------pump-single - s5 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-single;
@@ -704,7 +701,6 @@
 00000
 ;
 
-//---------------pump-single - s11 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-single;
@@ -1276,7 +1272,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Crazy;
 #STEPSTYPE:pump-single;
@@ -2138,7 +2133,6 @@
 00000
 ;
 
-//---------------pump-double - d7 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-double;
@@ -2561,7 +2555,6 @@
 0000000000
 ;
 
-//---------------pump-double - d8 HalfDouble Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-double;
@@ -3012,7 +3005,6 @@
 0000000000
 ;
 
-//---------------pump-double - d14 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Prex3 Cancelled Song;
 #STEPSTYPE:pump-double;
@@ -3676,7 +3668,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D25----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D25;
@@ -5023,3 +5014,4 @@
 0000000000
 0000000000
 ;
+

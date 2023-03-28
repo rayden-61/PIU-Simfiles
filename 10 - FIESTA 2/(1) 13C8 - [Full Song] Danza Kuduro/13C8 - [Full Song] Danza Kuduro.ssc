@@ -31,8 +31,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S18----------------
 #NOTEDATA:;
 #CHARTNAME:Zombie Danza;
 #STEPSTYPE:pump-single;
@@ -2570,7 +2568,6 @@
 00000
 ;
 
-//---------------pump-double - UCS D21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D21;
@@ -4575,3 +4572,4 @@
 0000000000
 0000000000
 ;
+

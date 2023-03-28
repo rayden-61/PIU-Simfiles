@@ -34,7 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - single ucs 24----------------
 #NOTEDATA:;
 #CHARTNAME:single 24;
 #STEPSTYPE:pump-single;
@@ -3180,8 +3179,6 @@
 00000
 ;
 
-
-//---------------pump-single - s25----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s25;
@@ -6929,7 +6926,6 @@
 00000
 ;
 
-//---------------pump-double - ucs D23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:ucs D23;
@@ -10674,7 +10670,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D25----------------
 #NOTEDATA:;
 #CHARTNAME:S25 Variant;
 #STEPSTYPE:pump-double;
@@ -14072,7 +14067,6 @@
 0000330300
 ;
 
-//---------------pump-double - D27----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D27;
@@ -17428,7 +17422,6 @@
 0000000000
 ;
 
-//---------------pump-double - D27 HIDDEN INFOBAR----------------
 #NOTEDATA:;
 #CHARTNAME:PRIME2 v2.05;
 #STEPSTYPE:pump-double;
@@ -20752,3 +20745,4 @@
 0000000000
 0000000000
 ;
+

@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s15 Train----------------
 #NOTEDATA:;
 #CHARTNAME:The Historic Classic Remix B;
 #STEPSTYPE:pump-single;
@@ -2609,7 +2607,6 @@
 00000
 ;
 
-//---------------pump-single - S22 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S22 UCS;
@@ -6262,7 +6259,6 @@
 00000
 ;
 
-//---------------pump-double - UCS D27----------------
 #NOTEDATA:;
 #CHARTNAME:Collab Double 27;
 #STEPSTYPE:pump-double;
@@ -11018,3 +11014,4 @@
 0000000000
 0000000000
 ;
+

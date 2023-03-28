@@ -33,7 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -423,7 +422,6 @@
 00100
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -813,7 +811,6 @@
 00100
 ;
 
-//---------------pump-single - s4 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -1208,7 +1205,6 @@
 00100
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -1634,7 +1630,6 @@
 03030
 ;
 
-//---------------pump-single - s7 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -2109,7 +2104,6 @@
 00100
 ;
 
-//---------------pump-single - s9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9;
@@ -2691,7 +2685,6 @@
 00300
 ;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -3729,7 +3722,6 @@
 00000
 ;
 
-//---------------pump-single - s15 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -4825,7 +4817,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S20----------------
 #NOTEDATA:;
 #CHARTNAME:Quack!;
 #STEPSTYPE:pump-single;
@@ -5954,7 +5945,6 @@
 00000
 ;
 
-//---------------pump-double - d12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d12;
@@ -6558,7 +6548,6 @@
 0030000300
 ;
 
-//---------------pump-double - d12 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -7181,7 +7170,6 @@
 1100000000
 ;
 
-//---------------pump-double - d17 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -8268,7 +8256,6 @@ MMMMMMMMMM
 0000000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -9454,7 +9441,6 @@ MMMMMMMMMM
 0000000000
 ;
 
-//---------------pump-double - d19 HalfDouble pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-double;
@@ -10565,7 +10551,6 @@ MMMMMMMMMM
 0000000000
 ;
 
-//---------------pump-routine - DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP;
@@ -11883,7 +11868,6 @@ MMMMMMMMMM
 0000000000
 ;
 
-//---------------pump-routine - DP pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Routine;
 #STEPSTYPE:pump-routine;
@@ -12834,3 +12818,4 @@ MMMMMMMMMM
 0000000000
 0000000000
 ;
+

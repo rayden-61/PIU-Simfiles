@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -558,7 +556,6 @@
 00000
 ;
 
-//---------------pump-single - s9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9;
@@ -1566,7 +1563,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S17;
@@ -2864,7 +2860,6 @@ F0F0F
 00000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -3375,7 +3370,6 @@ F0F0F
 0000000010
 ;
 
-//---------------pump-double - d15 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia Fork of a Road;
 #STEPSTYPE:pump-double;
@@ -4495,3 +4489,4 @@ F0F0F
 0000000000
 0000000000
 ;
+

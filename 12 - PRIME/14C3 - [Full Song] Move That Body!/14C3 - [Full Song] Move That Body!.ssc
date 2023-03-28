@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #CHARTNAME:UCS Contest Team Choice;
 #STEPSTYPE:pump-single;
@@ -2484,7 +2482,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #CHARTNAME:UCS Contest Winner;
 #STEPSTYPE:pump-single;
@@ -5028,7 +5025,6 @@
 00000
 ;
 
-//---------------pump-single - s19 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 19;
 #STEPSTYPE:pump-single;
@@ -7641,7 +7637,6 @@
 30000
 ;
 
-//---------------pump-single - s23 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 23;
 #STEPSTYPE:pump-single;
@@ -11209,7 +11204,6 @@
 00000
 ;
 
-//---------------pump-double - D19----------------
 #NOTEDATA:;
 #CHARTNAME:UCS Contest Team Choice;
 #STEPSTYPE:pump-double;
@@ -13906,7 +13900,6 @@
 0000000000
 ;
 
-//---------------pump-double - D20 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:UCS Contest Winner - Removed Chart;
 #STEPSTYPE:pump-double;
@@ -17491,7 +17484,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D21----------------
 #NOTEDATA:;
 #CHARTNAME:Double 21;
 #STEPSTYPE:pump-double;
@@ -20266,7 +20258,6 @@
 0000000000
 ;
 
-//---------------pump-double - D23 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Thank You For Playing!!!!!;
 #STEPSTYPE:pump-double;
@@ -23371,3 +23362,4 @@
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s1 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -299,7 +297,6 @@
 00000
 ;
 
-//---------------pump-single - s1 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Zero Easy Station;
 #STEPSTYPE:pump-single;
@@ -564,7 +561,6 @@
 00000
 ;
 
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -828,7 +824,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -1128,7 +1123,6 @@
 00000
 ;
 
-//---------------pump-single - NO quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Mexico City (2nd);
 #STEPSTYPE:pump-single;
@@ -1442,7 +1436,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Caelum Triple A;
 #STEPSTYPE:pump-single;
@@ -1868,7 +1861,6 @@
 00000
 ;
 
-//---------------pump-single - s13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
@@ -2664,7 +2656,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin Double Expansion;
 #STEPSTYPE:pump-single;
@@ -3519,7 +3510,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - d5 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -3901,7 +3891,6 @@
 000000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -4193,7 +4182,6 @@
 0000000000
 ;
 
-//---------------pump-double - d13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d13;
@@ -4981,7 +4969,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain Dead End;
 #STEPSTYPE:pump-double;
@@ -6816,7 +6803,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Barharn Fresh of Wind;
 #STEPSTYPE:pump-double;
@@ -7739,7 +7725,6 @@
 0000000000
 ;
 
-//---------------pump-routine - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:DP;
 #STEPSTYPE:pump-routine;
@@ -8495,3 +8480,4 @@
 0000000000
 0000000000
 ;
+

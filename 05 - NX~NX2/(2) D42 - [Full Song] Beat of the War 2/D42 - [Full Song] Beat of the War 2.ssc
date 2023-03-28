@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S20;
@@ -2700,7 +2698,6 @@
 30030
 ;
 
-//---------------pump-single - s20 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Single;
 #STEPSTYPE:pump-single;
@@ -5471,7 +5468,6 @@
 30030
 ;
 
-//---------------pump-double - d19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cryomiston [Ice Castle];
 #STEPSTYPE:pump-double;
@@ -8125,7 +8121,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D21;
@@ -10947,3 +10942,4 @@
 0000000000
 0000303000
 ;
+

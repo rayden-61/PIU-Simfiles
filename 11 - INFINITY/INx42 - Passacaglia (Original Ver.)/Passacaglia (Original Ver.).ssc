@@ -32,16 +32,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:10.96800;
-#LASTSECONDHINT:113.86012;
-#SONGFILENAME:/Songs/14 Music Trains/[GotK] Passacaglia (Original Ver.)/Passacaglia (Original Ver.).ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:113.53100;
-// end cache tags
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1580,3 +1571,4 @@
 00000
 00000
 ;
+

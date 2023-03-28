@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s3 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -574,7 +572,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S06----------------
 #NOTEDATA:;
 #CHARTNAME:Single 6;
 #STEPSTYPE:pump-single;
@@ -1014,7 +1011,6 @@
 00000
 ;
 
-//---------------pump-single - s10 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -1742,7 +1738,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S13----------------
 #NOTEDATA:;
 #CHARTNAME:Single 13;
 #STEPSTYPE:pump-single;
@@ -2509,7 +2504,6 @@
 00000
 ;
 
-//---------------pump-single - s16 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -3517,7 +3511,6 @@
 00000
 ;
 
-//---------------pump-single - s18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s18;
@@ -7907,7 +7900,6 @@
 00000
 ;
 
-//---------------pump-single - s21 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -9923,7 +9915,6 @@
 00000
 ;
 
-//---------------pump-single - s22 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -11467,7 +11458,6 @@
 00000
 ;
 
-//---------------pump-single - s23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s23;
@@ -13260,7 +13250,6 @@
 00000
 ;
 
-//---------------pump-single - s25 Train----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Impenetrable Defenses;
 #STEPSTYPE:pump-single;
@@ -16860,7 +16849,6 @@ M000M
 00000
 ;
 
-//---------------pump-double - UCS DOUBLE 6----------------
 #NOTEDATA:;
 #CHARTNAME:C170;
 #STEPSTYPE:pump-double;
@@ -17346,7 +17334,6 @@ M000M
 0000000000
 ;
 
-//---------------pump-double - d10 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -18118,7 +18105,6 @@ M000M
 0000000000
 ;
 
-//---------------pump-double - UCS D14----------------
 #NOTEDATA:;
 #CHARTNAME:Double 14;
 #STEPSTYPE:pump-double;
@@ -18880,7 +18866,6 @@ M000M
 0000000000
 ;
 
-//---------------pump-double - d15 Quest (inf)----------------
 #NOTEDATA:;
 #CHARTNAME:Infinity - Non-Powerful+1;
 #STEPSTYPE:pump-double;
@@ -19818,7 +19803,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - D17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D17;
@@ -23754,7 +23738,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - d18 halfdouble pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-double;
@@ -24842,7 +24825,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - d19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d19;
@@ -26972,7 +26954,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - s22 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -28696,7 +28677,6 @@ MMMM22MMMM
 0000000000
 ;
 
-//---------------pump-double - d23 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -30280,7 +30260,6 @@ MMMMM2MMMM
 0000000000
 ;
 
-//---------------pump-double - d24 Train----------------
 #NOTEDATA:;
 #CHARTNAME:The TsunaMinami;
 #STEPSTYPE:pump-double;
@@ -31960,3 +31939,4 @@ MMMMM2MMMM
 0000000000
 0000000000
 ;
+

@@ -33,16 +33,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:6.00000;
-#LASTSECONDHINT:164.20000;
-#SONGFILENAME:/Songs/12 Remixes/Turkeyslam/Turkeyslam.ssc;
-#HASMUSIC:1;
-#HASBANNER:0;
-#MUSICLENGTH:165.82500;
-// end cache tags
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -1680,3 +1671,4 @@
 0000000000
 0000003000
 ;
+

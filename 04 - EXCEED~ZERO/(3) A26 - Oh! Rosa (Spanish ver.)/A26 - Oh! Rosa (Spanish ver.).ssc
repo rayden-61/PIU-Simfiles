@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2 Pro;
@@ -360,7 +358,6 @@
 00000
 ;
 
-//---------------pump-single - s3 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic Normal;
 #STEPSTYPE:pump-single;
@@ -690,7 +687,6 @@
 00000
 ;
 
-//---------------pump-single - s6 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic Hard;
 #STEPSTYPE:pump-single;
@@ -1172,7 +1168,6 @@
 00000
 ;
 
-//---------------pump-single - S7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S7;
@@ -1762,7 +1757,6 @@
 00000
 ;
 
-//---------------pump-single - s9 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:CLassic Crazy;
 #STEPSTYPE:pump-single;
@@ -2468,7 +2462,6 @@
 00000
 ;
 
-//---------------pump-single - S13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S13;
@@ -3347,7 +3340,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S18;
@@ -4586,7 +4578,6 @@
 00000
 ;
 
-//---------------pump-double - d7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -5119,7 +5110,6 @@
 0000000000
 ;
 
-//---------------pump-double - d8 HalfDouble Pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d8 HalfDouble Pro;
@@ -5600,7 +5590,6 @@
 0000000000
 ;
 
-//---------------pump-double - d12 Pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d12 Pro;
@@ -6313,7 +6302,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS Halfdouble HD19----------------
 #NOTEDATA:;
 #CHARTNAME:Half Double 19;
 #STEPSTYPE:pump-double;
@@ -7277,3 +7265,4 @@
 0000000000
 0000000000
 ;
+

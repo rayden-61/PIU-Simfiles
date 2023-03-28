@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S14;
@@ -1374,7 +1372,6 @@
 10001
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -3658,7 +3655,6 @@
 00000
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -5931,7 +5927,6 @@
 00000
 ;
 
-//---------------pump-single - single ucs 23----------------
 #NOTEDATA:;
 #CHARTNAME:single 23;
 #STEPSTYPE:pump-single;
@@ -8775,7 +8770,6 @@ F0F0F
 00000
 ;
 
-//---------------pump-double - D15 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Flow of Emotion;
 #STEPSTYPE:pump-double;
@@ -10150,7 +10144,6 @@ F0F0F
 0001010100
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -12492,7 +12485,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - D24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D24;
@@ -14711,3 +14703,4 @@ F000000000
 0110000110
 0000000000
 ;
+

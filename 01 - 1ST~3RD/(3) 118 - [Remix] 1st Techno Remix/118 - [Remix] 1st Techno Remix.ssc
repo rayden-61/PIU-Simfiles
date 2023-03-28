@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -627,7 +625,6 @@
 00000
 ;
 
-//---------------pump-single - s13 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13 UCS;
@@ -1586,7 +1583,6 @@
 00000
 ;
 
-//---------------pump-single - S17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:S17;
 #STEPSTYPE:pump-single;
@@ -2946,7 +2942,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS;
@@ -4385,7 +4380,6 @@
 000000
 ;
 
-//---------------pump-double - D8 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D8 UCS;
@@ -5068,7 +5062,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 6;
@@ -5661,3 +5654,4 @@
 0000000000
 0000000000
 ;
+

@@ -33,11 +33,7 @@
 -0.300=1468.mpg=1.000=1=0=1=Centered==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#FGCHANGES:60.000=GO=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -347,7 +343,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -665,7 +660,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1079,7 +1073,6 @@
 00000
 ;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -2144,7 +2137,6 @@
 00000
 ;
 
-//---------------pump-single - S17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Melody Jump;
 #STEPSTYPE:pump-single;
@@ -2776,7 +2768,6 @@
 00000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -3098,7 +3089,6 @@
 0000000000
 ;
 
-//---------------pump-double - d15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d15;
@@ -4145,7 +4135,6 @@
 0000000000
 ;
 
-//---------------pump-routine - UCS DP----------------
 #NOTEDATA:;
 #CHARTNAME:Red Hot Vocals, Cool Blue Beats;
 #STEPSTYPE:pump-routine;
@@ -5801,3 +5790,4 @@
 0000000000
 0000000000
 ;
+

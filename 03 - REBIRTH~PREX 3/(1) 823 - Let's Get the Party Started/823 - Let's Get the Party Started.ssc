@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -346,7 +344,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -704,7 +701,6 @@
 00000
 ;
 
-//---------------pump-single - s10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s10;
@@ -1226,7 +1222,6 @@
 00000
 ;
 
-//---------------pump-single - s14 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14 UCS;
@@ -2024,7 +2019,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 17;
 #STEPSTYPE:pump-single;
@@ -3108,7 +3102,6 @@
 00000
 ;
 
-//---------------pump-single - s20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s20;
@@ -4006,7 +3999,6 @@
 00000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -4356,7 +4348,6 @@
 0000000000
 ;
 
-//---------------pump-double - d5 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5 HalfDouble;
@@ -4746,7 +4737,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS Party Time----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS Party Time;
@@ -5312,7 +5302,6 @@
 0000000000
 ;
 
-//---------------pump-double - D15 UCS halfdouble----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack;
 #STEPSTYPE:pump-double;
@@ -6149,7 +6138,6 @@
 0000000000
 ;
 
-//---------------pump-double - D18 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Softer Prex Chart;
 #STEPSTYPE:pump-double;
@@ -6952,7 +6940,6 @@
 0000000000
 ;
 
-//---------------pump-double - d21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d21;
@@ -7833,3 +7820,4 @@
 0000000000
 0000000000
 ;
+

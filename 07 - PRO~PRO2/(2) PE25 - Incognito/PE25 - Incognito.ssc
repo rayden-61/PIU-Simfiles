@@ -31,7 +31,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #CHARTNAME:Pro Easy;
@@ -367,7 +366,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -703,7 +701,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -1251,7 +1248,6 @@
 00000
 ;
 
-//---------------pump-single - PRO2----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -1924,7 +1920,6 @@
 00000
 ;
 
-//---------------pump-single - s12 pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #CHARTNAME:Pro Crazy;
@@ -2604,7 +2599,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S18----------------
 #NOTEDATA:;
 #CHARTNAME:U Can't See me;
 #STEPSTYPE:pump-single;
@@ -3808,7 +3802,6 @@
 00300
 ;
 
-//---------------pump-halfdouble - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -4163,7 +4156,6 @@
 000000
 ;
 
-//---------------pump-halfdouble - UCS HALFDOUBLE 7----------------
 #NOTEDATA:;
 #CHARTNAME:Easy Does It;
 #STEPSTYPE:pump-halfdouble;
@@ -4734,7 +4726,6 @@
 000000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -5270,7 +5261,6 @@
 0000000000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -5986,7 +5976,6 @@
 0000000000
 ;
 
-//---------------pump-double - d18 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -6979,7 +6968,6 @@
 0000000000
 ;
 
-//---------------pump-double - D22 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Hide Your Step;
 #STEPSTYPE:pump-double;
@@ -8281,3 +8269,4 @@
 0000000000
 0000000000
 ;
+

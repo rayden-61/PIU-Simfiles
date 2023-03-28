@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -549,7 +547,6 @@
 00000
 ;
 
-//---------------pump-single - Single17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 17;
 #STEPSTYPE:pump-single;
@@ -1680,7 +1677,6 @@
 00000
 ;
 
-//---------------pump-double - d6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6;
@@ -2200,7 +2196,6 @@
 0000000000
 ;
 
-//---------------pump-double - D15 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D15 UCS;
@@ -3228,7 +3223,6 @@
 0000000000
 ;
 
-//---------------pump-double - D23 ucs----------------
 #NOTEDATA:;
 #CHARTNAME:YMCA;
 #STEPSTYPE:pump-double;
@@ -4735,7 +4729,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 6;
@@ -5250,3 +5243,4 @@
 0000000000
 0000000000
 ;
+

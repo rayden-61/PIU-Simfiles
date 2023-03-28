@@ -34,7 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - single ucs 10----------------
 #NOTEDATA:;
 #CHARTNAME:single 10;
 #STEPSTYPE:pump-single;
@@ -439,7 +438,6 @@
 00000
 ;
 
-//---------------pump-single - SP UCS 14----------------
 #NOTEDATA:;
 #CHARTNAME:666;
 #STEPSTYPE:pump-single;
@@ -920,7 +918,6 @@
 00000
 ;
 
-//---------------pump-single - single ucs 15----------------
 #NOTEDATA:;
 #CHARTNAME:single 15;
 #STEPSTYPE:pump-single;
@@ -1589,7 +1586,6 @@
 00000
 ;
 
-//---------------pump-single - single ucs 19----------------
 #NOTEDATA:;
 #CHARTNAME:single 19;
 #STEPSTYPE:pump-single;
@@ -2381,7 +2377,6 @@
 00000
 ;
 
-//---------------pump-single - s21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s21;
@@ -3423,7 +3418,6 @@
 03030
 ;
 
-//---------------pump-single - s24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s24;
@@ -4524,8 +4518,6 @@
 00000
 ;
 
-
-//---------------pump-double - double ucs 11----------------
 #NOTEDATA:;
 #CHARTNAME:double 11;
 #STEPSTYPE:pump-double;
@@ -4945,7 +4937,6 @@
 0000000000
 ;
 
-//---------------pump-double - double ucs 16----------------
 #NOTEDATA:;
 #CHARTNAME:double 16;
 #STEPSTYPE:pump-double;
@@ -5714,7 +5705,6 @@
 0000000000
 ;
 
-//---------------pump-double - Fingy UCS D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Fingy UCS D18;
@@ -6377,7 +6367,6 @@
 0000000000
 ;
 
-//---------------pump-double - double ucs 20----------------
 #NOTEDATA:;
 #CHARTNAME:double 20;
 #STEPSTYPE:pump-double;
@@ -7403,7 +7392,6 @@
 0000000000
 ;
 
-//---------------pump-double - Fingy UCS D24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Fingy UCS D24;
@@ -8316,7 +8304,6 @@
 0000000000
 ;
 
-//---------------pump-double - double ucs 25----------------
 #NOTEDATA:;
 #CHARTNAME:double 25;
 #STEPSTYPE:pump-double;
@@ -9458,7 +9445,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d26;
@@ -10596,7 +10582,6 @@
 0000000000
 ;
 
-//---------------pump-routine - DP UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP UCS;
@@ -11482,3 +11467,4 @@
 0000000000
 0000000000
 ;
+

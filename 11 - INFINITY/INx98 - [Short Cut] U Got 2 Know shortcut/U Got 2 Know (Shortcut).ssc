@@ -34,16 +34,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:5.69600;
-#LASTSECONDHINT:54.82300;
-#SONGFILENAME:/Songs/14 Music Trains/[NeonFM] U Got 2 Know shortcut/U Got 2 Know (Shortcut).ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:54.82300;
-// end cache tags
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1463,3 +1454,4 @@
 00000
 00000
 ;
+

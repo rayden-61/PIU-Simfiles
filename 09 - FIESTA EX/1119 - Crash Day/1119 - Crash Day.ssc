@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4;
@@ -581,7 +579,6 @@
 00000
 ;
 
-//---------------pump-single - S6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S6;
@@ -1201,7 +1198,6 @@
 00000
 ;
 
-//---------------pump-single - S11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S11;
@@ -2020,7 +2016,6 @@
 00000
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -2947,7 +2942,6 @@
 00000
 ;
 
-//---------------pump-single - s19 Quest (prime)----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone Conrad Day;
 #STEPSTYPE:pump-single;
@@ -4327,7 +4321,6 @@
 00000
 ;
 
-//---------------pump-single - s23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s23;
@@ -5770,7 +5763,6 @@
 00000
 ;
 
-//---------------pump-single - s24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s24;
@@ -7291,7 +7283,6 @@
 00000
 ;
 
-//---------------pump-double - UCS D11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D11;
@@ -8023,7 +8014,6 @@
 0000000000
 ;
 
-//---------------pump-double - d17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d17;
@@ -9006,7 +8996,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Custom Edit;
 #STEPSTYPE:pump-double;
@@ -10215,7 +10204,6 @@
 0000000000
 ;
 
-//---------------pump-double - D22 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:D22;
 #STEPSTYPE:pump-double;
@@ -11445,7 +11433,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d26;
@@ -12657,3 +12644,4 @@
 0000000000
 0330330000
 ;
+

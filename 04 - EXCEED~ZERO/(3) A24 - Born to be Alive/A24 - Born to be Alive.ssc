@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s1 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -334,7 +332,6 @@
 00000
 ;
 
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -645,7 +642,6 @@
 00000
 ;
 
-//---------------pump-single - Single3 hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Exceed Beta;
 #STEPSTYPE:pump-single;
@@ -962,7 +958,6 @@
 00000
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -1417,7 +1412,6 @@
 00000
 ;
 
-//---------------pump-single - Single7 hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Exceed Beta;
 #STEPSTYPE:pump-single;
@@ -1878,7 +1872,6 @@
 00000
 ;
 
-//---------------pump-single - s12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s12;
@@ -2673,7 +2666,6 @@
 00000
 ;
 
-//---------------pump-single - Single13 hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Exceed Beta;
 #STEPSTYPE:pump-single;
@@ -3410,7 +3402,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -4524,7 +4515,6 @@
 00300
 ;
 
-//---------------pump-single - S19ucs----------------
 #NOTEDATA:;
 #CHARTNAME:Single 19;
 #STEPSTYPE:pump-single;
@@ -5469,7 +5459,6 @@ F0000
 00000
 ;
 
-//---------------pump-halfdouble - d10 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -6297,7 +6286,6 @@ F0000
 000000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -6712,7 +6700,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - d12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d12;
@@ -7535,7 +7522,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - Double12 hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Exceed Original Steps;
 #STEPSTYPE:pump-double;
@@ -8279,7 +8265,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - Double15 hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Exceed Beta;
 #STEPSTYPE:pump-double;
@@ -9007,3 +8992,4 @@ F0000
 0000000000
 0000000000
 ;
+

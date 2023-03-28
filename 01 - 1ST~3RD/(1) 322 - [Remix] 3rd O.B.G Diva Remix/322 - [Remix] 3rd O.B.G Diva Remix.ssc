@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -519,7 +517,6 @@
 01010
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -1254,7 +1251,6 @@
 01110
 ;
 
-//---------------pump-single - s10 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s10 UCS;
@@ -2262,7 +2258,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S16;
@@ -3561,7 +3556,6 @@
 00000
 ;
 
-//---------------pump-single - UCS SP----------------
 #NOTEDATA:;
 #CHARTNAME:Diva PRO;
 #STEPSTYPE:pump-single;
@@ -5717,7 +5711,6 @@
 00000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -6203,7 +6196,6 @@
 1100000000
 ;
 
-//---------------pump-double - D13 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D13 UCS;
@@ -7239,7 +7231,6 @@
 0000000000
 ;
 
-//---------------pump-double - DP21 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP21 UCS;
@@ -8797,7 +8788,6 @@ F000FF000F
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 4;
@@ -9282,3 +9272,4 @@ F000FF000F
 0000000000
 0001111000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S10 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10 UCS;
@@ -1061,7 +1059,6 @@
 00000
 ;
 
-//---------------pump-single - S19 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19 UCS;
@@ -2618,7 +2615,6 @@
 00000
 ;
 
-//---------------pump-double - d20 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain Red!;
 #STEPSTYPE:pump-double;
@@ -4095,7 +4091,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D25----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D25;
@@ -6408,3 +6403,4 @@
 0000000000
 0000000000
 ;
+

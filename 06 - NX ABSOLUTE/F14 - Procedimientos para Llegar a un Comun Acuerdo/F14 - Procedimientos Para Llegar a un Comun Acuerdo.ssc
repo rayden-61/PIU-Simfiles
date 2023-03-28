@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -416,7 +414,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -864,7 +861,6 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -1597,7 +1593,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -2514,7 +2509,6 @@
 30003
 ;
 
-//---------------pump-single - S22 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:S22;
 #STEPSTYPE:pump-single;
@@ -3583,7 +3577,6 @@ F000F
 00000
 ;
 
-//---------------pump-double - d7 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7 HalfDouble;
@@ -3934,7 +3927,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -4911,7 +4903,6 @@ F000F
 0000003000
 ;
 
-//---------------pump-double - D19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D19;
@@ -5858,7 +5849,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cosmos Spatium Minus 3;
 #STEPSTYPE:pump-double;
@@ -6702,7 +6692,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - UCS D25----------------
 #NOTEDATA:;
 #CHARTNAME:Double 25;
 #STEPSTYPE:pump-double;
@@ -8328,7 +8317,6 @@ F000F
 0300000003
 ;
 
-//---------------pump-routine - DP 12 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP 12 Infinity;
@@ -9219,3 +9207,4 @@ F000F
 0000000000
 0000000000
 ;
+

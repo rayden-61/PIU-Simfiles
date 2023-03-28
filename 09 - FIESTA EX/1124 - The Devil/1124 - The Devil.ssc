@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4;
@@ -427,7 +425,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -862,7 +859,6 @@
 00000
 ;
 
-//---------------pump-single - s9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9;
@@ -1517,7 +1513,6 @@
 00000
 ;
 
-//---------------pump-single - s12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s12;
@@ -2184,7 +2179,6 @@
 00000
 ;
 
-//---------------pump-single - S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19;
@@ -3019,7 +3013,6 @@
 00000
 ;
 
-//---------------pump-double - D14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D14;
@@ -3692,7 +3685,6 @@
 0000000000
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -4624,7 +4616,6 @@
 0000000000
 ;
 
-//---------------pump-double - DP 25 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Left;
 #STEPSTYPE:pump-double;
@@ -5523,7 +5514,6 @@
 0000303000
 ;
 
-//---------------pump-routine - DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP;
@@ -6751,3 +6741,4 @@
 0000000000
 0000000000
 ;
+

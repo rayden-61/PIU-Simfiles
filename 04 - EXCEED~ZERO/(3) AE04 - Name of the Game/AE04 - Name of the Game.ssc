@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -264,7 +262,6 @@
 00100
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -636,7 +633,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S14----------------
 #NOTEDATA:;
 #CHARTNAME:Bumpin', Blazin' Hot;
 #STEPSTYPE:pump-single;
@@ -1342,7 +1338,6 @@
 00000
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -2129,7 +2124,6 @@
 00000
 ;
 
-//---------------pump-double - d2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d2;
@@ -2649,7 +2643,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D7----------------
 #NOTEDATA:;
 #CHARTNAME:Top of the Crown;
 #STEPSTYPE:pump-double;
@@ -3122,7 +3115,6 @@
 0000000000
 ;
 
-//---------------pump-double - D15 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D15 UCS;
@@ -3760,7 +3752,6 @@
 0000000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -4550,3 +4541,4 @@
 0000000000
 0000000000
 ;
+

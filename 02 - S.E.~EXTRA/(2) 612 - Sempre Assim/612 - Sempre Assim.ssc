@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -296,7 +294,6 @@
 00000
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -651,7 +648,6 @@
 00000
 ;
 
-//---------------pump-single - s11 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Crazy;
 #STEPSTYPE:pump-single;
@@ -1107,7 +1103,6 @@
 00000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -1454,7 +1449,6 @@
 0000000000
 ;
 
-//---------------pump-double - nightmare UCS----------------
 #NOTEDATA:;
 #CHARTNAME:D15;
 #STEPSTYPE:pump-double;
@@ -2167,3 +2161,4 @@
 0000000000
 0000030300
 ;
+

@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S2----------------
 #NOTEDATA:;
 #CHARTNAME:Escape;
 #STEPSTYPE:pump-single;
@@ -299,7 +297,6 @@
 00000
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -633,7 +630,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S9----------------
 #NOTEDATA:;
 #CHARTNAME:...To...;
 #STEPSTYPE:pump-single;
@@ -1099,7 +1095,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S12----------------
 #NOTEDATA:;
 #CHARTNAME:Paradise;
 #STEPSTYPE:pump-single;
@@ -1716,7 +1711,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S15----------------
 #NOTEDATA:;
 #CHARTNAME:Single 15;
 #STEPSTYPE:pump-single;
@@ -2454,7 +2448,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S19;
@@ -3228,7 +3221,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS;
@@ -4442,7 +4434,6 @@
 000000
 ;
 
-//---------------pump-double - D5 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D5 UCS;
@@ -4807,7 +4798,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D14;
@@ -5517,7 +5507,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 5;
@@ -5850,3 +5839,4 @@
 0000000000
 0000000000
 ;
+

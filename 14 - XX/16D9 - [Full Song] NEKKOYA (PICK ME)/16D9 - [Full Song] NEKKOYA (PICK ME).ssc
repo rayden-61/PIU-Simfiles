@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S12;
@@ -1542,7 +1540,6 @@
 00000
 ;
 
-//---------------pump-single - S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19;
@@ -4505,7 +4502,6 @@ F0{2|n|1|0}00
 00000
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -7501,7 +7497,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - double 27 ucs----------------
 #NOTEDATA:;
 #CHARTNAME:double 27;
 #STEPSTYPE:pump-double;
@@ -13584,7 +13579,6 @@ F000000000
 0000000000
 ;
 
-//---------------pump-double - DP 3P infobar UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Pumproduce XX;
 #STEPSTYPE:pump-double;

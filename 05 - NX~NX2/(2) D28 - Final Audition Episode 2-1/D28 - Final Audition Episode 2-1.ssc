@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -402,7 +400,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -799,7 +796,6 @@
 01000
 ;
 
-//---------------pump-single - S4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4;
@@ -1241,7 +1237,6 @@
 00000
 ;
 
-//---------------pump-single - S8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S8;
@@ -1929,7 +1924,6 @@
 01110
 ;
 
-//---------------pump-single - NO quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Hanoi (2nd);
 #STEPSTYPE:pump-single;
@@ -2562,7 +2556,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Round 1;
 #STEPSTYPE:pump-single;
@@ -3641,7 +3634,6 @@
 03130
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #CHARTNAME:Another Hard;
 #STEPSTYPE:pump-single;
@@ -4954,7 +4946,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Round 3;
 #STEPSTYPE:pump-single;
@@ -6185,7 +6176,6 @@
 00000
 ;
 
-//---------------pump-single - S20 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Classic Crazy;
 #STEPSTYPE:pump-single;
@@ -7422,7 +7412,6 @@
 00000
 ;
 
-//---------------pump-single - S21 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Another Crazy;
 #STEPSTYPE:pump-single;
@@ -8951,7 +8940,6 @@
 00000
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -10120,7 +10108,6 @@
 00000
 ;
 
-//---------------pump-single - s22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s22;
@@ -11409,7 +11396,6 @@
 10001
 ;
 
-//---------------pump-halfdouble - d2 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -11777,7 +11763,6 @@
 000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Barharn Windmill;
 #STEPSTYPE:pump-double;
@@ -12252,7 +12237,6 @@
 0000000001
 ;
 
-//---------------pump-double - D12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D12;
@@ -12940,7 +12924,6 @@
 0011000110
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Round 2;
 #STEPSTYPE:pump-double;
@@ -13978,7 +13961,6 @@
 0000000000
 ;
 
-//---------------pump-double - NM quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour msgoon (1st);
 #STEPSTYPE:pump-double;
@@ -14956,7 +14938,6 @@
 0000000000
 ;
 
-//---------------pump-double - Freestyle Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Rootinia Nightmare Beat 2;
 #STEPSTYPE:pump-double;
@@ -16469,7 +16450,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare;
 #STEPSTYPE:pump-double;
@@ -17638,7 +17618,6 @@
 0003113000
 ;
 
-//---------------pump-double - D22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D22;
@@ -18814,7 +18793,6 @@
 0003113000
 ;
 
-//---------------pump-double - D23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D23;
@@ -20050,7 +20028,6 @@
 0000000000
 ;
 
-//---------------pump-double - DP quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Phantomia Session;
 #STEPSTYPE:pump-double;
@@ -21417,3 +21394,4 @@ X0XX00YY0Y
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s1----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s1;
@@ -268,7 +266,6 @@
 00000
 ;
 
-//---------------pump-single - 4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:4;
@@ -554,7 +551,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain Dull Tension 2;
 #STEPSTYPE:pump-single;
@@ -857,7 +853,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Arowahi Accuracy 4;
 #STEPSTYPE:pump-single;
@@ -1222,7 +1217,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S9;
@@ -1832,7 +1826,6 @@
 00000
 ;
 
-//---------------pump-single - quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin Paradox;
 #STEPSTYPE:pump-single;
@@ -2675,7 +2668,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Another CZ;
 #STEPSTYPE:pump-single;
@@ -3496,7 +3488,6 @@
 00000
 ;
 
-//---------------pump-single - UCS s15----------------
 #NOTEDATA:;
 #CHARTNAME:Single 15;
 #STEPSTYPE:pump-single;
@@ -4309,7 +4300,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Crazy;
 #STEPSTYPE:pump-single;
@@ -5212,7 +5202,6 @@
 00000
 ;
 
-//---------------pump-double - d4 Halfdouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4 Halfdouble;
@@ -5450,7 +5439,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Freestyle;
 #STEPSTYPE:pump-double;
@@ -5705,7 +5693,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -6562,7 +6549,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (T) Catch the Rhythm;
 #STEPSTYPE:pump-double;
@@ -6780,7 +6766,6 @@
 000{1|h|0|0}000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin XNOR;
 #STEPSTYPE:pump-double;
@@ -7569,3 +7554,4 @@ F00000FFFF
 0000000000
 0000000000
 ;
+

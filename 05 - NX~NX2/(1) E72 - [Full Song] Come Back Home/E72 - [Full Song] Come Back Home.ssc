@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s1----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s1;
@@ -508,7 +506,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -1090,7 +1087,6 @@
 00000
 ;
 
-//---------------pump-single - S7 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S7 UCS;
@@ -1905,7 +1901,6 @@
 00000
 ;
 
-//---------------pump-single - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS FB;
@@ -3864,7 +3859,6 @@
 00000
 ;
 
-//---------------pump-double - d4 Halfdouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4 Halfdouble;
@@ -4346,7 +4340,6 @@
 0000000000
 ;
 
-//---------------pump-double - d07 quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Rootinia * msgoon;
 #STEPSTYPE:pump-double;
@@ -12272,7 +12265,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D15;

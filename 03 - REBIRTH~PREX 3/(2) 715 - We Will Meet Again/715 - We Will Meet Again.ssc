@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS 31----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -299,7 +297,6 @@
 00010
 ;
 
-//---------------pump-single - S4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S4;
@@ -596,7 +593,6 @@
 00000
 ;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -1020,7 +1016,6 @@
 00000
 ;
 
-//---------------pump-single - S10 hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Rebirth Beta;
 #STEPSTYPE:pump-single;
@@ -1517,7 +1512,6 @@
 00000
 ;
 
-//---------------pump-single - s13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
@@ -2185,7 +2179,6 @@
 00000
 ;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -2843,7 +2836,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cosmos Spatium Surprise;
 #STEPSTYPE:pump-single;
@@ -3574,7 +3566,6 @@
 00000
 ;
 
-//---------------pump-double - d8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d8;
@@ -3918,7 +3909,6 @@
 0000000000
 ;
 
-//---------------pump-double - d9 HalfDouble Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic HalfDouble;
 #STEPSTYPE:pump-double;
@@ -4327,7 +4317,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS 36----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -4984,7 +4973,6 @@
 0000000000
 ;
 
-//---------------pump-double - D15 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D15 UCS;
@@ -5663,3 +5651,4 @@
 0000000000
 0000000000
 ;
+

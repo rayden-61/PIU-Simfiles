@@ -41,11 +41,7 @@
 -0.300=IN06.mpg=1.000=1=0=1=ForceStretch==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s1 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -392,7 +388,6 @@
 00000
 ;
 
-//---------------pump-single - s3 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -760,7 +755,6 @@
 00000
 ;
 
-//---------------pump-single - s6 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1283,7 +1277,6 @@
 00000
 ;
 
-//---------------pump-single - s11 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2079,7 +2072,6 @@
 00000
 ;
 
-//---------------pump-single - s14 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled S14;
 #STEPSTYPE:pump-single;
@@ -2938,7 +2930,6 @@
 00000
 ;
 
-//---------------pump-single - s16 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -3917,7 +3908,6 @@
 00000
 ;
 
-//---------------pump-double - d3 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -4252,7 +4242,6 @@
 3000300000
 ;
 
-//---------------pump-double - d10 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -4874,7 +4863,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -5838,7 +5826,6 @@
 0000000000
 ;
 
-//---------------pump-routine - DP 9 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-routine;
@@ -6850,3 +6837,4 @@
 0000330000
 0000000000
 ;
+

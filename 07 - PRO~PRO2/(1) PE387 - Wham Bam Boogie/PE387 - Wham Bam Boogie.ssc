@@ -54,10 +54,7 @@
 232.000=PE387-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -372,7 +369,7 @@
 00000
 30003
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -743,7 +740,7 @@
 00000
 30003
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1254,7 +1251,7 @@
 00000
 30003
 ;
-//---------------pump-single - D. Renzetti----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -1937,7 +1934,7 @@
 00000
 00000
 ;
-//---------------pump-halfdouble - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -2244,7 +2241,7 @@
 000000
 000000
 ;
-//---------------pump-double - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -2559,7 +2556,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -3218,7 +3215,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-routine - DP lv2 Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Routine;
 #STEPSTYPE:pump-routine;

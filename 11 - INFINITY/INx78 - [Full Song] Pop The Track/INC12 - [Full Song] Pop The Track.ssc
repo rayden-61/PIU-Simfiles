@@ -40,7 +40,6 @@
 #ATTACKS:
 ;
 
-//---------------pump-single - s16 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1721,7 +1720,6 @@
 00000
 ;
 
-//---------------pump-routine - DP 17 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-routine;
@@ -3885,3 +3883,4 @@
 0000000000
 0000000000
 ;
+

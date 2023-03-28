@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s18 Quest----------------
 #NOTEDATA:;
 #cHARTNAME:NXA WM Phantomia Invisible Beat;
 #STEPSTYPE:pump-single;
@@ -1594,7 +1592,6 @@ F0F0F
 00000
 ;
 
-//---------------pump-double - Double 19UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Double 19UCS;
@@ -2405,3 +2402,4 @@ F0F0F
 0000000000
 0000000000
 ;
+

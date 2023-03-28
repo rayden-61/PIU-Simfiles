@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -904,7 +902,6 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -2197,7 +2194,6 @@
 00000
 ;
 
-//---------------pump-single - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS FB;
@@ -3584,7 +3580,6 @@
 00000
 ;
 
-//---------------pump-double - d12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d12;
@@ -4571,7 +4566,6 @@
 0000000000
 ;
 
-//---------------pump-double - d13 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Morigin Born of Earth 5;
 #STEPSTYPE:pump-double;
@@ -6040,7 +6034,6 @@
 0000000000
 ;
 
-//---------------pump-double - d17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d17;
@@ -7356,7 +7349,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Overdeath Rebirth;
 #STEPSTYPE:pump-double;
@@ -8630,3 +8622,4 @@
 0000000000
 0000000000
 ;
+

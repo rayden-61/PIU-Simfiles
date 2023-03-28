@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -405,7 +403,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -775,7 +772,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -1329,7 +1325,6 @@
 00000
 ;
 
-//---------------pump-single - UCS 13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS 13;
@@ -2057,7 +2052,6 @@
 00000
 ;
 
-//---------------pump-single - S17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S17;
@@ -4219,7 +4213,6 @@
 00000
 ;
 
-//---------------pump-single - s17 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Single;
 #STEPSTYPE:pump-single;
@@ -5134,7 +5127,6 @@
 00000
 ;
 
-//---------------pump-single - S20 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S20 UCS;
@@ -6085,7 +6077,6 @@
 00303
 ;
 
-//---------------pump-double - d9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d9;
@@ -6671,7 +6662,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D14;
@@ -7448,7 +7438,6 @@
 0000000000
 ;
 
-//---------------pump-double - D19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D19;
@@ -9508,7 +9497,6 @@
 0000000000
 ;
 
-//---------------pump-double - d20 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Cancelled Double;
 #STEPSTYPE:pump-double;
@@ -11566,7 +11554,6 @@
 0000000000
 ;
 
-//---------------pump-double - d22 Quest (Prime)----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone Conrad Step;
 #STEPSTYPE:pump-double;
@@ -12676,7 +12663,6 @@
 0000000000
 ;
 
-//---------------pump-double - D23 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D23 UCS;
@@ -13962,7 +13948,6 @@
 0000000000
 ;
 
-//---------------pump-routine - DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP;
@@ -24570,3 +24555,4 @@
 0000000000
 0000000000
 ;
+

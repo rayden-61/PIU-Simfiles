@@ -39,11 +39,7 @@
 -0.300=INC15.mpg=1.000=1=0=1=Centered==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s18 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2032,3 +2028,4 @@
 00000
 30000
 ;
+

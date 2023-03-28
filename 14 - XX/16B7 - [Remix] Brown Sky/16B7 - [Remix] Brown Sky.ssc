@@ -34,7 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19;
@@ -2027,7 +2026,6 @@
 00000
 ;
 
-//---------------pump-single - S20 Nek0 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S20 Nek0 UCS;
@@ -3991,7 +3989,6 @@
 00000
 ;
 
-//---------------pump-single - s21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s21;
@@ -6070,7 +6067,6 @@
 00000
 ;
 
-//---------------pump-single - s24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s24;
@@ -11320,7 +11316,6 @@
 00000
 ;
 
-//---------------pump-double - d21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d21;
@@ -13327,7 +13322,6 @@
 0000000000
 ;
 
-//---------------pump-double - d24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d24;
@@ -15248,7 +15242,6 @@
 0000000000
 ;
 
-//---------------pump-double - D24 Fingy UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DIFFICULTY:Edit;
@@ -17718,7 +17711,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d26;
@@ -20235,3 +20227,4 @@
 0000000000
 0000000000
 ;
+

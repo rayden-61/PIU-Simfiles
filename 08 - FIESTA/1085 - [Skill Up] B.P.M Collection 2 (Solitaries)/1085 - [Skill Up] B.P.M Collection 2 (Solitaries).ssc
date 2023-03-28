@@ -33,9 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-
-//---------------pump-single - s18 Train----------------
 #NOTEDATA:;
 #CHARTNAME:B.P.M Collections;
 #STEPSTYPE:pump-single;
@@ -1186,7 +1183,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS FB;
@@ -2201,3 +2197,4 @@
 000000
 000000
 ;
+

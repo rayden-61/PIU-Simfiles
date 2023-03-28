@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s11 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Easy Series 1;
 #STEPSTYPE:pump-single;
@@ -1777,7 +1775,6 @@
 00000
 ;
 
-//---------------pump-single - s18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s18;
@@ -3965,7 +3962,6 @@
 00000
 ;
 
-//---------------pump-double - d14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d14;
@@ -6961,7 +6957,6 @@
 0000000000
 ;
 
-//---------------pump-double - D26 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:You Think You Are The Best?;
 #STEPSTYPE:pump-double;
@@ -10350,3 +10345,4 @@
 0000000000
 0000000000
 ;
+

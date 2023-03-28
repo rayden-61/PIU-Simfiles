@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - Jump S02----------------
 #NOTEDATA:;
 #CHARTNAME:Jump Easy;
 #STEPSTYPE:pump-single;
@@ -388,7 +386,6 @@
 00000
 ;
 
-//---------------pump-single - s3 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic Normal;
 #STEPSTYPE:pump-single;
@@ -743,7 +740,6 @@
 00000
 ;
 
-//---------------pump-single - Jump S03----------------
 #NOTEDATA:;
 #CHARTNAME:Jump Normal;
 #STEPSTYPE:pump-single;
@@ -1098,7 +1094,6 @@
 00000
 ;
 
-//---------------pump-single - s4 Fiesta----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4 Fiesta;
@@ -1472,7 +1467,6 @@
 00000
 ;
 
-//---------------pump-single - S6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S6;
@@ -1987,7 +1981,6 @@
 00000
 ;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -2485,7 +2478,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S13;
@@ -3227,7 +3219,6 @@
 00000
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -4184,7 +4175,6 @@
 03003
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM WestPalZ (AB) Caprice of H;
 #STEPSTYPE:pump-single;
@@ -6317,7 +6307,6 @@
 00000
 ;
 
-//---------------pump-single - S18 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Another Hard;
 #STEPSTYPE:pump-single;
@@ -7671,7 +7660,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Parafora Psychi Space City;
 #STEPSTYPE:pump-single;
@@ -8695,7 +8683,6 @@
 00000
 ;
 
-//---------------pump-single - S19 NEW----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19 NEW;
@@ -10360,7 +10347,6 @@ F000F
 00000
 ;
 
-//---------------pump-single - S19 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Another Crazy;
 #STEPSTYPE:pump-single;
@@ -11411,7 +11397,6 @@ F000F
 00000
 ;
 
-//---------------pump-single - s19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone BOSS Conrad Step;
 #STEPSTYPE:pump-single;
@@ -12498,7 +12483,6 @@ F000F
 00000
 ;
 
-//---------------pump-single - s20 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 20;
 #STEPSTYPE:pump-single;
@@ -14008,7 +13992,6 @@ F000F
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Harena Fire Trap;
 #STEPSTYPE:pump-single;
@@ -15470,7 +15453,6 @@ F000F
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -15970,7 +15952,6 @@ F000F
 000000
 ;
 
-//---------------pump-double - d10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d10;
@@ -16520,7 +16501,6 @@ F000F
 0000000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -17503,7 +17483,6 @@ F000F
 0033030300
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Stella's Maya Big Bang;
 #STEPSTYPE:pump-double;
@@ -18497,7 +18476,6 @@ M010000000
 0000000000
 ;
 
-//---------------pump-double - D19 HIDDEN----------------
 #NOTEDATA:;
 #CHARTNAME:Another Freestyle;
 #STEPSTYPE:pump-double;
@@ -19859,7 +19837,6 @@ M010000000
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Stella's Maya Mirror Glasses;
 #STEPSTYPE:pump-double;
@@ -20883,7 +20860,6 @@ M010000000
 0000000000
 ;
 
-//---------------pump-double - D21----------------
 #NOTEDATA:;
 #CHARTNAME:Another Nightmare;
 #STEPSTYPE:pump-double;
@@ -22042,7 +22018,6 @@ M010000000
 0000000000
 ;
 
-//---------------pump-double - DP Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Barharn Union;
 #STEPSTYPE:pump-double;
@@ -23075,7 +23050,6 @@ X0000Y0000
 0000000000
 ;
 
-//---------------pump-routine - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:Infinity;
@@ -24286,7 +24260,6 @@ X0000Y0000
 0000000000
 ;
 
-//---------------pump-routine - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Routine;
 #STEPSTYPE:pump-routine;

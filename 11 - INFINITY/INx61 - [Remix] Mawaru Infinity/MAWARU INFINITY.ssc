@@ -189,16 +189,7 @@
 652.000=final3.png=1.000=1=0=1===CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#FGCHANGES:0.00000=lua=1.00000=0=0=1=====,
-;
-#ATTACKS:
-  TIME=36.00:LEN=10.00:MODS=*10 stealth:
-  TIME=201.673080:LEN=0.005615:MODS=XMode, Reverse, Overhead, Normal:
-  TIME=241.673080:LEN=0.005615:MODS=XMode, Reverse, Overhead, Normal:
-  TIME=242.073080:LEN=0.005615:MODS=XMode, Reverse, Overhead, Normal:
-  TIME=242.673080:LEN=0.005615:MODS=XMode, Reverse, Overhead, Normal;
 
-//---------------pump-single - INFINITY----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:INFINITY;
@@ -1605,7 +1596,6 @@ FFFFF
 00000
 ;
 
-//---------------pump-single - INFINITY----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:INFINITY;
@@ -3200,7 +3190,6 @@ FFFFF
 00000
 ;
 
-//---------------pump-single - INFINITY----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:INFINITY;
@@ -5460,7 +5449,6 @@ FFFFF
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity;
@@ -7790,3 +7778,4 @@ FFFFF
 00000
 00000
 ;
+

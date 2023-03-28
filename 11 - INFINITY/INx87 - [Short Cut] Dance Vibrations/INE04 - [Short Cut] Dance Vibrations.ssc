@@ -41,7 +41,6 @@
 #ATTACKS:
 ;
 
-//---------------pump-single - s16 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -488,3 +487,4 @@
 00000
 00000
 ;
+

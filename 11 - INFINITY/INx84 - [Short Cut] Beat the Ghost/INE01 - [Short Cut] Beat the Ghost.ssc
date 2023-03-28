@@ -41,7 +41,6 @@
 #ATTACKS:
 ;
 
-//---------------pump-single - s5 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -288,7 +287,6 @@
 00000
 ;
 
-//---------------pump-single - s9 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -631,7 +629,6 @@
 00000
 ;
 
-//---------------pump-single - s15 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1007,7 +1004,6 @@
 00000
 ;
 
-//---------------pump-single - s17 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1510,7 +1506,6 @@
 00000
 ;
 
-//---------------pump-double - d17 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -1980,3 +1975,4 @@
 0000000000
 0000000000
 ;
+

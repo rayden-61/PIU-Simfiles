@@ -40,10 +40,7 @@
 -0.300=005.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - s8----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -695,7 +692,7 @@
 00000
 00000
 ;
-//---------------pump-single - s14----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1842,7 +1839,7 @@
 00000
 00000
 ;
-//---------------pump-double - d7----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -2446,7 +2443,7 @@
 0000100000
 0000110000
 ;
-//---------------pump-double - d19 Quest----------------
+
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Rootinia * Overdeath;
 #STEPSTYPE:pump-double;

@@ -40,11 +40,7 @@
 -0.300=003.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -655,7 +651,6 @@
 30003
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1775,7 +1770,6 @@
 00000
 ;
 
-//---------------pump-double - d19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia [ Castle 2 ];
 #STEPSTYPE:pump-double;
@@ -2832,3 +2826,4 @@
 0000000000
 0030000300
 ;
+

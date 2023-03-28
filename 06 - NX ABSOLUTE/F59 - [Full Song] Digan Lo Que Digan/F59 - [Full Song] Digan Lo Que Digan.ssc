@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -911,7 +909,6 @@
 03010
 ;
 
-//---------------pump-single - s18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s18;
@@ -2668,7 +2665,6 @@
 10101
 ;
 
-//---------------pump-double - D6 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D6 UCS;
@@ -3453,7 +3449,6 @@
 0000000000
 ;
 
-//---------------pump-double - d9 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic Freestyle;
 #STEPSTYPE:pump-double;
@@ -4453,7 +4448,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D20----------------
 #NOTEDATA:;
 #CHARTNAME:Double 20;
 #STEPSTYPE:pump-double;
@@ -6304,3 +6298,4 @@
 0000000000
 0000000000
 ;
+

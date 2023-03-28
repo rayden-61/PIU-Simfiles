@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S22;
@@ -1954,7 +1952,6 @@ F0000
 00000
 ;
 
-//---------------pump-double - s19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Harena * Yasangma;
 #STEPSTYPE:pump-double;
@@ -3877,3 +3874,4 @@ F0000
 0000000000
 0000030003
 ;
+

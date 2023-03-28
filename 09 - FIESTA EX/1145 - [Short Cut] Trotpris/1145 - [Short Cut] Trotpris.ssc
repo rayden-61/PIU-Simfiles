@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -563,7 +561,6 @@
 00000
 ;
 
-//---------------pump-single - s15 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Locked Single lv??;
 #STEPSTYPE:pump-single;
@@ -1075,7 +1072,6 @@
 00000
 ;
 
-//---------------pump-double - D14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D14;
@@ -1458,3 +1454,4 @@
 0000000000
 0000000000
 ;
+

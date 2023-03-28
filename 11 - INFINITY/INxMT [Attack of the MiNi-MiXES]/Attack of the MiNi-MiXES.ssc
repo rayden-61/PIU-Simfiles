@@ -92,29 +92,7 @@
 816.500=IN002.mpg=1.000=0=0=1=StretchNormal==CrossFadeFastestFastest==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#FGCHANGES:-10000.000=
-=1.000=0=0=1=====,
--10.000=magic/01-banner.lua=1.000=0=0=1=====,
-52.000=magic/02-banner.lua=1.000=0=0=1=====,
-112.000=magic/03-banner.lua=1.000=0=0=1=====,
-146.000=magic/04-banner.lua=1.000=0=0=1=====,
-184.000=magic/05-banner.lua=1.000=0=0=1=====,
-228.000=magic/06-banner.lua=1.000=0=0=1=====,
-282.000=magic/07-banner.lua=1.000=0=0=1=====,
-319.000=magic/08-banner.lua=1.000=0=0=1=====,
-373.500=magic/09-banner.lua=1.000=0=0=1=====,
-402.000=magic/10-banner.lua=1.000=0=0=1=====,
-490.500=magic/11-banner.lua=1.000=0=0=1=====,
-548.000=magic/12-banner.lua=1.000=0=0=1=====,
-599.000=magic/13-banner.lua=1.000=0=0=1=====,
-650.000=magic/14-banner.lua=1.000=0=0=1=====,
-729.500=magic/15-banner.lua=1.000=0=0=1=====,
-782.500=magic/16-banner.lua=1.000=0=0=1=====,
-813.500=magic/17-banner.lua=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - Infinity Train----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity Train;
@@ -3526,3 +3504,4 @@
 00000
 11111
 ;
+

@@ -57,18 +57,7 @@
 248.000=PE376.png=0.700=1=0=1=File1FlashOverlay==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:60.000=white reverse flash=0.400=0=0=1====#000000=,
-64.000=white flash=1.000=0=0=1=====,
-96.000=white flash=1.000=0=0=1=====,
-128.000=white flash=1.000=0=0=1=====,
-192.000=white flash=1.000=0=0=1=====,
-224.000=white flash=1.000=0=0=1=====,
-240.000=white flash=1.000=0=0=1=====,
-;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -391,7 +380,7 @@
 00000
 30003
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -725,7 +714,7 @@
 00000
 00000
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1404,7 +1393,7 @@
 00000
 00000
 ;
-//---------------pump-single - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2391,7 +2380,7 @@
 00000
 00000
 ;
-//---------------pump-double - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -2884,7 +2873,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;

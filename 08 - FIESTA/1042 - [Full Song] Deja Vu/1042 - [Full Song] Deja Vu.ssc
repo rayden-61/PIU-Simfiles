@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -934,7 +932,6 @@
 00000
 ;
 
-//---------------pump-single - s16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16;
@@ -3878,7 +3875,6 @@ F0FF0
 00000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin * Ehne (Path A);
 #STEPSTYPE:pump-double;
@@ -7791,7 +7787,6 @@ F0FF0
 0000010110
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin * Ehne (Path B);
 #STEPSTYPE:pump-double;
@@ -11705,7 +11700,6 @@ F0FF0
 0000010101
 ;
 
-//---------------pump-double - d16 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16 HalfDouble;
@@ -13186,7 +13180,6 @@ F0FF0
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin * Ehne (Path C);
 #STEPSTYPE:pump-double;
@@ -17097,7 +17090,6 @@ F0FF0
 0000010110
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin * Ehne (Path D);
 #STEPSTYPE:pump-double;
@@ -21009,7 +21001,6 @@ F0FF0
 0000001101
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Morigin * Ehne (Path E);
 #STEPSTYPE:pump-double;
@@ -24922,3 +24913,4 @@ F0FF0
 0000000000
 0000011100
 ;
+

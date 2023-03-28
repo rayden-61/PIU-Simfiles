@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -327,7 +325,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -636,7 +633,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain Dull Tension 2;
 #STEPSTYPE:pump-single;
@@ -987,7 +983,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1716,7 +1711,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Cryomiston Ice T;
 #STEPSTYPE:pump-single;
@@ -2116,7 +2110,6 @@
 00000
 ;
 
-//---------------pump-single - s13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
@@ -2935,7 +2928,6 @@
 00000
 ;
 
-//---------------pump-single - Single Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain BxB (Cancelled);
 #STEPSTYPE:pump-single;
@@ -3706,7 +3698,6 @@
 00000
 ;
 
-//---------------pump-single - Single Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain Life G;
 #STEPSTYPE:pump-single;
@@ -4429,7 +4420,6 @@
 00000
 ;
 
-//---------------pump-single - CR quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Cancun (2nd);
 #STEPSTYPE:pump-single;
@@ -5287,7 +5277,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -6823,7 +6812,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - d4 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -7206,7 +7194,6 @@
 000000
 ;
 
-//---------------pump-double - d5 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5 HalfDouble;
@@ -7612,7 +7599,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain Life G (Cancelled);
 #STEPSTYPE:pump-double;
@@ -8339,7 +8325,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX2 WM Mirtain BxB;
 #STEPSTYPE:pump-double;
@@ -9018,7 +9003,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -9828,7 +9812,6 @@
 0000000000
 ;
 
-//---------------pump-double - 20 UCS Halfdouble----------------
 #NOTEDATA:;
 #CHARTNAME:Double 20;
 #STEPSTYPE:pump-double;
@@ -10478,7 +10461,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS DP----------------
 #NOTEDATA:;
 #CHARTNAME:COOP 3x;
 #STEPSTYPE:pump-double;
@@ -11001,3 +10983,4 @@ YYYZZZZXXX
 0000000000
 0000000000
 ;
+

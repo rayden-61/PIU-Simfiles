@@ -42,11 +42,7 @@
 0.498=IN41.mpg=1.000=1=0=0=Centered==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
 
-//---------------pump-single - s3 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -482,7 +478,6 @@
 00000
 ;
 
-//---------------pump-single - s6 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1242,7 +1237,6 @@
 00000
 ;
 
-//---------------pump-single - s13 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2144,7 +2138,6 @@
 00000
 ;
 
-//---------------pump-single - s15 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -3160,7 +3153,6 @@
 00000
 ;
 
-//---------------pump-single - s20 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -4306,7 +4298,6 @@
 00000
 ;
 
-//---------------pump-double - d12 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -5075,7 +5066,6 @@
 0000000000
 ;
 
-//---------------pump-double - d15 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -5959,7 +5949,6 @@
 0000000000
 ;
 
-//---------------pump-double - d19 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -7005,7 +6994,6 @@
 0000000000
 ;
 
-//---------------pump-double - d20 Quest (inf)----------------
 #NOTEDATA:;
 #CHARTNAME:Infinity - Mir's Revenge;
 #STEPSTYPE:pump-double;
@@ -8196,7 +8184,6 @@
 0000000000
 ;
 
-//---------------pump-double - d21 Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
@@ -9300,7 +9287,6 @@
 0000000000
 ;
 
-//---------------pump-routine - DP UCS----------------
 #NOTEDATA:;
 #CHARTNAME:2P Coop;
 #STEPSTYPE:pump-routine;
@@ -11846,8 +11832,6 @@
 0000000000
 ;
 
-
-//---------------pump-single - Coop----------------
 #NOTEDATA:;
 #CHARTNAME:2P Coop 14;
 #STEPSTYPE:pump-routine;

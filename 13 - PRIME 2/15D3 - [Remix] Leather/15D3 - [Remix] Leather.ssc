@@ -34,7 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - s18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s18;
@@ -2384,7 +2383,6 @@
 00000
 ;
 
-//---------------pump-single - s21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s21;
@@ -4895,7 +4893,6 @@
 30303
 ;
 
-//---------------pump-single - s24 HIDDEN INFOBAR----------------
 #NOTEDATA:;
 #CHARTNAME:PRIME2 v1.07.0;
 #STEPSTYPE:pump-single;
@@ -8057,7 +8054,6 @@
 00000
 ;
 
-//---------------pump-single - s24----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s24;
@@ -11272,7 +11268,6 @@
 30330
 ;
 
-//---------------pump-double - d22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d22;
@@ -14244,7 +14239,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26 HIDDEN INFOBAR----------------
 #NOTEDATA:;
 #CHARTNAME:PRIME2 v1.07.0;
 #STEPSTYPE:pump-double;
@@ -17359,7 +17353,6 @@
 0000000000
 ;
 
-//---------------pump-double - d26----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d26;
@@ -20433,3 +20426,4 @@
 0000000000
 0000000000
 ;
+

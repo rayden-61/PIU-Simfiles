@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S10----------------
 #NOTEDATA:;
 #CHARTNAME:Single 10;
 #STEPSTYPE:pump-single;
@@ -1237,7 +1235,6 @@
 00000
 ;
 
-//---------------pump-single - s17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17;
@@ -3405,7 +3402,6 @@
 00000
 ;
 
-//---------------pump-double - UCS Halfdouble 11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS Halfdouble 11;
@@ -4551,7 +4547,6 @@
 0000000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -6632,3 +6627,4 @@
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s22;
@@ -3175,7 +3173,6 @@
 00000
 ;
 
-//---------------pump-double - D19 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Highway Speeding;
 #STEPSTYPE:pump-double;
@@ -6025,7 +6022,6 @@
 0000000000
 ;
 
-//---------------pump-double - d22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d22;
@@ -9078,7 +9074,6 @@
 0000000000
 ;
 
-//---------------pump-double - D27 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Armageddon;
 #STEPSTYPE:pump-double;
@@ -13028,3 +13023,4 @@
 0000000000
 0000000000
 ;
+

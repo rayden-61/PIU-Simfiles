@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -2584,7 +2582,6 @@
 00000
 ;
 
-//---------------pump-double - d22 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Mirtain Scream!;
 #STEPSTYPE:pump-double;
@@ -6660,7 +6657,6 @@ z000000000
 0000000000
 ;
 
-//---------------pump-double - D24 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Screaming Out Of Control;
 #STEPSTYPE:pump-double;
@@ -8928,3 +8924,4 @@ z000000000
 0000000000
 0000000000
 ;
+

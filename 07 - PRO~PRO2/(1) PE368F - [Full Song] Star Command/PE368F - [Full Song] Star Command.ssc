@@ -58,25 +58,7 @@
 576.125=PE368F-wide.png=1.000=1=0=1=ProTitle==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:32.000=white flash=1.000=0=0=1=====,
-64.000=white flash=1.000=0=0=1=====,
-112.000=white flash=1.000=0=0=1=====,
-176.000=white flash=1.000=0=0=1=====,
-208.000=white flash=1.000=0=0=1=====,
-256.000=white flash=1.000=0=0=1=====,
-304.000=white flash=1.000=0=0=1=====,
-336.000=white flash=1.000=0=0=1=====,
-384.000=white flash=1.000=0=0=1=====,
-400.000=white flash=1.000=0=0=1=====,
-448.000=white flash=1.000=0=0=1=====,
-480.000=white flash=1.000=0=0=1=====,
-512.000=white flash=1.000=0=0=1=====,
-544.000=white flash=1.000=0=0=1=====,
-576.000=white flash=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2017,7 +1999,6 @@
 00000
 ;
 
-//---------------pump-single - S23 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Destroy The Asteroids;
 #STEPSTYPE:pump-single;
@@ -4477,7 +4458,6 @@ M0010
 00030
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Infinity;
@@ -6617,3 +6597,4 @@ M0010
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -451,7 +449,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -1043,7 +1040,6 @@
 00000
 ;
 
-//---------------pump-single - s10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s10;
@@ -4473,7 +4469,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S14;
@@ -5238,7 +5233,6 @@
 00000
 ;
 
-//---------------pump-single - S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S16;
@@ -6375,7 +6369,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -7592,7 +7585,6 @@
 00000
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -10735,7 +10727,6 @@
 00000
 ;
 
-//---------------pump-double - d6 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6 Infinity;
@@ -11247,7 +11238,6 @@
 0000000000
 ;
 
-//---------------pump-double - D12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D12;
@@ -12296,7 +12286,6 @@
 0000000000
 ;
 
-//---------------pump-double - d15 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d15 Infinity;
@@ -13268,7 +13257,6 @@
 0000000000
 ;
 
-//---------------pump-double - D17----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D17;
@@ -14644,7 +14632,6 @@
 3000000000
 ;
 
-//---------------pump-double - d21 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d21 Infinity;
@@ -16236,7 +16223,6 @@
 0000000000
 ;
 
-//---------------pump-double - d23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d23;
@@ -18162,7 +18148,6 @@
 0000000000
 ;
 
-//---------------pump-double - d24 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone E(XC)lise;
 #STEPSTYPE:pump-double;
@@ -19492,7 +19477,6 @@
 0000000000
 ;
 
-//---------------pump-double - DP?? infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:DP?? infinity;
@@ -20350,7 +20334,6 @@ z202zyx0xy
 0000000000
 ;
 
-//---------------pump-routine - DP----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP;
@@ -21903,3 +21886,4 @@ z202zyx0xy
 0000000000
 0000000000
 ;
+

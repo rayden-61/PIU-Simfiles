@@ -71,21 +71,7 @@
 204.000=PE370-wide.png=1.000=0=0=1=ProMovie====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:12.000=white flash=1.000=0=0=1=====,
-16.000=white flash=1.000=0=0=1=====,
-48.000=white flash=1.000=0=0=1=====,
-80.000=white flash=1.000=0=0=1=====,
-112.000=white flash=1.000=0=0=1=====,
-136.000=white flash=1.000=0=0=1=====,
-152.000=white flash=1.000=0=0=1=====,
-168.000=yellow flash=1.000=0=0=1=====,
-200.000=white flash=1.000=0=0=1=====,
-204.000=white flash=1.000=0=0=1=====,
-;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -358,7 +344,7 @@
 00000
 03000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -631,7 +617,7 @@
 00000
 00003
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1496,7 +1482,7 @@
 00000
 00000
 ;
-//---------------pump-single - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2441,7 +2427,7 @@
 00000
 00000
 ;
-//---------------pump-double - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -2734,7 +2720,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-double - Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -3672,7 +3658,7 @@
 0000000000
 0000000000
 ;
-//---------------pump-routine - DP lv6 Pro----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Routine;
 #STEPSTYPE:pump-routine;

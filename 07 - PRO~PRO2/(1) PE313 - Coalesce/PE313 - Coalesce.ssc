@@ -37,17 +37,7 @@
 228.000=PE313-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:19.000=white flash=1.000=0=0=1=====,
-35.000=white flash=1.000=0=0=1=====,
-68.000=white flash=1.000=0=0=1=====,
-148.000=white flash=1.000=0=0=1=====,
-164.000=white flash=1.000=0=0=1=====,
-196.000=white flash=1.000=0=0=1=====,
-228.000=white flash=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -349,7 +339,6 @@
 00000
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -663,7 +652,6 @@
 00000
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1141,7 +1129,6 @@
 03000
 ;
 
-//---------------pump-single - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -1851,7 +1838,6 @@ M0000
 30303
 ;
 
-//---------------pump-single - UCS S19----------------
 #NOTEDATA:;
 #CHARTNAME:Single 19;
 #STEPSTYPE:pump-single;
@@ -3003,7 +2989,6 @@ M0000
 03030
 ;
 
-//---------------pump-double - UCS HALFDOUBLE 5----------------
 #NOTEDATA:;
 #CHARTNAME:HalfDouble 5;
 #STEPSTYPE:pump-double;
@@ -3371,7 +3356,6 @@ M0000
 0000000000
 ;
 
-//---------------pump-double - UCS D7----------------
 #NOTEDATA:;
 #CHARTNAME:Double 7;
 #STEPSTYPE:pump-double;
@@ -3775,7 +3759,6 @@ M0000
 0000000000
 ;
 
-//---------------pump-double - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -4237,7 +4220,6 @@ M0000
 0000003100
 ;
 
-//---------------pump-double - halfdouble pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 HalfDouble;
 #STEPSTYPE:pump-double;
@@ -4748,7 +4730,6 @@ M0000
 0000000000
 ;
 
-//---------------pump-double - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -5498,7 +5479,6 @@ M0000
 0000000000
 ;
 
-//---------------pump-double - UCS D18----------------
 #NOTEDATA:;
 #CHARTNAME:Double 18;
 #STEPSTYPE:pump-double;
@@ -6633,7 +6613,6 @@ M0000
 0000000000
 ;
 
-//---------------pump-routine - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Co-op x02;
 #STEPSTYPE:pump-routine;
@@ -7914,7 +7893,6 @@ M0M00M0M0M
 0000300000
 ;
 
-//---------------pump-routine - pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Routine;
 #STEPSTYPE:pump-routine;
@@ -8801,3 +8779,4 @@ M03M000000
 00000M03M0
 000000M00M
 ;
+

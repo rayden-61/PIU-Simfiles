@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -1095,7 +1093,6 @@
 00010
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19;
@@ -3218,7 +3215,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 22;
 #STEPSTYPE:pump-single;
@@ -5421,7 +5417,6 @@
 00000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Phantomia [Necropolis];
 #STEPSTYPE:pump-double;
@@ -6972,7 +6967,6 @@
 0000000000
 ;
 
-//---------------pump-double - d20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d20;
@@ -9111,7 +9105,6 @@
 0000000000
 ;
 
-//---------------pump-double - nm quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Rhne * msgoon 2;
 #STEPSTYPE:pump-double;
@@ -12742,3 +12735,4 @@ M000M0M0M0
 0000000000
 0000000000
 ;
+

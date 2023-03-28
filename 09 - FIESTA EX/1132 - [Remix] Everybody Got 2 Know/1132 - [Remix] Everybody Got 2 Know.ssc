@@ -35,8 +35,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 10;
 #STEPSTYPE:pump-single;
@@ -801,7 +799,6 @@
 00000
 ;
 
-//---------------pump-single - s18 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Locked Single lv??;
 #STEPSTYPE:pump-single;
@@ -2260,7 +2257,6 @@
 03030
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #CHARTNAME:xMAx StepF2+ build;
 #STEPSTYPE:pump-single;
@@ -4904,7 +4900,6 @@
 00000
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18;
@@ -6452,3 +6447,4 @@
 0000000000
 0000000000
 ;
+

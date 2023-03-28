@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S7;
@@ -581,7 +579,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S13;
@@ -1425,7 +1422,6 @@
 03003
 ;
 
-//---------------pump-single - UCS s17----------------
 #NOTEDATA:;
 #CHARTNAME:Drum;
 #STEPSTYPE:pump-single;
@@ -2473,7 +2469,6 @@
 30003
 ;
 
-//---------------pump-halfdouble - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS FB;
@@ -3317,7 +3312,6 @@
 000000
 ;
 
-//---------------pump-double - d20 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cryomiston Crystal WS;
 #STEPSTYPE:pump-double;
@@ -4370,3 +4364,4 @@
 0000000000
 0000330000
 ;
+

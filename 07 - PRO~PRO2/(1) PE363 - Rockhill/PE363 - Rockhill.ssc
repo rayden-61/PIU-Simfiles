@@ -53,8 +53,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -377,7 +375,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -815,7 +812,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1313,7 +1309,6 @@
 00000
 ;
 
-//---------------pump-single - s6 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -1664,7 +1659,6 @@
 00000
 ;
 
-//---------------pump-single - s8 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -2311,7 +2305,6 @@
 00000
 ;
 
-//---------------pump-single - s11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s11;
@@ -2869,7 +2862,6 @@
 00000
 ;
 
-//---------------pump-single - s16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16;
@@ -4673,7 +4665,6 @@
 00033
 ;
 
-//---------------pump-single - s19 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -6088,7 +6079,6 @@ M00M0
 00000
 ;
 
-//---------------pump-double - UCS D08----------------
 #NOTEDATA:;
 #CHARTNAME:Twisty Lass;
 #STEPSTYPE:pump-double;
@@ -6859,7 +6849,6 @@ M00M0
 0000000000
 ;
 
-//---------------pump-double - d11 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -7774,7 +7763,6 @@ M00M0
 0000000000
 ;
 
-//---------------pump-double - d12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d12;
@@ -8350,7 +8338,6 @@ M00M0
 0000000000
 ;
 
-//---------------pump-double - d16 Quest (F2)----------------
 #NOTEDATA:;
 #CHARTNAME:Fiesta 2 QN051;
 #STEPSTYPE:pump-double;
@@ -9447,7 +9434,6 @@ M00M0
 0000000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -12034,7 +12020,6 @@ M00M0
 0000000000
 ;
 
-//---------------pump-double - d22 pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -13557,7 +13542,6 @@ M00M0
 0000000000
 ;
 
-//---------------pump-double - d23 Quest (Prime)----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest World;
 #STEPSTYPE:pump-double;
@@ -14692,7 +14676,6 @@ M00M0
 0000000000
 ;
 
-//---------------pump-routine - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Co-op x2;
 #STEPSTYPE:pump-routine;
@@ -17755,3 +17738,4 @@ M000000030
 0000000000
 0000000000
 ;
+

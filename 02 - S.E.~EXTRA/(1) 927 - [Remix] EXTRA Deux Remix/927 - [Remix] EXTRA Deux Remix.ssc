@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -544,7 +542,6 @@
 00000
 ;
 
-//---------------pump-single - Single16 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 16;
 #STEPSTYPE:pump-single;
@@ -2030,7 +2027,6 @@
 00000
 ;
 
-//---------------pump-double - d7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -2536,7 +2532,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Revival Step;
 #STEPSTYPE:pump-double;
@@ -3752,7 +3747,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 6;
@@ -4261,3 +4255,4 @@
 1000110001
 0000000000
 ;
+

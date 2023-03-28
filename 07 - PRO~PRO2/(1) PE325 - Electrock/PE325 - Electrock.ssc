@@ -40,16 +40,7 @@
 175.000=PE325-wide.png=1.000=1=0=1=ProTitle==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:16.000=white flash=1.000=0=0=1=====,
-48.000=white flash=1.000=0=0=1=====,
-55.500=white flash=1.000=0=0=1=====,
-80.000=white flash=1.000=0=0=1=====,
-144.000=white flash=1.000=0=0=1=====,
-160.000=white flash=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -281,7 +272,6 @@
 00001
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -537,7 +527,6 @@
 10001
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -962,7 +951,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S11----------------
 #NOTEDATA:;
 #CHARTNAME:Single 11;
 #STEPSTYPE:pump-single;
@@ -1510,7 +1498,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2159,7 +2146,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -2508,7 +2494,6 @@
 000000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -2904,7 +2889,6 @@
 0030000000
 ;
 
-//---------------pump-double - UCS D12----------------
 #NOTEDATA:;
 #CHARTNAME:Double 12;
 #STEPSTYPE:pump-double;
@@ -3456,7 +3440,6 @@
 0000000000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;
@@ -4348,3 +4331,4 @@
 0000000000
 0000000000
 ;
+

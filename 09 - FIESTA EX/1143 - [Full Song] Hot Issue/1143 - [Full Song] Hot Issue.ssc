@@ -40,10 +40,7 @@
 -1.200=1143.mpg=1.000=1=0=1=Centered==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - s9----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1090,7 +1087,7 @@
 00000
 03003
 ;
-//---------------pump-single - s14----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -2743,7 +2740,7 @@
 00000
 30030
 ;
-//---------------pump-double - d16----------------
+
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;

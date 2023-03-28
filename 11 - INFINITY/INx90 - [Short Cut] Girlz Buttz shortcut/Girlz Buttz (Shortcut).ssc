@@ -38,16 +38,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:4.616;
-#LASTSECONDHINT:46.997;
-#SONGFILENAME:/Songs/14 Music Trains/[NeonFM] Girlz Buttz shortcut/Girlz Buttz (Shortcut).ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:46.997;
-// end cache tags
 
-//---------------pump-single - INFINITY----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -370,3 +361,4 @@
 00000
 00000
 ;
+

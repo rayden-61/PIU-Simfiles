@@ -65,25 +65,7 @@
 287.000=PE336-wide.png=1.000=0=0=1=ProTitle====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#BGCHANGES2:16.000=PE336-bg2.png=1.000=0=0=1=ProTitle====,
-32.000=white flash=1.000=0=0=1=====,
-48.000=white flash=1.000=0=0=1=====,
-64.000=white flash=1.000=0=0=1====#00FFFF=,
-96.000=yellow flash=1.000=0=0=1=====,
-128.000=white flash=1.000=0=0=1====#00FFFF=,
-160.000=white flash=1.000=0=0=1====#00FFFF=,
-166.000=white flash=1.000=0=0=1=====,
-182.000=white flash=1.000=0=0=1=====,
-198.000=white flash=1.000=0=0=1=====,
-214.000=white flash=1.000=0=0=1=====,
-256.000=white flash=1.000=0=0=1====#FFFF00=,
-272.000=white flash=1.000=0=0=1====#00FFFF=,
-287.000=white flash=1.000=0=0=1=====,
-;
-#KEYSOUNDS:;
-#ATTACKS:
-;
-//---------------pump-single - K. Proctor----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Easy;
 #STEPSTYPE:pump-single;
@@ -455,7 +437,7 @@
 00000
 10001
 ;
-//---------------pump-single - K. Proctor----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Normal;
 #STEPSTYPE:pump-single;
@@ -827,7 +809,7 @@
 10000
 10001
 ;
-//---------------pump-single - K. Proctor----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Hard;
 #STEPSTYPE:pump-single;
@@ -1387,7 +1369,7 @@
 10001
 00000
 ;
-//---------------pump-single - E. Holniker----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Crazy;
 #STEPSTYPE:pump-single;
@@ -2024,7 +2006,7 @@ M00M0
 01010
 00000
 ;
-//---------------pump-double - E. Holniker----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Freestyle;
 #STEPSTYPE:pump-double;
@@ -2412,7 +2394,7 @@ M00M0
 0000001010
 0000000000
 ;
-//---------------pump-double - S. Hanson----------------
+
 #NOTEDATA:;
 #CHARTNAME:Pro 2 Nightmare;
 #STEPSTYPE:pump-double;

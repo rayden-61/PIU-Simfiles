@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -646,7 +644,6 @@
 00000
 ;
 
-//---------------pump-single - s11----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s11;
@@ -1749,7 +1746,6 @@
 00000
 ;
 
-//---------------pump-single - s12 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia Mix Up 4;
 #STEPSTYPE:pump-single;
@@ -2602,7 +2598,6 @@
 00000
 ;
 
-//---------------pump-single - ucs----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:ucs;
@@ -3802,7 +3797,6 @@ M000M
 00000
 ;
 
-//---------------pump-double - d8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d8;
@@ -4401,7 +4395,6 @@ M000M
 0000000000
 ;
 
-//---------------pump-double - D17 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D17 UCS;
@@ -5572,7 +5565,6 @@ M000M
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -6688,3 +6680,4 @@ M000M
 0000000000
 0000000000
 ;
+

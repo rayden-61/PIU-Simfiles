@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS 31----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Easy;
 #STEPSTYPE:pump-single;
@@ -271,7 +269,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -622,7 +619,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -958,7 +954,6 @@
 00000
 ;
 
-//---------------pump-single - s9 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s9 UCS;
@@ -1499,7 +1494,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S14----------------
 #NOTEDATA:;
 #CHARTNAME:Oh, Swing!;
 #STEPSTYPE:pump-single;
@@ -2554,7 +2548,6 @@
 00000
 ;
 
-//---------------pump-single - s16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16;
@@ -3447,7 +3440,6 @@
 00000
 ;
 
-//---------------pump-single - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS FB;
@@ -4657,7 +4649,6 @@
 00000
 ;
 
-//---------------pump-double - d7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -4992,7 +4983,6 @@
 0000000000
 ;
 
-//---------------pump-double - d8 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d8 HalfDouble;
@@ -5328,7 +5318,6 @@
 0000000000
 ;
 
-//---------------pump-double - D11 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D11 UCS;
@@ -5869,7 +5858,6 @@
 0000000000
 ;
 
-//---------------pump-double - D17 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D17 UCS;
@@ -7239,7 +7227,6 @@
 0000000000
 ;
 
-//---------------pump-double - D19 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Nightmare;
 #STEPSTYPE:pump-double;
@@ -8286,7 +8273,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS 36----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -9493,3 +9479,4 @@
 0000000000
 0000000000
 ;
+

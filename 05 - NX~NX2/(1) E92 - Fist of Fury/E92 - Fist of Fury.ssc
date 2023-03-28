@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s1----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s1;
@@ -191,7 +189,6 @@
 00000
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -548,7 +545,6 @@
 00000
 ;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -1033,7 +1029,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S14----------------
 #NOTEDATA:;
 #CHARTNAME:I Wanna Know;
 #STEPSTYPE:pump-single;
@@ -1669,7 +1664,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS FB;
@@ -2562,7 +2556,6 @@
 000000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -2823,7 +2816,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D8----------------
 #NOTEDATA:;
 #CHARTNAME:You Gotta Know;
 #STEPSTYPE:pump-double;
@@ -3319,7 +3311,6 @@
 0000000000
 ;
 
-//---------------pump-double - d14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d14;
@@ -4162,3 +4153,4 @@
 0000000000
 0000000000
 ;
+

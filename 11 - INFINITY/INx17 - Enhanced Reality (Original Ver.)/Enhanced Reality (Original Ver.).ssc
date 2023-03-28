@@ -36,16 +36,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
-// cache tags:
-#FIRSTSECOND:4.258;
-#LASTSECONDHINT:118.596;
-#SONGFILENAME:/Songs/14 Music Trains/[GotK] Enhanced Reality (Original Ver.)/Enhanced Reality (Original Ver.).ssc;
-#HASMUSIC:1;
-#HASBANNER:1;
-#MUSICLENGTH:118.596;
-// end cache tags
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
@@ -1200,3 +1191,4 @@
 00000
 00000
 ;
+

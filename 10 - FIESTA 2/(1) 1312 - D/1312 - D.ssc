@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -673,7 +671,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -1311,7 +1308,6 @@
 00000
 ;
 
-//---------------pump-single - S10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S10;
@@ -1961,7 +1957,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:UCS;
 #STEPSTYPE:pump-single;
@@ -2790,7 +2785,6 @@
 00000
 ;
 
-//---------------pump-single - s17 Quest (F2)----------------
 #NOTEDATA:;
 #CHARTNAME:Fiesta 2 Quest Zone QN053;
 #STEPSTYPE:pump-single;
@@ -3416,7 +3410,6 @@ YYYY0
 00000
 ;
 
-//---------------pump-single - s18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s18;
@@ -4307,7 +4300,6 @@ YYYY0
 00000
 ;
 
-//---------------pump-double - UCS Halfdouble HD4----------------
 #NOTEDATA:;
 #CHARTNAME:Half Double 4;
 #STEPSTYPE:pump-double;
@@ -4711,7 +4703,6 @@ YYYY0
 0003000000
 ;
 
-//---------------pump-double - D12----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D12;
@@ -5349,7 +5340,6 @@ YYYY0
 0000000000
 ;
 
-//---------------pump-double - d18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d18;
@@ -6209,7 +6199,6 @@ YYYY0
 0000000000
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -7076,7 +7065,6 @@ YYYY0
 0000000000
 ;
 
-//---------------pump-double - d20 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:Prime Quest Zone Conra-D;
 #STEPSTYPE:pump-double;
@@ -8021,7 +8009,6 @@ YYYY0
 0000330000
 ;
 
-//---------------pump-double - D23 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:~D~;
 #STEPSTYPE:pump-double;
@@ -8764,3 +8751,4 @@ YYYY0
 0010000100
 0011111000
 ;
+

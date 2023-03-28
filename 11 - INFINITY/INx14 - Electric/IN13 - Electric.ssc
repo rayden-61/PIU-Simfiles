@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2 Infinity;
@@ -348,7 +346,6 @@
 00000
 ;
 
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -657,7 +654,6 @@
 00000
 ;
 
-//---------------pump-single - s4 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4 Infinity;
@@ -979,7 +975,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -1312,7 +1307,6 @@
 00000
 ;
 
-//---------------pump-single - s6 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6 Infinity;
@@ -1799,7 +1793,6 @@
 00000
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -2188,7 +2181,6 @@
 00000
 ;
 
-//---------------pump-single - s8 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8 Infinity;
@@ -2634,7 +2626,6 @@
 00000
 ;
 
-//---------------pump-single - s11 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s11 Infinity;
@@ -3384,7 +3375,6 @@
 00000
 ;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -4469,7 +4459,6 @@
 00000
 ;
 
-//---------------pump-single - s14 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Infinity Cancelled S14;
 #STEPSTYPE:pump-single;
@@ -5153,7 +5142,6 @@
 00000
 ;
 
-//---------------pump-single - s15 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15 Infinity;
@@ -6609,7 +6597,6 @@
 00000
 ;
 
-//---------------pump-single - s17 New----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s17 New;
@@ -7966,7 +7953,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -8437,7 +8423,6 @@
 000000
 ;
 
-//---------------pump-double - d4 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4 Infinity;
@@ -8760,7 +8745,6 @@
 0000000000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -9089,7 +9073,6 @@
 0000000000
 ;
 
-//---------------pump-double - d7 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7 Infinity;
@@ -9588,7 +9571,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16 Infinity;
@@ -10466,7 +10448,6 @@
 0000000000
 ;
 
-//---------------pump-routine - DP 15 Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-routine;
 #DESCRIPTION:DP 15 Infinity;
@@ -11834,3 +11815,4 @@
 3000300000
 0000000000
 ;
+

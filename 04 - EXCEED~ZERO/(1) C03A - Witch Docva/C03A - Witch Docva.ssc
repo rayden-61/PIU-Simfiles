@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S10----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S10;
@@ -737,7 +735,6 @@
 03030
 ;
 
-//---------------pump-single - UCS S14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S14;
@@ -1471,7 +1468,6 @@
 00000
 ;
 
-//---------------pump-single - s19 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Cryomiston * Bykk;
 #STEPSTYPE:pump-single;
@@ -2686,7 +2682,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS;
@@ -3811,7 +3806,6 @@
 000000
 ;
 
-//---------------pump-double - UCS D22----------------
 #NOTEDATA:;
 #CHARTNAME:Double 22;
 #STEPSTYPE:pump-double;
@@ -5146,3 +5140,4 @@
 0000000000
 0000000000
 ;
+

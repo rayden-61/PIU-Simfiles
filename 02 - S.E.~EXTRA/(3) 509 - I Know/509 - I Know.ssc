@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -301,7 +299,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -609,7 +606,6 @@
 00000
 ;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -1065,7 +1061,6 @@
 00000
 ;
 
-//---------------pump-single - Single14 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 14 UCS;
 #STEPSTYPE:pump-single;
@@ -1867,7 +1862,6 @@
 00000
 ;
 
-//---------------pump-single - S15 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 15;
 #STEPSTYPE:pump-single;
@@ -2745,7 +2739,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S16;
@@ -3833,7 +3826,6 @@
 00000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -4137,7 +4129,6 @@
 0000000000
 ;
 
-//---------------pump-double - D11 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Nightmare;
 #STEPSTYPE:pump-double;
@@ -8212,7 +8203,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D16----------------
 #NOTEDATA:;
 #CHARTNAME:Double 16;
 #STEPSTYPE:pump-double;
@@ -9137,3 +9127,4 @@
 0000000000
 0000000000
 ;
+

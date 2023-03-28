@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -388,7 +386,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -762,7 +759,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -1472,7 +1468,6 @@
 00000
 ;
 
-//---------------pump-single - s14----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s14;
@@ -2571,7 +2566,6 @@
 00000
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -2957,7 +2951,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D10----------------
 #NOTEDATA:;
 #CHARTNAME:En La Boca;
 #STEPSTYPE:pump-double;
@@ -3930,7 +3923,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -4968,7 +4960,6 @@
 0000000000
 ;
 
-//---------------pump-double - D19 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Quadriosa;
 #STEPSTYPE:pump-double;
@@ -7244,3 +7235,4 @@
 0000000000
 0000000000
 ;
+

@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s2;
@@ -306,7 +304,6 @@
 00000
 ;
 
-//---------------pump-single - s3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s3;
@@ -579,7 +576,6 @@
 00000
 ;
 
-//---------------pump-single - S09 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Crazy;
 #STEPSTYPE:pump-single;
@@ -1270,7 +1266,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S11----------------
 #NOTEDATA:;
 #CHARTNAME:Parapa;
 #STEPSTYPE:pump-single;
@@ -1973,7 +1968,6 @@
 00000
 ;
 
-//---------------pump-single - S12 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Para mi son todos chinos;
 #STEPSTYPE:pump-single;
@@ -2698,7 +2692,6 @@
 00000
 ;
 
-//---------------pump-single - s16 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s16 UCS;
@@ -3611,7 +3604,6 @@
 00000
 ;
 
-//---------------pump-double - d4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d4;
@@ -3884,7 +3876,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D09----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D09;
@@ -4401,7 +4392,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double 14UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Double 14UCS;
@@ -5094,7 +5084,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D16;
@@ -5978,7 +5967,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 2----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 2;
@@ -6251,7 +6239,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 3----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 3;
@@ -6523,3 +6510,4 @@
 0000000000
 0000000000
 ;
+

@@ -33,7 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - UCS S5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S5;
@@ -415,7 +414,6 @@
 00000
 ;
 
-//---------------pump-single - UCS single 5----------------
 #NOTEDATA:;
 #CHARTNAME:single 5;
 #STEPSTYPE:pump-single;
@@ -902,7 +900,6 @@
 00000
 ;
 
-//---------------pump-single - S8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S8;
@@ -1545,7 +1542,6 @@
 00000
 ;
 
-//---------------pump-single - S13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S13;
@@ -2474,7 +2470,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S16;
@@ -3507,7 +3502,6 @@
 00000
 ;
 
-//---------------pump-single - S18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S18;
@@ -4481,7 +4475,6 @@
 00000
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -5551,7 +5544,6 @@
 00000
 ;
 
-//---------------pump-double - UCS double 11----------------
 #NOTEDATA:;
 #CHARTNAME:double 11;
 #STEPSTYPE:pump-double;
@@ -6454,7 +6446,6 @@
 0000000000
 ;
 
-//---------------pump-double - D13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D13;
@@ -7093,7 +7084,6 @@
 0000000000
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18;
@@ -8319,7 +8309,6 @@
 0000000000
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -9508,7 +9497,6 @@
 0000000000
 ;
 
-//---------------pump-double - D22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D22;
@@ -10785,7 +10773,6 @@
 0000000000
 ;
 
-//---------------pump-double - d23 ucs----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d23 ucs;
@@ -12173,7 +12160,6 @@
 0000000000
 ;
 
-//---------------pump-double - Fingy UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Fingy UCS;

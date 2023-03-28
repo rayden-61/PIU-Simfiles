@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s8 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Locked Single;
 #STEPSTYPE:pump-single;
@@ -765,7 +763,6 @@
 00000
 ;
 
-//---------------pump-single - s10 Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Shantomia BanYa M;
 #STEPSTYPE:pump-single;
@@ -1600,7 +1597,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Custom Edit;
 #STEPSTYPE:pump-single;
@@ -3212,7 +3208,6 @@
 00000
 ;
 
-//---------------pump-halfdouble - UCS FB----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-halfdouble;
 #DESCRIPTION:UCS FB;
@@ -5669,7 +5664,6 @@
 000000
 ;
 
-//---------------pump-double - DP Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Locked Double;
 #STEPSTYPE:pump-double;
@@ -6375,3 +6369,4 @@
 0110000000
 0000000000
 ;
+

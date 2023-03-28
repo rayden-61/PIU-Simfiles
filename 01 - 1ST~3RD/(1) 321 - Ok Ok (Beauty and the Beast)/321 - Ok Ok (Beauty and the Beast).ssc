@@ -32,8 +32,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS S3----------------
 #NOTEDATA:;
 #CHARTNAME:Rosey;
 #STEPSTYPE:pump-single;
@@ -298,7 +296,6 @@
 01010
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -573,7 +570,6 @@
 10001
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:FBC Hard;
 #STEPSTYPE:pump-single;
@@ -886,7 +882,6 @@
 10000
 ;
 
-//---------------pump-single - UCS S7----------------
 #NOTEDATA:;
 #CHARTNAME:Belleicose;
 #STEPSTYPE:pump-single;
@@ -1359,7 +1354,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -1815,7 +1809,6 @@
 10110
 ;
 
-//---------------pump-single - Single 13 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 13;
 #STEPSTYPE:pump-single;
@@ -2348,7 +2341,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S16;
@@ -3092,7 +3084,6 @@
 30003
 ;
 
-//---------------pump-single - UCS S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS S19;
@@ -4084,7 +4075,6 @@
 03110
 ;
 
-//---------------pump-double - d5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d5;
@@ -4395,7 +4385,6 @@
 0010000000
 ;
 
-//---------------pump-double - D8 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Easy Pleasure;
 #STEPSTYPE:pump-double;
@@ -4793,7 +4782,6 @@
 0000300003
 ;
 
-//---------------pump-double - UCS D14----------------
 #NOTEDATA:;
 #CHARTNAME:Beastly;
 #STEPSTYPE:pump-double;
@@ -5451,7 +5439,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 17 UCS;
 #STEPSTYPE:pump-double;
@@ -6056,7 +6043,6 @@
 0000000000
 ;
 
-//---------------pump-double - HALFDOUBLE D21 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Medium D21;
 #STEPSTYPE:pump-double;
@@ -6983,7 +6969,6 @@
 0000000000
 ;
 
-//---------------pump-couple - DP Couple 4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-couple;
 #DESCRIPTION:DP Couple 4;
@@ -7257,3 +7242,4 @@
 0010000100
 1000110001
 ;
+

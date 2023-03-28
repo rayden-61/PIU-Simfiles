@@ -33,14 +33,7 @@
 -0.225=16F7.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#FGCHANGES:-10000.000=
-=1.000=0=0=1=====,
-484.000=FlashD23=1.000=0=0=1=====,
-99999.000=-nosongbg-=1.000=0=0=0=StretchNoLoop====,
-;
 
-
-//---------------pump-single - S16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S16;
@@ -1692,7 +1685,6 @@
 00000
 ;
 
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -7956,7 +7948,6 @@
 00000
 ;
 
-//---------------pump-double - D23----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D23;
@@ -15327,7 +15318,6 @@ F000000000
 3000000030
 ;
 
-//---------------pump-double - D25 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:I want you dead.;
 #STEPSTYPE:pump-double;
@@ -19962,3 +19952,4 @@ MM11001100
 3330000000
 0000000000
 ;
+

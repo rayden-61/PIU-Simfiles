@@ -34,8 +34,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21;
@@ -3039,7 +3037,6 @@ F0000
 00000
 ;
 
-//---------------pump-double - D20----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D20;
@@ -4625,7 +4622,6 @@ F0000
 0000000000
 ;
 
-//---------------pump-double - nm quest----------------
 #NOTEDATA:;
 #CHARTNAME:Fiesta Mission Zone QH299;
 #STEPSTYPE:pump-double;
@@ -10882,7 +10878,6 @@ M000000000
 0000000000
 ;
 
-//---------------pump-double - D24 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Ultimates;
 #STEPSTYPE:pump-double;
@@ -12978,3 +12973,4 @@ M000000000
 0000000000
 0000000000
 ;
+

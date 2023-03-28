@@ -31,7 +31,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -297,7 +296,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Normal;
 #STEPSTYPE:pump-single;
@@ -563,7 +561,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Hard;
 #STEPSTYPE:pump-single;
@@ -937,7 +934,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S8----------------
 #NOTEDATA:;
 #CHARTNAME:Single 8;
 #STEPSTYPE:pump-single;
@@ -1327,7 +1323,6 @@
 00000
 ;
 
-//---------------pump-single - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Crazy;
 #STEPSTYPE:pump-single;
@@ -1653,7 +1648,6 @@ M1111
 00000
 ;
 
-//---------------pump-single - UCS POPS 17----------------
 #NOTEDATA:;
 #CHARTNAME:Single 17;
 #STEPSTYPE:pump-single;
@@ -2468,7 +2462,6 @@ M1111
 00000
 ;
 
-//---------------pump-halfdouble - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro HalfDouble;
 #STEPSTYPE:pump-halfdouble;
@@ -2834,7 +2827,6 @@ M1111
 000000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Freestyle;
 #STEPSTYPE:pump-double;
@@ -3105,7 +3097,6 @@ M1111
 0000000000
 ;
 
-//---------------pump-double - D09 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Double 9;
 #STEPSTYPE:pump-double;
@@ -3519,7 +3510,6 @@ M1111
 0000000000
 ;
 
-//---------------pump-double - Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -3849,7 +3839,6 @@ MM1M11M1MM
 0000000000
 ;
 
-//---------------pump-routine - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Co-op;
 #STEPSTYPE:pump-routine;
@@ -4681,3 +4670,4 @@ M000000000
 0000000000
 0000000000
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - S15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S15;
@@ -1287,7 +1285,6 @@
 00000
 ;
 
-//---------------pump-single - s19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s19;
@@ -3153,7 +3150,6 @@
 00000
 ;
 
-//---------------pump-single - UCS S22----------------
 #NOTEDATA:;
 #CHARTNAME:Single 22;
 #STEPSTYPE:pump-single;
@@ -4939,7 +4935,6 @@
 00000
 ;
 
-//---------------pump-double - D18----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D18;
@@ -6143,7 +6138,6 @@
 0000000000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Stella's Maya Stateliness;
 #STEPSTYPE:pump-double;
@@ -8291,7 +8285,6 @@
 0000000000
 ;
 
-//---------------pump-double - d22----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d22;
@@ -10187,7 +10180,6 @@
 0000000000
 ;
 
-//---------------pump-double - INFINITY----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:INFINITY;
@@ -12120,3 +12112,4 @@
 0000000000
 0000000000
 ;
+

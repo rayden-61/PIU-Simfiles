@@ -33,7 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------pump-single - s1 Pro----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s1 Pro;
@@ -328,7 +327,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -735,7 +733,6 @@
 00000
 ;
 
-//---------------pump-single - s8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s8;
@@ -1218,7 +1215,6 @@
 00000
 ;
 
-//---------------pump-single - s15----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s15;
@@ -2148,7 +2144,6 @@
 10000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS;
@@ -3134,7 +3129,6 @@
 10111
 ;
 
-//---------------pump-single - S21 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S21 UCS;
@@ -4160,7 +4154,6 @@
 00111
 ;
 
-//---------------pump-double - d6 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6 HalfDouble;
@@ -4591,7 +4584,6 @@
 0000000000
 ;
 
-//---------------pump-double - d9----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d9;
@@ -5078,7 +5070,6 @@
 0000000000
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -5984,7 +5975,6 @@
 0000010000
 ;
 
-//---------------pump-double - D21 UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:D21 UCS;
@@ -6866,7 +6856,6 @@
 0011010100
 ;
 
-//---------------pump-double - NM quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Berlin (3rd);
 #STEPSTYPE:pump-double;
@@ -7830,3 +7819,4 @@ F0000000{1|h|0|0}0
 0000000000
 {1|h|0|0}0000000F0
 ;
+

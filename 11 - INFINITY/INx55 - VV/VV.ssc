@@ -44,13 +44,7 @@
 #BGCHANGES:-0.011=INx55.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
-#FGCHANGES:-10000.000=
-=1.000=0=0=1=====,
-0.000=lua=1.000=0=0=1=====,
-;
 
-
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity;
@@ -856,7 +850,6 @@
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity;
@@ -3119,7 +3112,6 @@ M0000
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity;
@@ -4821,7 +4813,6 @@ M0000
 00000
 ;
 
-//---------------pump-single - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:Infinity;
@@ -6931,7 +6922,6 @@ M0M0M
 00000
 ;
 
-//---------------pump-double - INFINITY----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:INFINITY;
@@ -8626,7 +8616,6 @@ M0M0M
 0000000000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Infinity;
@@ -9812,7 +9801,6 @@ M0M0M
 0000000000
 ;
 
-//---------------pump-double - Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:Infinity;
@@ -11343,7 +11331,6 @@ M0M0M
 0030300300
 ;
 
-//---------------pump-double - SLUMPAGE Infinity----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:SLUMPAGE Infinity;
@@ -13288,3 +13275,4 @@ M0M0M
 0000000000
 0000000000
 ;
+

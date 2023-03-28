@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s1 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Easy;
 #STEPSTYPE:pump-single;
@@ -348,7 +346,6 @@
 00300
 ;
 
-//---------------pump-single - s2 Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Zero Easy Station;
 #STEPSTYPE:pump-single;
@@ -663,7 +660,6 @@
 00000
 ;
 
-//---------------pump-single - s4----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s4;
@@ -988,7 +984,6 @@
 00001
 ;
 
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -1445,7 +1440,6 @@
 00001
 ;
 
-//---------------pump-single - s13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
@@ -2114,7 +2108,6 @@
 10001
 ;
 
-//---------------pump-single - S17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack;
 #STEPSTYPE:pump-single;
@@ -2980,7 +2973,6 @@
 00000
 ;
 
-//---------------pump-single - S22 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Todos a bailar;
 #STEPSTYPE:pump-single;
@@ -4078,7 +4070,6 @@
 00000
 ;
 
-//---------------pump-double - d6 HalfDouble----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d6 HalfDouble;
@@ -4540,7 +4531,6 @@
 0000100000
 ;
 
-//---------------pump-double - d7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -4997,7 +4987,6 @@
 1000000000
 ;
 
-//---------------pump-double - d15 Pro----------------
 #NOTEDATA:;
 #CHARTNAME:Pro Nightmare;
 #STEPSTYPE:pump-double;
@@ -5708,7 +5697,6 @@
 0000000000
 ;
 
-//---------------pump-double - d15 Another----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #CHARTNAME:Another Nightmare;
@@ -6426,7 +6414,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS D21----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS D21;
@@ -7340,7 +7327,6 @@
 0000000000
 ;
 
-//---------------pump-double - NM quest----------------
 #NOTEDATA:;
 #CHARTNAME:NX World Tour Managua (2nd);
 #STEPSTYPE:pump-double;
@@ -7993,3 +7979,4 @@
 0000101000
 1000000010
 ;
+

@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - s6----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s6;
@@ -713,7 +711,6 @@
 00001
 ;
 
-//---------------pump-single - s13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
@@ -1750,7 +1747,6 @@
 00000
 ;
 
-//---------------pump-single - S19 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack;
 #STEPSTYPE:pump-single;
@@ -3068,7 +3064,6 @@
 03103
 ;
 
-//---------------pump-double - d7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d7;
@@ -3795,7 +3790,6 @@
 0000110000
 ;
 
-//---------------pump-double - Double Quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Rootinia Mix Up 3;
 #STEPSTYPE:pump-double;
@@ -5742,7 +5736,6 @@
 1101100000
 ;
 
-//---------------pump-double - d16----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d16;
@@ -6887,7 +6880,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Nostalgia Pack;
 #STEPSTYPE:pump-double;
@@ -8181,3 +8173,4 @@
 0000203000
 0001301000
 ;
+

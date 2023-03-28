@@ -33,8 +33,6 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-
-//---------------pump-single - UCS 31----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:UCS 31;
@@ -298,7 +296,6 @@
 00000
 ;
 
-//---------------pump-single - s5----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s5;
@@ -562,7 +559,6 @@
 00000
 ;
 
-//---------------pump-single - s7----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s7;
@@ -986,7 +982,6 @@
 00000
 ;
 
-//---------------pump-single - S12 hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Rebirth Beta;
 #STEPSTYPE:pump-single;
@@ -1555,7 +1550,6 @@
 00000
 ;
 
-//---------------pump-single - s13----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:s13;
@@ -2227,7 +2221,6 @@
 00000
 ;
 
-//---------------pump-single - cr quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Prue Ocean Mission Possible (Path A);
 #STEPSTYPE:pump-single;
@@ -3000,7 +2993,6 @@
 00000
 ;
 
-//---------------pump-single - UCS----------------
 #NOTEDATA:;
 #CHARTNAME:Single 15;
 #STEPSTYPE:pump-single;
@@ -3791,7 +3783,6 @@
 00000
 ;
 
-//---------------pump-single - cr quest----------------
 #NOTEDATA:;
 #CHARTNAME:NXA WM Prue Ocean Mission Possible (Path B);
 #STEPSTYPE:pump-single;
@@ -4573,7 +4564,6 @@
 00000
 ;
 
-//---------------pump-single - SINGLE 17 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:SINGLE 17;
 #STEPSTYPE:pump-single;
@@ -5399,7 +5389,6 @@
 00000
 ;
 
-//---------------pump-single - S19----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S19;
@@ -6459,7 +6448,6 @@
 00000
 ;
 
-//---------------pump-double - d7 HalfDouble Hidden----------------
 #NOTEDATA:;
 #CHARTNAME:Classic HalfDouble;
 #STEPSTYPE:pump-double;
@@ -7108,7 +7096,6 @@
 0000000000
 ;
 
-//---------------pump-double - d8----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:d8;
@@ -7680,7 +7667,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-double;
 #DESCRIPTION:UCS;
@@ -8469,7 +8455,6 @@
 0000000000
 ;
 
-//---------------pump-double - UCS 36----------------
 #NOTEDATA:;
 #CHARTNAME:PP+ Nightmare;
 #STEPSTYPE:pump-double;
@@ -9266,7 +9251,6 @@
 0000000000
 ;
 
-//---------------pump-double - D21 UCS----------------
 #NOTEDATA:;
 #CHARTNAME:D21;
 #STEPSTYPE:pump-double;
@@ -10295,3 +10279,4 @@
 0000000000
 0000000000
 ;
+
