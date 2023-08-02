@@ -8,7 +8,7 @@
 #GENRE:;
 #ORIGIN:;
 #CREDIT:P. Shanklin;
-#BANNER:INC13.png;
+#BANNER:INC13_B.png;
 #BACKGROUND:INC13.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #JACKET:;
@@ -40,11 +40,12 @@
 -0.300=IN001.mpg=1.000=1=0=1=CenteredLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 
 ;
+#LASTSECONDHINT:251.350204;
 
 #NOTEDATA:;
 #CHARTNAME:Infinity - Extension;
 #STEPSTYPE:pump-double;
-#DESCRIPTION:d20 Quest (inf);
+#DESCRIPTION:D20 QUEST (INF);
 #CHARTSTYLE:;
 #DIFFICULTY:Edit;
 #METER:20;

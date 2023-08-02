@@ -8,7 +8,7 @@
 #GENRE:;
 #ORIGIN:;
 #CREDIT:Nirvash;
-#BANNER:C99 ATTACK OF THE mini-mixes-SP1Banner.png;
+#BANNER:C99 ATTACK OF THE mini-mixes-SP1Banner_B.png;
 #BACKGROUND:magic/01-banner.lua;
 #PREVIEWVID:C99 ATTACK OF THE mini-mixes-SP1Preview.png;
 #CDTITLE:;
@@ -92,10 +92,11 @@
 816.500=IN002.mpg=1.000=0=0=1=StretchNormal==CrossFadeFastestFastest==,
 99999=-nosongbg-=1.000=0=0=0 
 ;
+#LASTSECONDHINT:353.686646;
 
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Infinity Train;
+#DESCRIPTION:INFINITY TRAIN;
 #CHARTSTYLE:1.1.0;
 #DIFFICULTY:Edit;
 #METER:99;

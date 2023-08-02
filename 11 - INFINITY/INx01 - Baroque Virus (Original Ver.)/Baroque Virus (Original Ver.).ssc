@@ -9,7 +9,7 @@
 #ORIGIN:;
 #CREDIT:
 ;
-#BANNER:Baroque Virus (Original Ver.)-banner.png;
+#BANNER:Baroque Virus (Original Ver.)-banner_B.png;
 #PREVIEWVID:pBaroque Virus (Original Ver.).mpg;
 #BACKGROUND:Baroque Virus (Original Ver.)-bg.png;
 #CDTITLE:;
@@ -33,11 +33,12 @@
 #BGCHANGES:-0.04000=INx01.mpg=1.00000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 
 ;
+#LASTSECONDHINT:116.375510;
 
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Infinity;
+#DESCRIPTION:INFINITY;
 #CHARTSTYLE:;
 #DIFFICULTY:Medium;
 #METER:9;
@@ -763,7 +764,7 @@
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Infinity;
+#DESCRIPTION:INFINITY;
 #CHARTSTYLE:;
 #DIFFICULTY:Hard;
 #METER:17;
@@ -1783,7 +1784,7 @@
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
-#DESCRIPTION:Infinity;
+#DESCRIPTION:INFINITY;
 #CHARTSTYLE:;
 #DIFFICULTY:Edit;
 #METER:11;
@@ -2623,7 +2624,7 @@
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
-#DESCRIPTION:Infinity;
+#DESCRIPTION:INFINITY;
 #CHARTSTYLE:;
 #DIFFICULTY:Edit;
 #METER:18;

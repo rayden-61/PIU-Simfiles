@@ -8,7 +8,7 @@
 #GENRE:;
 #ORIGIN:DECRYPT;
 #CREDIT:Nirvash & Nate;
-#BANNER:1719.png;
+#BANNER:1719_B.png;
 #BACKGROUND:1719-wide.png;
 #PREVIEWVID:../PW/title.mpg;
 #CDTITLE:;
@@ -28,7 +28,7 @@
 #SPEEDS:0.000=1.000=0.000=0;
 #SCROLLS:0.000=1.000;
 #LABELS:0.000=Song Start;
-#LASTSECONDHINT:107.240532;
+#LASTSECONDHINT:106.334667;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
 -0.500=012.mpg=1.000=0=0=1=StretchNormal====,
 99999=-nosongbg-=1.000=0=0=0 

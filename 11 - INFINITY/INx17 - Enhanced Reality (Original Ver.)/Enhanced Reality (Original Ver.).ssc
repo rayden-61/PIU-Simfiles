@@ -8,7 +8,7 @@
 #GENRE:;
 #ORIGIN:;
 #CREDIT:;
-#BANNER:Enhanced Reality-banner.png;
+#BANNER:Enhanced Reality-banner_B.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #BACKGROUND:Enhanced Reality-bg.png;
 #CDIMAGE:;
@@ -36,11 +36,12 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
+#LASTSECONDHINT:118.595918;
 
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Infinity;
+#DESCRIPTION:INFINITY;
 #CHARTSTYLE:1.1.0;
 #DIFFICULTY:Edit;
 #METER:19;

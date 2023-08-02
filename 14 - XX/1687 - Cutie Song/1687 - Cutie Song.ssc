@@ -8,7 +8,7 @@
 #GENRE:XROSS;
 #ORIGIN:;
 #CREDIT:Andamiro, The Resistance Simfiles [SofiaXY, Neox, Nirvash, Neto];
-#BANNER:1687.png;
+#BANNER:1687_B.png;
 #BACKGROUND:1687-wide.png;
 #PREVIEWVID:1687_P.mpg;
 #CDTITLE:;
@@ -28,7 +28,7 @@
 #SPEEDS:0.000=1.000=0.000=0;
 #SCROLLS:0.000=1.000;
 #LABELS:0.000=Song Start;
-#LASTSECONDHINT:105.166824;
+#LASTSECONDHINT:105.120000;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
 -0.295=1687.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 

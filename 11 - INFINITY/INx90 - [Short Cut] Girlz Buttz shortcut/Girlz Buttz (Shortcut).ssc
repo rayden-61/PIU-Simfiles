@@ -9,7 +9,7 @@
 #ORIGIN:;
 #CREDIT:;
 #SONGTYPE:SHORTCUT;
-#BANNER:Girlz Buttz (Shortcut)-bg.png;
+#BANNER:Girlz Buttz (Shortcut)-bg_B.png;
 #BACKGROUND:Girlz Buttz (Shortcut)-bg.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #JACKET:;
@@ -38,6 +38,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
+#LASTSECONDHINT:46.997188;
 
 #NOTEDATA:;
 #CHARTNAME:;

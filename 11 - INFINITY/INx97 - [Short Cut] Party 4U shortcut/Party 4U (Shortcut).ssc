@@ -9,7 +9,7 @@
 #ORIGIN:;
 #CREDIT:;
 #SONGTYPE:SHORTCUT;
-#BANNER:Party 4U (Shortcut)-banner.png;
+#BANNER:Party 4U (Shortcut)-banner_B.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #BACKGROUND:Party 4U (Shortcut)-bg.png;
 #VOLUME:145;
@@ -34,6 +34,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
+#LASTSECONDHINT:60.011791;
 
 #NOTEDATA:;
 #CHARTNAME:;

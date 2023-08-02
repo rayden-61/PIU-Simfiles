@@ -8,7 +8,7 @@
 #GENRE:;
 #ORIGIN:;
 #CREDIT:;
-#BANNER:Baroque Virus FULL-banner.png;
+#BANNER:Baroque Virus FULL-banner_B.png;
 #BACKGROUND:Baroque Virus FULL-bg.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #JACKET:;
@@ -39,11 +39,12 @@
 -0.500=IN002.mpg=1.000=1=0=0=CenteredLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 
 ;
+#LASTSECONDHINT:258.768980;
 
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:s18 Infinity;
+#DESCRIPTION:S18 INFINITY;
 #CHARTSTYLE:Hard;
 #DIFFICULTY:Edit;
 #METER:18;

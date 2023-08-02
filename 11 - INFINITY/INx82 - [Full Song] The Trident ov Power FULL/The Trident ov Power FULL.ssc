@@ -9,7 +9,7 @@
 #ORIGIN:;
 #CREDIT:;
 #SONGTYPE:FULLSONG;
-#BANNER:The Trident ov Power FULL-banner.png;
+#BANNER:The Trident ov Power FULL-banner_B.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #BACKGROUND:The Trident ov Power FULL-bg.png;
 #CDTITLE:;
@@ -35,11 +35,12 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
+#LASTSECONDHINT:209.076916;
 
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:Infinity;
+#DESCRIPTION:INFINITY;
 #CHARTSTYLE:1.1.0;
 #DIFFICULTY:Edit;
 #METER:19;

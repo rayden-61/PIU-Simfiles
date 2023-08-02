@@ -8,7 +8,7 @@
 #GENRE:;
 #ORIGIN:;
 #CREDIT:;
-#BANNER:The Ark Sailing Over Truth FULL-banner.png;
+#BANNER:The Ark Sailing Over Truth FULL-banner_B.png;
 #BACKGROUND:INC15-wide.png;
 #PREVIEWVID:pThe Ark Sailing Over Truth FULL.mpg;
 #JACKET:;
@@ -39,11 +39,12 @@
 -0.300=INC15.mpg=1.000=1=0=1=Centered==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 
 ;
+#LASTSECONDHINT:192.052245;
 
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:s18 Infinity;
+#DESCRIPTION:S18 INFINITY;
 #CHARTSTYLE:Challenge;
 #DIFFICULTY:Edit;
 #METER:18;

@@ -8,7 +8,7 @@
 #GENRE:;
 #ORIGIN:;
 #CREDIT:;
-#BANNER:Gargoyle FULL-banner.png;
+#BANNER:Gargoyle FULL-banner_B.png;
 #BACKGROUND:Gargoyle FULL-bg.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #JACKET:;
@@ -44,11 +44,12 @@
 -0.300=IN002.mpg=1.000=1=0=0=CenteredLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 
 ;
+#LASTSECONDHINT:387.200000;
 
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-single;
-#DESCRIPTION:s23 Infinity;
+#DESCRIPTION:S23 INFINITY;
 #CHARTSTYLE:Hard;
 #DIFFICULTY:Edit;
 #METER:23;
@@ -3997,7 +3998,7 @@
 #NOTEDATA:;
 #CHARTNAME:;
 #STEPSTYPE:pump-double;
-#DESCRIPTION:d24 Infinity;
+#DESCRIPTION:D24 INFINITY;
 #CHARTSTYLE:Hard;
 #DIFFICULTY:Edit;
 #METER:24;

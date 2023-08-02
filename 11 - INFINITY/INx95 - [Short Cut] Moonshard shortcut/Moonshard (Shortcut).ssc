@@ -9,7 +9,7 @@
 #ORIGIN:;
 #CREDIT:;
 #SONGTYPE:SHORTCUT;
-#BANNER:Moonshard (Shortcut)-bg.png;
+#BANNER:Moonshard (Shortcut)-bg_B.png;
 #BACKGROUND:Moonshard (Shortcut)-bg.png;
 #PREVIEWVID:SongMovies/IN002.mpg;
 #JACKET:;
@@ -38,6 +38,7 @@
 #KEYSOUNDS:;
 #ATTACKS:
 ;
+#LASTSECONDHINT:38.846304;
 
 #NOTEDATA:;
 #CHARTNAME:;
