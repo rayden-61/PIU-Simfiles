@@ -7,4 +7,4 @@ It is recommended to clone the repository through something such as GitHub Deskt
 This repository only contains the simfiles (.ssc) themselves, for all remaining media files you can download them through [here](https://drive.google.com/drive/folders/1pO9rbaPUwTTDFuEo_4tX8S1BEwmfukeF?usp=sharing). To install the media files you simply need to merge both folders of each song group, all song folders should be populated with their media files without conflicts by doing so.
 
 ## Credits
-All rights go to Andamiro and original authors of songs. These simfiles would also not be possible without the StepF2 and The Resistance Simfiles team, who have decrypted and recreated the content provided here. Shoutouts to kkclue for going through the trouble of updating and reorganizing all of the updates supplied them.
+All rights go to Andamiro and original authors of songs. These simfiles would also not be possible without the StepF2 and The Resistance Simfiles team, who have decrypted and recreated the content provided here. Shoutouts to kkclue for going through the trouble of updating and reorganizing all of the updates supplied by them.
