@@ -7,13 +7,12 @@
 #ARTISTTRANSLIT:;
 #GENRE:;
 #ORIGIN:;
-#CREDIT:
-;
-#BANNER:Baroque Virus (Original Ver.)-banner_B.png;
+#CREDIT:;
+#BANNER:Baroque Virus (Original Ver.)-banner.png;
 #PREVIEWVID:pBaroque Virus (Original Ver.).mpg;
 #BACKGROUND:Baroque Virus (Original Ver.)-bg.png;
 #CDTITLE:;
-#MUSIC:Baroque Virus.ogg;
+#MUSIC:Baroque Virus (Original Ver.).ogg;
 #OFFSET:0.00200;
 #SAMPLESTART:81.79601;
 #SAMPLELENGTH:16.00000;

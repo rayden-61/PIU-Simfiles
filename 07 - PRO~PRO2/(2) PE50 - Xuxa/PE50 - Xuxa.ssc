@@ -8,11 +8,11 @@
 #GENRE:WORLD MUSIC;
 #ORIGIN:;
 #CREDIT:Andamiro;
-#BANNER:../../../songs/16-FIESTA 2/(2) 1236 - Xuxa/1236.png;
-#BACKGROUND:../../../songs/16-FIESTA 2/(2) 1236 - Xuxa/1236-wide.png;
-#PREVIEWVID:songs/16-FIESTA 2/(2) 1236 - Xuxa/1236_P.mpg;
+#BANNER:../../10 - FIESTA 2/(2) 1236 - Xuxa/1236_B.png;
+#BACKGROUND:../../10 - FIESTA 2/(2) 1236 - Xuxa/1236-wide.png;
+#PREVIEWVID:../../10 - FIESTA 2/(2) 1236 - Xuxa/1236_P.mpg;
 #CDTITLE:;
-#MUSIC:songs/16-FIESTA 2/(2) 1236 - Xuxa/1236.MP3;
+#MUSIC:../../10 - FIESTA 2/(2) 1236 - Xuxa/1236.MP3;
 #OFFSET:-0.031000;
 #SAMPLESTART:12.020000;
 #SAMPLELENGTH:12.000000;

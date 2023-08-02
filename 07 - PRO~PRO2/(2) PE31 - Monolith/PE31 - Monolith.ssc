@@ -8,11 +8,11 @@
 #GENRE:WORLD MUSIC;
 #ORIGIN:;
 #CREDIT:Andamiro;
-#BANNER:../../../songs/16-FIESTA 2/(2) 1201 - Monolith/1201.png;
-#BACKGROUND:../../../songs/16-FIESTA 2/(2) 1201 - Monolith/1201-wide.png;
-#PREVIEWVID:songs/16-FIESTA 2/(2) 1201 - Monolith/1201_P.mpg;
+#BANNER:../../10 - FIESTA 2/(2) 1201 - Monolith/1201_B.png;
+#BACKGROUND:../../10 - FIESTA 2/(2) 1201 - Monolith/1201-wide.png;
+#PREVIEWVID:../../10 - FIESTA 2/(2) 1201 - Monolith/1201_P.mpg;
 #CDTITLE:;
-#MUSIC:songs/16-FIESTA 2/(2) 1201 - Monolith/1201.MP3;
+#MUSIC:../../10 - FIESTA 2/(2) 1201 - Monolith/1201.MP3;
 #OFFSET:-0.021000;
 #SAMPLESTART:80.800079;
 #SAMPLELENGTH:12.980000;
