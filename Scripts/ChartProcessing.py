@@ -20,8 +20,10 @@ for subdir, dirs, files in os.walk(dir_path):
         if file.endswith(".MP3") or file.endswith(".mp3") or file.endswith(".OGG") or file.endswith(".ogg"):
             # Grab song length for last second hint
             songpath = os.path.join(subdir, file)
-            # TODO: Figure out song path error
+            # If on Linux, comment the first line and uncomment the second one. Or just remove the .exe extension from ffprobe
             songlength = os.popen('ffprobe.exe -i "' + songpath + '" -show_entries format=duration -v quiet -of csv="p=0"').read()[:-1]
+            #songlength = os.popen('ffprobe -i "' + songpath + '" -show_entries format=duration -v quiet -of csv="p=0"').read()[:-1]
+            
             #print(songpath + " = " + songlength)
             
             cur_dir_path = subdir
