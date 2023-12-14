@@ -21,8 +21,8 @@ for subdir, dirs, files in os.walk(dir_path):
             # Grab song length for last second hint
             songpath = os.path.join(subdir, file)
             # If on Linux, comment the first line and uncomment the second one. Or just remove the .exe extension from ffprobe
-            songlength = os.popen('ffprobe.exe -i "' + songpath + '" -show_entries format=duration -v quiet -of csv="p=0"').read()[:-1]
-            #songlength = os.popen('ffprobe -i "' + songpath + '" -show_entries format=duration -v quiet -of csv="p=0"').read()[:-1]
+            #songlength = os.popen('ffprobe.exe -i "' + songpath + '" -show_entries format=duration -v quiet -of csv="p=0"').read()[:-1]
+            songlength = os.popen('ffprobe -i "' + songpath + '" -show_entries format=duration -v quiet -of csv="p=0"').read()[:-1]
             
             #print(songpath + " = " + songlength)
             
@@ -106,5 +106,6 @@ for subdir, dirs, files in os.walk(dir_path):
                         ssc.charts = charts
                         print("\n")
                         
+                        # Uncomment the two bottom lines to apply all changes to the ssc file!
                         #with open(os.path.join(subdir, file), 'w', encoding='utf-8') as outfile:
                             #ssc.serialize(outfile)
