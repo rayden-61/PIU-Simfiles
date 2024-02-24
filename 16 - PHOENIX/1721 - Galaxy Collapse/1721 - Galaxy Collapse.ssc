@@ -10,7 +10,7 @@
 #CREDIT:Andamiro, The Resistance Simfiles;
 #BANNER:1721_B.png;
 #BACKGROUND:1721.png;
-#PREVIEWVID:;
+#PREVIEWVID:1721.png;
 #CDTITLE:;
 #MUSIC:1721.mp3;
 #OFFSET:-0.035000;
@@ -44,8 +44,8 @@
 #SPEEDS:0.000=1.000=0.000=0;
 #SCROLLS:0.000=1.000;
 #LABELS:0.000=Song Start;
-#BGCHANGES:-10000.000=Black/Black.png=1.000=1=0=1===CrossFade==,
-0.000=1721.png=1.000=1=0=0=StretchNoLoop==CrossFade==,
+#BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
+-0.200=014.mpg=1.000=0=0=1=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 
 ;
 #LASTSECONDHINT:119.400000;
