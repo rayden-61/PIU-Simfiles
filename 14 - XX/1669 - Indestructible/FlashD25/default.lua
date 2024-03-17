@@ -2,12 +2,12 @@ local nightmare = false;
 
 if GAMESTATE:IsSideJoined(PLAYER_1) then
 	local steps = GAMESTATE:GetCurrentSteps(PLAYER_1);
-	if steps:GetStepsType() == 'StepsType_Pump_Double' and steps:GetDifficulty() == 'Difficulty_Edit' and steps:GetDescription() == 'D25 NEW' then
+	if steps:GetStepsType() == 'StepsType_Pump_Double' and steps:GetDifficulty() == 'Difficulty_Edit' and steps:GetDescription() == 'D25' then
 		nightmare = true;
 	end;
 elseif GAMESTATE:IsSideJoined(PLAYER_2) then
 	local steps = GAMESTATE:GetCurrentSteps(PLAYER_2);
-	if steps:GetStepsType() == 'StepsType_Pump_Double' and steps:GetDifficulty() == 'Difficulty_Edit' and steps:GetDescription() == 'D25 NEW' then
+	if steps:GetStepsType() == 'StepsType_Pump_Double' and steps:GetDifficulty() == 'Difficulty_Edit' and steps:GetDescription() == 'D25' then
 		nightmare = true;
 	end;
 end;
