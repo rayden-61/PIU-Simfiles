@@ -5,7 +5,7 @@
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
-#GENRE:109.944000;
+#GENRE:ORIGINAL;
 #ORIGIN:;
 #CREDIT:Andamiro;
 #BANNER:1427_B.png;
@@ -63,6 +63,7 @@
 #FAKES:;
 #LABELS:0.000000=Song Start
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 00000
 00000
@@ -626,6 +627,7 @@
 #LABELS:0.000000=Song Start
 ;
 #CHARTSTYLE:ACTIVE;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 00000
 00000
@@ -1386,6 +1388,7 @@
 #LABELS:0.000000=Song Start
 ;
 #CHARTSTYLE:ACTIVE;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 00000
 00000
@@ -2860,6 +2863,7 @@
 #FAKES:;
 #LABELS:0.000000=Song Start
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 00000
 00000
@@ -4478,6 +4482,7 @@
 #FAKES:;
 #LABELS:0.000000=Song Start
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 00000
 00000
@@ -5965,6 +5970,7 @@
 #LABELS:0.000000=Song Start
 ;
 #DISPLAYBPM:192.000000;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 00000
 00000
@@ -7409,6 +7415,7 @@
 #LABELS:0.000000=Song Start
 ;
 #DISPLAYBPM:24.000000;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 00000
 00000
@@ -10551,6 +10558,7 @@
 ,131.562500=CH46
 ,135.625000=CH47
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 
 00000
@@ -12100,6 +12108,7 @@
 #LABELS:0.000000=Song Start
 ;
 #ATTACKS:TIME=2.580000:LEN=0.310000:MODS=Drunk, Overhead, Normal:TIME=7.420000:LEN=0.470000:MODS=Drunk, Overhead, Normal:TIME=11.640000:LEN=0.470000:MODS=Boost, Dizzy, -35% Mini, 50% Tornado, Twirl, Overhead, Normal:TIME=21.330000:LEN=0.630000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=17.260000:LEN=0.160000:MODS=Dizzy, Invert, Twirl, Roll, Overhead, Normal:TIME=26.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=29.450001:LEN=0.310000:MODS=Drunk, Dizzy, Mini, Invert, Bumpy, Twirl, Overhead, Normal:TIME=31.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=32.320000:LEN=0.100000:MODS=Bumpy, Overhead, Normal:TIME=35.080002:LEN=0.630000:MODS=Invert, Overhead, Normal:TIME=36.330002:LEN=0.630000:MODS=Mini, Twirl, Overhead, Normal:TIME=38.200001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=39.450001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=41.950001:LEN=0.310000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=42.580002:LEN=0.310000:MODS=Overhead, Normal:TIME=42.580002:LEN=18.750000:MODS=Reverse, Hallway, Normal:TIME=51.009998:LEN=0.310000:MODS=Drunk, Dizzy, Twirl, Roll, Overhead, Normal:TIME=62.580002:LEN=9.690000:MODS=Mini, Hallway, Normal:TIME=63.040001:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=63.669998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=51.009998:LEN=0.310000:MODS=Confusion, -35% Mini, Overhead, Normal:TIME=65.540001:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=66.169998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=72.580002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=73.830002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=75.080002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=76.330002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=52.580002:LEN=8.750000:MODS=-35% Mini, Distant, Normal:TIME=68.040001:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=68.669998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=70.540001:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=71.169998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=82.419998:LEN=2.340000:MODS=Overhead, Normal:TIME=82.580002:LEN=1.250000:MODS=Drunk, Dizzy, Confusion, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Reverse, Dark, Overhead, Normal:TIME=80.080002:LEN=0.160000:MODS=Drunk, Dizzy, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=80.389999:LEN=0.160000:MODS=Drunk, Dizzy, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=80.699997:LEN=0.160000:MODS=Drunk, Dizzy, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=81.010002:LEN=0.160000:MODS=Drunk, Dizzy, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=85.080002:LEN=20.000000:MODS=Expand, Bumpy, Beat, Overhead, Normal:TIME=95.080002:LEN=10.000000:MODS=Confusion, Dark, Space, Normal:TIME=100.080002:LEN=5.000000:MODS=-35% Mini, Incoming, Normal:TIME=105.080002:LEN=5.000000:MODS=Drunk, Dizzy, Confusion, Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Dark, Hallway, Normal:TIME=77.809998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Bumpy, Beat, Overhead, Normal:TIME=78.430000:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Bumpy, Beat, Overhead, Normal:TIME=79.139999:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Bumpy, Beat, Overhead, Normal:TIME=79.760002:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Bumpy, Beat, Overhead, Normal:TIME=22.580000:LEN=18.750000:MODS=Bumpy, Overhead, Normal:TIME=2.580000:LEN=0.310000:MODS=Drunk, Overhead, Normal:TIME=7.420000:LEN=0.470000:MODS=Drunk, Overhead, Normal:TIME=11.640000:LEN=0.470000:MODS=Boost, Dizzy, -35% Mini, 50% Tornado, Twirl, Overhead, Normal:TIME=21.330000:LEN=0.630000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=17.260000:LEN=0.160000:MODS=Dizzy, Invert, Twirl, Roll, Overhead, Normal:TIME=26.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=29.450001:LEN=0.310000:MODS=Drunk, Dizzy, Mini, Invert, Bumpy, Twirl, Overhead, Normal:TIME=31.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=32.320000:LEN=0.100000:MODS=Bumpy, Overhead, Normal:TIME=35.080002:LEN=0.630000:MODS=Invert, Overhead, Normal:TIME=36.330002:LEN=0.630000:MODS=Mini, Twirl, Overhead, Normal:TIME=38.200001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=39.450001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=41.950001:LEN=0.310000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=42.580002:LEN=0.310000:MODS=Overhead, Normal:TIME=42.580002:LEN=18.750000:MODS=Reverse, Hallway, Normal:TIME=51.009998:LEN=0.310000:MODS=Drunk, Dizzy, Twirl, Roll, Overhead, Normal:TIME=62.580002:LEN=9.690000:MODS=Mini, Hallway, Normal:TIME=63.040001:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=63.669998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=51.009998:LEN=0.310000:MODS=Confusion, -35% Mini, Overhead, Normal:TIME=65.540001:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=66.169998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=72.580002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=73.830002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=75.080002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=76.330002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=2.580000:LEN=0.310000:MODS=Drunk, Overhead, Normal:TIME=7.420000:LEN=0.470000:MODS=Drunk, Overhead, Normal:TIME=11.640000:LEN=0.470000:MODS=Boost, Dizzy, -35% Mini, 50% Tornado, Twirl, Overhead, Normal:TIME=21.330000:LEN=0.630000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=17.260000:LEN=0.160000:MODS=Dizzy, Invert, Twirl, Roll, Overhead, Normal:TIME=26.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=29.450001:LEN=0.310000:MODS=Drunk, Dizzy, Mini, Invert, Bumpy, Twirl, Overhead, Normal:TIME=31.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=32.320000:LEN=0.100000:MODS=Bumpy, Overhead, Normal:TIME=35.080002:LEN=0.630000:MODS=Invert, Overhead, Normal:TIME=36.330002:LEN=0.630000:MODS=Mini, Twirl, Overhead, Normal:TIME=38.200001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=39.450001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=41.950001:LEN=0.310000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=42.580002:LEN=0.310000:MODS=Overhead, Normal:TIME=42.580002:LEN=18.750000:MODS=Reverse, Hallway, Normal:TIME=51.009998:LEN=0.310000:MODS=Drunk, Dizzy, Twirl, Roll, Overhead, Normal:TIME=62.580002:LEN=9.690000:MODS=Mini, Hallway, Normal:TIME=63.040001:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=63.669998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=51.009998:LEN=0.310000:MODS=Confusion, -35% Mini, Overhead, Normal:TIME=65.540001:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=66.169998:LEN=0.160000:MODS=Drunk, Dizzy, Confusion, Invert, Tipsy, Bumpy, Twirl, Overhead, Normal:TIME=72.580002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=73.830002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=75.080002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=76.330002:LEN=0.310000:MODS=-35% Mini, Overhead, Normal:TIME=2.580000:LEN=0.310000:MODS=Drunk, Overhead, Normal:TIME=7.420000:LEN=0.470000:MODS=Drunk, Overhead, Normal:TIME=11.640000:LEN=0.470000:MODS=Boost, Dizzy, -35% Mini, 50% Tornado, Twirl, Overhead, Normal:TIME=21.330000:LEN=0.630000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=17.260000:LEN=0.160000:MODS=Dizzy, Invert, Twirl, Roll, Overhead, Normal:TIME=26.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=29.450001:LEN=0.310000:MODS=Drunk, Dizzy, Mini, Invert, Bumpy, Twirl, Overhead, Normal:TIME=31.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=32.320000:LEN=0.100000:MODS=Bumpy, Overhead, Normal:TIME=35.080002:LEN=0.630000:MODS=Invert, Overhead, Normal:TIME=36.330002:LEN=0.630000:MODS=Mini, Twirl, Overhead, Normal:TIME=38.200001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=39.450001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=41.950001:LEN=0.310000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=42.580002:LEN=0.310000:MODS=Overhead, Normal:TIME=42.580002:LEN=18.750000:MODS=Reverse, Hallway, Normal:TIME=51.009998:LEN=0.310000:MODS=Drunk, Dizzy, Twirl, Roll, Overhead, Normal:TIME=2.580000:LEN=0.310000:MODS=Drunk, Overhead, Normal:TIME=7.420000:LEN=0.470000:MODS=Drunk, Overhead, Normal:TIME=11.640000:LEN=0.470000:MODS=Boost, Dizzy, -35% Mini, 50% Tornado, Twirl, Overhead, Normal:TIME=21.330000:LEN=0.630000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=17.260000:LEN=0.160000:MODS=Dizzy, Invert, Twirl, Roll, Overhead, Normal:TIME=26.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=29.450001:LEN=0.310000:MODS=Drunk, Dizzy, Mini, Invert, Bumpy, Twirl, Overhead, Normal:TIME=31.950001:LEN=0.310000:MODS=Confusion, 50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=32.320000:LEN=0.100000:MODS=Bumpy, Overhead, Normal:TIME=35.080002:LEN=0.630000:MODS=Invert, Overhead, Normal:TIME=36.330002:LEN=0.630000:MODS=Mini, Twirl, Overhead, Normal:TIME=38.200001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=39.450001:LEN=0.310000:MODS=Drunk, Dizzy, -35% Mini, Twirl, Roll, Overhead, Normal:TIME=41.950001:LEN=0.310000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=42.580002:LEN=0.310000:MODS=Overhead, Normal:TIME=2.580000:LEN=0.310000:MODS=Drunk, Overhead, Normal:TIME=7.420000:LEN=0.470000:MODS=Drunk, Overhead, Normal:TIME=11.640000:LEN=0.470000:MODS=Boost, Dizzy, -35% Mini, 50% Tornado, Twirl, Overhead, Normal:TIME=21.330000:LEN=0.630000:MODS=Drunk, Dizzy, Confusion, -35% Mini, Flip, Invert, 50% Tornado, Tipsy, Bumpy, Beat, Twirl, Roll, Overhead, Normal:TIME=17.260000:LEN=0.160000:MODS=Dizzy, Invert, Twirl, Roll, Overhead, Normal:TIME=26.950001:LEN=0.310000:MODS=50% Tornado, Tipsy, Beat, Roll, Overhead, Normal:TIME=101.341003:LEN=0.156250:MODS=Invert, Overhead, Normal:TIME=102.591003:LEN=0.156250:MODS=Flip, Invert, Overhead, Normal:TIME=103.216003:LEN=0.156250:MODS=Flip, Invert, Overhead, Normal:TIME=103.841003:LEN=0.039063:MODS=Confusion, Flip, Overhead, Normal:TIME=104.075378:LEN=0.039063:MODS=Confusion, Invert, Overhead, Normal:TIME=104.309753:LEN=0.039063:MODS=Confusion, Flip, Overhead, Normal:TIME=104.544128:LEN=0.039063:MODS=Confusion, Invert, Overhead, Normal:TIME=104.778503:LEN=0.039063:MODS=Confusion, Flip, Overhead, Normal:TIME=104.934753:LEN=0.039063:MODS=Confusion, Invert, Overhead, Normal:TIME=82.591003:LEN=1.250000:MODS=Overhead, Normal:TIME=105.091003:LEN=22.500000:MODS=Dark, Overhead, Normal;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 00000
 00000
@@ -14018,6 +14027,7 @@
 #FAKES:;
 #LABELS:0.000000=Song Start
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 000000
 000000
@@ -15117,6 +15127,7 @@
 ,21.250000=CH3
 ,22.250000=CH4
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 0000000000
 0000000000
@@ -15543,6 +15554,7 @@
 #LABELS:0.000000=Song Start
 ;
 #CHARTSTYLE:ACTIVE;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 0000000000
 0000000000
@@ -16463,6 +16475,7 @@
 #FAKES:;
 #LABELS:0.000000=Song Start
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 0000000000
 0000000000
@@ -17411,6 +17424,7 @@
 #FAKES:;
 #LABELS:0.000000=Song Start
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 0000000000
 0000000000
@@ -18794,6 +18808,7 @@
 ,169.875000=CH65 - Smooth
 ,172.875000=CH66 - Smooth
 ;
+#LASTSECONDHINT:109.944000;
 #NOTES:
 
 0000000000

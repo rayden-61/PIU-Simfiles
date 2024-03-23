@@ -35,19 +35,17 @@ for subdir, dirs, files in os.walk(dir_path):
                         ssc = simfile.open(os.path.join(subdir, file))
                         charts = ssc.charts
                         
-                        # Correct banner name
-                        if not re.search("_B", ssc.banner.upper()):
-                            ssc.banner = ssc.banner[:-4] + "_B.png"
-                            print("Added dedicated banner: " + ssc.banner)
-                        
                         # Process last second hint properly
                         ssc.lastsecondhint = str(songlength)
-                        ssc.genre = str(songlength)
+                        ssc.genre = ssc['SONGCATEGORY']
                         print("Last second hint: " + str(ssc.lastsecondhint))
                             
                         ssc.charts = charts
+                        for chart in charts:
+                            chart['LASTSECONDHINT'] = str(songlength)
                         print("\n")
                         
                         # Uncomment the two bottom lines to apply all changes to the ssc file!
                         with open(os.path.join(subdir, file), 'w', encoding='utf-8') as outfile:
                             ssc.serialize(outfile)
+

@@ -5,7 +5,7 @@
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
-#GENRE:254.100317;
+#GENRE:WORLD MUSIC;
 #ORIGIN:Infinity;
 #CREDIT:TaroNuke;
 #BANNER:banner_B.png;
@@ -370,6 +370,7 @@
 #LABELS:0.000000=Song Start
 ;
 #ATTACKS:TIME=36.000000:LEN=10.000000:MODS=*10 stealth:TIME=241.627823:LEN=0.011246:MODS=Boost, Brake, Confusion, Flip, Invert, XMode, Reverse, Centered, Dark, Hallway, Normal;
+#LASTSECONDHINT:254.100317;
 #NOTES:
 00000
 00000
@@ -1777,6 +1778,7 @@ FFFFF
 #LABELS:0.000000=Song Start
 ;
 #ATTACKS:TIME=36.000000:LEN=10.000000:MODS=*10 stealth:TIME=241.627823:LEN=0.011246:MODS=Boost, Brake, Confusion, Flip, Invert, XMode, Reverse, Centered, Dark, Hallway, Normal;
+#LASTSECONDHINT:254.100317;
 #NOTES:
 00000
 00000
@@ -3372,6 +3374,7 @@ FFFFF
 #LABELS:0.000000=Song Start
 ;
 #ATTACKS:TIME=36.000000:LEN=10.000000:MODS=*10 stealth:TIME=241.627823:LEN=0.011246:MODS=Boost, Brake, Confusion, Flip, Invert, XMode, Reverse, Centered, Dark, Hallway, Normal;
+#LASTSECONDHINT:254.100317;
 #NOTES:
 
 00000
@@ -5632,6 +5635,7 @@ FFFFF
 #LABELS:0.000000=Song Start
 ;
 #ATTACKS:TIME=36.000000:LEN=10.000000:MODS=*10 stealth:TIME=241.627823:LEN=0.011246:MODS=Boost, Brake, Confusion, Flip, Invert, XMode, Reverse, Centered, Dark, Hallway, Normal;
+#LASTSECONDHINT:254.100317;
 #NOTES:
 00000
 00000
