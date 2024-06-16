@@ -68,6 +68,7 @@ end
 
 aspect = sw/sh
 
+--mod_firstSeenBeat = GAMESTATE:GetSongBeat();
 mod_firstSeenBeat = GAMESTATE:GetSongBeat();
 
 mawaru_thisgame = 1;
@@ -1283,12 +1284,13 @@ for orb=1,60 do
 	}
 end
 
+--Botw handler
 t[#t+1] = Def.ActorFrame{
 	OnCommand=cmd(visible,false),
 	Botw_Orbs,
 	BotwOnMessageCommand=function(self)
 		self:visible(true);
-		GAMESTATE:ApplyGameCommand("mod,dark");
+		
 		self:playcommand('SetUpBotw');
 	end,
 	Def.Quad{
@@ -1395,10 +1397,7 @@ t[#t+1] = Def.ActorFrame{
 			end
 		end;
 	},
-	BotwAwayMessageCommand=function(self)
-		self:visible(false);
-		GAMESTATE:ApplyGameCommand("mod,no dark");
-	end;
+	BotwAwayMessageCommand=cmd(visible,false);
 	Def.ActorFrame{
 		OnCommand=cmd(zoom,0.7);
 		InitCommand=function(self)
@@ -2391,6 +2390,7 @@ t[#t+1] = Def.Sprite{
 					local poss = PSS:GetPossibleDancePoints()
 					local act = PSS:GetActualDancePoints()
 					local bonus = ((mawaru_ratings[pn]/200)*(poss/100))
+					--CKDUR: not in SM5 :(
 					--PSS:SetActualDancePoints(act+bonus);
 					
 				end
@@ -2666,7 +2666,7 @@ end
 curmod = 1;
 --{beat,mod,player}
 mods = {
-	{364,'10 reverse,*10000 -20000 move0,*10000 -20000 move1,*10000 20000 move3,*10000 20000 move4'},
+	{364,'*10000 -20000 move0,*10000 -20000 move1,*10000 20000 move3,*10000 20000 move4'}, --Remove reverse command
 	{408,'no reverse,*10000 no move0,*10000 no move1,*10000 no move3,*10000 no move4'},
 	
 	{513-.1,'*5 100 hallway'},
@@ -2847,6 +2847,8 @@ actions = {
 	{176,'GonzalesAway'},
 	{176,function() mawaru_opendoor(150*2) end},
 	
+	--Spin 1
+	--I'm not gonna fix it.
 	{188,function()
 		for pn=1,2 do
 			if _G['P'..pn] then
@@ -2860,6 +2862,7 @@ actions = {
 		end
 	end},
 	
+	--Spin 2
 	{204,function()
 		for pn=1,2 do
 			if _G['P'..pn] then
@@ -2897,19 +2900,23 @@ actions = {
 	{358,'FlashRed'},
 	{358,function() mawaru_displayBPMmax = 190; end},
 	{360,function() mawaru_dotext(190*2,10) end},
+	
+	--Move the note field down for botw. Originally was sh/2+190
+	--setting it to _G['P'..pn]:y(220); will center it but leaves the combo ticker
 	{364,function()
 		for pn=1,2 do
 			if _G['P'..pn] then
-				_G['P'..pn]:y(sh/2+190);
+				_G['P'..pn]:y(220);
 			end
 		end
 	end},
 	{368,'BotwOn'},
+
 	{369,function() mawaru_opendoor(190*2) end},
 	
 	{374,'BotwLand'},
 	{375,function() botw_canact = {true,true} end},
-	
+
 	{405,function() mawaru_closedoor(190*2) end},
 	{405,function() mawaru_dotext(190*2,11) end},
 	{408,function()
@@ -2955,6 +2962,15 @@ actions = {
 		mawaru_jon:sleep(0);
 		mawaru_jon:diffusealpha(0);
 	end},
+	
+	{503,function()
+		for pn=1,2 do
+			if _G['P'..pn] then
+				_G['P'..pn]:y(0);
+			end
+		end
+	end},
+
 	{508,function() mawaru_opendoor(210/1.5,true)
 	
 		for pn=1,2 do
