@@ -1,0 +1,23 @@
+-English-
+Drop unzipped song packs / channel folders containing song folders here.
+Basic structure should look something like this:
+
+"./stepp1-plus/Songs/01 - My Songs Channel/My Song/My Song.ssc"
+
+-Русский-
+Скиньте сюда разархивированные паки песен / папки каналов, содержащие папки с песнями.
+Основная структура должна выглядеть примерно так:
+
+"./stepp1-plus/Songs/01 - My Songs Channel/My Song/My Song.ssc"
+
+-Español-
+Suelte aquí los paquetes de canciones descomprimidos / carpetas de canales que contengan carpetas de canciones.
+Estructura básica debe ser algo como esto:
+
+"./stepp1-plus/Songs/01 - My Songs Channel/My Song/My Song.ssc"
+
+-Português-
+Solte pacotes de músicas descompactados / pastas de canais contendo pastas de músicas aqui.
+A estrutura básica deve ser semelhante a esta:
+
+"./stepp1-plus/Songs/01 - My Songs Channel/My Song/My Song.ssc"
