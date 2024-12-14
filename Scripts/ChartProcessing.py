@@ -100,6 +100,8 @@ for subdir, dirs, files in os.walk(dir_path):
                             # Add generic credit if blank
                             if chart.credit == "":
                                 chart.credit = "ANDAMIRO"
+                            
+                            chart.chartstyle = "ACTIVE"
                                 
                             print("Chart: " + redundant + " / Diff: " + chart.difficulty + " / Chart description: " + chart.description)
                             
@@ -107,5 +109,5 @@ for subdir, dirs, files in os.walk(dir_path):
                         print("\n")
                         
                         # Uncomment the two bottom lines to apply all changes to the ssc file!
-                        #with open(os.path.join(subdir, file), 'w', encoding='utf-8') as outfile:
-                            #ssc.serialize(outfile)
+                        with open(os.path.join(subdir, file), 'w', encoding='utf-8') as outfile:
+                            ssc.serialize(outfile)
