@@ -16,7 +16,7 @@ local characters = Def.ActorFrame{
 		--Bounceend doesn't exist in StepF2 so reimplement the function by copying from 02 ActorDef. -SF
 		SpawnCommand=function(self)
 			--Equivalent of bounceend(0.3)
-			self:tween( 0.3, "TweenType_Bezier", BounceEndBezier )
+			self:decelerate(0.3)
 			self:zoom(1) 
 		end,
 		SpawnQCommand=cmd(zoom,1),
