@@ -29,7 +29,7 @@
 #LABELS:0.000=Song Start;
 #LASTSECONDHINT:56.400002;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
--0.350=default.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
+-0.350=007.mpg=1.000=1=0=0=StretchNoLoop==CrossFade==,
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 

@@ -30,7 +30,7 @@
 #LABELS:0.000=Song Start;
 #LASTSECONDHINT:98.880000;
 #BGCHANGES:-10000.000=black.mpg=1.000=0=0=1=====,
--0.300=default.mpg=1.000=0=0=0=StretchNoLoop====,
+-0.300=000.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 
 ;
 

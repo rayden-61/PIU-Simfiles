@@ -29,7 +29,7 @@
 #LABELS:0.000=Song Start;
 #LASTSECONDHINT:174.072000;
 #BGCHANGES:-10000.000=black.mpg=1.000=1=0=1===CrossFade==,
--2.300=default.mpg=1.000=0=0=0=StretchNoLoop====,
+-2.300=002.mpg=1.000=0=0=0=StretchNoLoop====,
 99999=-nosongbg-=1.000=0=0=0 
 ;
 
