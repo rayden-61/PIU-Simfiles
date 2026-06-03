@@ -26546,7 +26546,7 @@ F000000000
 ;
 
 
-/---------------pump-single - S23 UCS IZN----------------
+//---------------pump-single - S23 UCS IZN----------------
 #NOTEDATA:;
 #STEPSTYPE:pump-single;
 #DESCRIPTION:S23 UCS IZN;
